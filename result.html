@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <title>Results</title>
+</head>
+
+<body>
+  <div style="height: 3em;"></div>
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col">
+        <h1>Results</h1>
+      </div>
+    </div>
+    <div style="height: 2em;"></div>
+    <div id="result">
+      <div class="row justify-content-md-center" v-for="type in Object.keys(stats)">
+        <div class="col">
+          <h3>{{ type }}</h3>
+          <table class="table table-hover text-right">
+            <thead class="thead-dark">
+              <tr>
+                <th scope="col">Name</th>
+                <th scope="col"># 1</th>
+                <th scope="col"># 2</th>
+                <th scope="col"># 3</th>
+                <th scope="col"># 4</th>
+                <th scope="col"># 5</th>
+                <th scope="col">Average</th>
+                <th scope="col">Finished</th>
+                <th scope="col">Progress</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr v-for="name in Object.keys(stats[type])">
+                <th scope="row">{{ name }}</th>
+                <td>{{ stats[type][name].score1 }}</td>
+                <td>{{ stats[type][name].score2 }}</td>
+                <td>{{ stats[type][name].score3 }}</td>
+                <td>{{ stats[type][name].score4 }}</td>
+                <td>{{ stats[type][name].score5 }}</td>
+                <td>{{ stats[type][name].average.toFixed(2) }}</td>
+                <td>{{ stats[type][name].finished }}</td>
+                <td>{{ (stats[type][name].progress * 100).toFixed(1) }}%</td>
+              </tr>
+            </tbody>
+          </table>
+          <div style="height: 1em;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var result = new Vue({
+      el: '#result',
+      data: {
+        stats: {
+          'seq2seq': {
+            'abc': {
+              score1: 2,
+              score2: 3,
+              score3: 8,
+              score4: 2,
+              score5: 1,
+              average: 3.1,
+              finished: 14,
+              progress: 0.23
+            }
+          },
+          'kw-seq2seq': {
+            'abc': {
+              score1: 2,
+              score2: 3,
+              score3: 8,
+              score4: 2,
+              score5: 1,
+              average: 3.1,
+              finished: 14,
+              progress: 0.23
+            }
+          }
+        }
+      }
+    })
+
+    $.ajax({
+      type: "GET",
+      url: "/result_data",
+      success: function (data) {
+        console.log(data)
+        result.stats = data
+      },
+      failure: function (error) {
+        alert(error);
+      }
+    })
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

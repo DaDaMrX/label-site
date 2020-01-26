@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <title>Dialogue Ranking</title>
+</head>
+
+<body>
+  <nav id="counter" class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <span class="navbar-brand">Dialogue Ranking</span>
+    <span class="navbar-brand">[[name]]</span>
+    <span class="navbar-brand">{{ finished }} / {{ total }} &nbsp;[{{ (finished / total * 100).toFixed(0) }}%]</span>
+  </nav>
+
+  <div style="height: 5em;"></div>
+
+  <nav id='page' aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+      <li class="page-item"><a class="page-link" @click="changePageIdx(-1)" href="#">Previous</a></li>
+      <li v-for="idx in page_idx" class="page-item" @click="setPageIdx(idx)" :class="getActive(idx)"><a class="page-link" href="#">{{ idx }}</a></li>
+      <li class="page-item"><a class="page-link" @click="changePageIdx(1)" href="#">Next</a></li>
+      </li>
+    </ul>
+  </nav>
+
+  <div id="app" class="container">
+    <div class="row justify-content-md-center">
+      <div class="col-md-10">
+        <div v-for="(dialog, dialog_index) in page_dialogs">
+          <div class="row">
+
+            <div class="col-md-2 text-right">
+              <h5>Score</h5> <br>
+              <h1 class="text-danger">{{ dialog.score }}</h1>
+            </div>
+
+            <div class="col-md-9">
+              <ul class="list-group">
+                <li class="list-group-item bg-dark text-light" style="font-weight: bold;">Dialog
+                  &nbsp;{{ dialog_index }} / {{ dialogs.length }}</li>
+                <li v-for="(utter, index) in dialog.utters" class="list-group-item">
+                  <div :align="getAlign(index)" style="font-size: large;"
+                    :style="'font-weight:' + getFontWeight(index, dialog)">
+                    {{ utter }}
+                  </div>
+                </li>
+              </ul>
+
+              <div style="height: 1em;"></div>
+
+              <div>
+                <span style="font-size: larger;">Score:&nbsp;&nbsp;</span>
+                <button type="button" @click="setScore(1, dialog)" class="btn btn-success btn-lg">1</button>
+                <button type="button" @click="setScore(2, dialog)" class="btn btn-success btn-lg">2</button>
+                <button type="button" @click="setScore(3, dialog)" class="btn btn-success btn-lg">3</button>
+                <button type="button" @click="setScore(4, dialog)" class="btn btn-success btn-lg">4</button>
+                <button type="button" @click="setScore(5, dialog)" class="btn btn-success btn-lg">5</button>
+              </div>
+            </div>
+          </div>
+
+          <div style="height: 4.5em;"></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    var counter = new Vue({
+      el: '#counter',
+      data: {
+        finished: 0,
+        total: 100
+      }
+    })
+
+    var app = new Vue({
+      el: '#app',
+      data: {
+        name: '[[name]]',
+        dialogs: [
+          {
+            id: 0,
+            type: 'kw-seq2seq',
+            utters: [
+              'good afternoon . can i help you ?',
+              'i need some remedies for an upset stomach .',
+              'what kind of food do you want ?'
+            ],
+            score: null
+          },
+          {
+            id: 1,
+            type: 'kw-seq2seq',
+            utters: [
+              'good afternoon . can i help you ?',
+              'i need some remedies for an upset stomach .',
+              'what kind of food do you want ?'
+            ],
+            score: 1
+          }
+        ],
+        page_dialogs: []
+      },
+      methods: {
+        set_page_dialogs: function(idx) {
+          num_dialogs_in_page = this.dialogs.length / page.num_pages
+          left = (idx - 1) * num_dialogs_in_page
+          right = idx * num_dialogs_in_page
+          this.page_dialogs = this.dialogs.slice(left, right)
+        },
+        getAlign: function(index) {
+          if (index % 2 == 0)
+            return 'left'
+          else
+            return 'right'
+        },
+        getFontWeight: function (index, dialog) {
+          if (index == dialog.utters.length - 1)
+            return 'bold'
+          else
+            return 'normal'
+        },
+        setScore: function(score, dialog) {
+          if (Number.isInteger(score) && score >= 1 && score <= 5) {
+            if (dialog.score == '_')
+              counter.finished += 1
+            dialog.score = score
+
+            $.ajax({
+              type: "POST",
+              url: "/score",
+              data: JSON.stringify({
+                'type': dialog.type,
+                'name': app.name,
+                'id': dialog.id,
+                'score': dialog.score,
+              }),
+              contentType: "application/json; charset=utf-8",
+              dataType: "json",
+              success: function (data) {
+                console.log(data)
+              },
+              failure: function (error) {
+                alert(error);
+              }
+            })
+          }
+        }
+      }
+    })
+
+    var page = new Vue({
+      el: '#page',
+      data: {
+        page_idx: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        active_idx: 1,
+        num_pages: 10
+      },
+      methods: {
+        getActive: function(idx) {
+          if (idx == this.active_idx)
+            return 'active'
+          else
+            return ''
+        },
+        setPageIdx: function(idx) {
+          this.active_idx = idx
+          app.set_page_dialogs(this.active_idx)
+        },
+        changePageIdx: function(change) {
+          if (this.page_idx.includes(this.active_idx + change)) {
+            this.active_idx = this.active_idx + change
+            app.set_page_dialogs(this.active_idx)
+          }
+        }
+      }
+    })
+
+    $.ajax({
+      type: "GET",
+      url: "/data/[[name]]",
+      success: function (data) {
+        app.dialogs = data
+
+        page.active_idx = 1
+        app.set_page_dialogs(page.active_idx)
+
+        counter.total = data.length
+        counter.finished = 0
+        for (var i = 0; i < data.length; i++) {
+          if (data[i].score != '_') {
+            counter.finished += 1
+          }
+        }
+      },
+      failure: function (error) {
+        alert(error);
+      }
+    })
+  </script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>

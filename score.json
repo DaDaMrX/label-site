@@ -1,0 +1,4206 @@
+{
+  "kw-seq2seq": [
+    {
+      "id": 0,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 1,
+      "FRANK": 5,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 2,
+      "GLORIA": 1,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 3,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 5
+    },
+    {
+      "id": 4,
+      "Yue": 2,
+      "FRANK": 4,
+      "GLORIA": 4
+    },
+    {
+      "id": 5,
+      "FRANK": 2,
+      "Yue": 1,
+      "GLORIA": 2
+    },
+    {
+      "id": 6,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 7,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 8,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 9,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 10,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 11,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 12,
+      "FRANK": 2,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 13,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 14,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 5
+    },
+    {
+      "id": 15,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 2
+    },
+    {
+      "id": 16,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 4
+    },
+    {
+      "id": 17,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 18,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 19,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 20,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 21,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 22,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 23,
+      "FRANK": 3,
+      "Yue": 2,
+      "GLORIA": 3
+    },
+    {
+      "id": 24,
+      "GLORIA": 5,
+      "FRANK": 1,
+      "Yue": 4
+    },
+    {
+      "id": 25,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 26,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 27,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 28,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 29,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 30,
+      "GLORIA": 1,
+      "Yue": 4,
+      "FRANK": 1
+    },
+    {
+      "id": 31,
+      "GLORIA": 2,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 32,
+      "GLORIA": 1,
+      "Yue": 1,
+      "FRANK": 3
+    },
+    {
+      "id": 33,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 34,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 35,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 3
+    },
+    {
+      "id": 36,
+      "GLORIA": 4,
+      "Yue": 3,
+      "FRANK": 3
+    },
+    {
+      "id": 37,
+      "GLORIA": 4,
+      "Yue": 2,
+      "FRANK": 5
+    },
+    {
+      "id": 38,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 1
+    },
+    {
+      "id": 39,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 40,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 41,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 42,
+      "GLORIA": 5,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 43,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 44,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 45,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 46,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 47,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 48,
+      "GLORIA": 1,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 49,
+      "GLORIA": 5,
+      "FRANK": 2,
+      "Yue": 5
+    },
+    {
+      "id": 50,
+      "FRANK": 2,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 51,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 52,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 53,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 54,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 55,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 56,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 57,
+      "GLORIA": 5,
+      "FRANK": 2,
+      "Yue": 5
+    },
+    {
+      "id": 58,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 59,
+      "FRANK": 1,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 60,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 2
+    },
+    {
+      "id": 61,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 62,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 4
+    },
+    {
+      "id": 63,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 64,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 65,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 1
+    },
+    {
+      "id": 66,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 1
+    },
+    {
+      "id": 67,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 68,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 2
+    },
+    {
+      "id": 69,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 70,
+      "GLORIA": 5,
+      "Yue": 5,
+      "FRANK": 5
+    },
+    {
+      "id": 71,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 72,
+      "FRANK": 4,
+      "GLORIA": 2,
+      "Yue": 3
+    },
+    {
+      "id": 73,
+      "FRANK": 3,
+      "Yue": 2,
+      "GLORIA": 3
+    },
+    {
+      "id": 74,
+      "GLORIA": 3,
+      "Yue": 1,
+      "FRANK": 5
+    },
+    {
+      "id": 75,
+      "GLORIA": 4,
+      "Yue": 2,
+      "FRANK": 3
+    },
+    {
+      "id": 76,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 77,
+      "FRANK": 4,
+      "GLORIA": 1,
+      "Yue": 2
+    },
+    {
+      "id": 78,
+      "FRANK": 3,
+      "Yue": 2,
+      "GLORIA": 5
+    },
+    {
+      "id": 79,
+      "GLORIA": 5,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 80,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 81,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 82,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 83,
+      "GLORIA": 5,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 84,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 85,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 86,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 5
+    },
+    {
+      "id": 87,
+      "GLORIA": 3,
+      "FRANK": 5,
+      "Yue": 1
+    },
+    {
+      "id": 88,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 89,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 90,
+      "FRANK": 5,
+      "Yue": 5,
+      "GLORIA": 5
+    },
+    {
+      "id": 91,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 92,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 93,
+      "GLORIA": 5,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 94,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 95,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 96,
+      "GLORIA": 2,
+      "Yue": 2,
+      "FRANK": 5
+    },
+    {
+      "id": 97,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 98,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 99,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 100,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 101,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 102,
+      "FRANK": 5,
+      "GLORIA": 2,
+      "Yue": 3
+    },
+    {
+      "id": 103,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 104,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 105,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 106,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 107,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 108,
+      "GLORIA": 3,
+      "Yue": 4,
+      "FRANK": 5
+    },
+    {
+      "id": 109,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 110,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 111,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 112,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 113,
+      "FRANK": 1,
+      "Yue": 2,
+      "GLORIA": 3
+    },
+    {
+      "id": 114,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 115,
+      "GLORIA": 5,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 116,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 5
+    },
+    {
+      "id": 117,
+      "GLORIA": 5,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 118,
+      "FRANK": 1,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 119,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 120,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 121,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 122,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 123,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 124,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 125,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 126,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 127,
+      "FRANK": 5,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 128,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 129,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 130,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 2
+    },
+    {
+      "id": 131,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 132,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 133,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 134,
+      "GLORIA": 2,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 135,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 136,
+      "GLORIA": 3,
+      "FRANK": 5,
+      "Yue": 1
+    },
+    {
+      "id": 137,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 138,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 139,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 140,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 141,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 142,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 143,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 144,
+      "GLORIA": 5,
+      "Yue": 5,
+      "FRANK": 5
+    },
+    {
+      "id": 145,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 146,
+      "GLORIA": 5,
+      "Yue": 4,
+      "FRANK": 4
+    },
+    {
+      "id": 147,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 148,
+      "GLORIA": 4,
+      "Yue": 1,
+      "FRANK": 3
+    },
+    {
+      "id": 149,
+      "GLORIA": 5,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 150,
+      "GLORIA": 2,
+      "Yue": 2,
+      "FRANK": 2
+    },
+    {
+      "id": 151,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 152,
+      "FRANK": 2,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 153,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 154,
+      "GLORIA": 5,
+      "FRANK": 1,
+      "Yue": 4
+    },
+    {
+      "id": 155,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 156,
+      "GLORIA": 2,
+      "Yue": 4,
+      "FRANK": 3
+    },
+    {
+      "id": 157,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 158,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 2
+    },
+    {
+      "id": 159,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 160,
+      "GLORIA": 5,
+      "Yue": 3,
+      "FRANK": 5
+    },
+    {
+      "id": 161,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 162,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 163,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 164,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 165,
+      "GLORIA": 1,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 166,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 5
+    },
+    {
+      "id": 167,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 168,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 169,
+      "GLORIA": 3,
+      "Yue": 2,
+      "FRANK": 2
+    },
+    {
+      "id": 170,
+      "FRANK": 5,
+      "GLORIA": 2,
+      "Yue": 5
+    },
+    {
+      "id": 171,
+      "GLORIA": 2,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 172,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 173,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 174,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 175,
+      "GLORIA": 1,
+      "Yue": 1,
+      "FRANK": 1
+    },
+    {
+      "id": 176,
+      "FRANK": 1,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 177,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 178,
+      "FRANK": 1,
+      "Yue": 3,
+      "GLORIA": 5
+    },
+    {
+      "id": 179,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 180,
+      "FRANK": 2,
+      "Yue": 1,
+      "GLORIA": 4
+    },
+    {
+      "id": 181,
+      "FRANK": 2,
+      "GLORIA": 5,
+      "Yue": 2
+    },
+    {
+      "id": 182,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 183,
+      "FRANK": 5,
+      "Yue": 3,
+      "GLORIA": 5
+    },
+    {
+      "id": 184,
+      "FRANK": 2,
+      "Yue": 5,
+      "GLORIA": 4
+    },
+    {
+      "id": 185,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 186,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 187,
+      "GLORIA": 5,
+      "Yue": 2,
+      "FRANK": 3
+    },
+    {
+      "id": 188,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 189,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 190,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 191,
+      "GLORIA": 4,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 192,
+      "FRANK": 5,
+      "Yue": 4,
+      "GLORIA": 5
+    },
+    {
+      "id": 193,
+      "FRANK": 3,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 194,
+      "FRANK": 3,
+      "GLORIA": 2,
+      "Yue": 4
+    },
+    {
+      "id": 195,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 196,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 197,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 198,
+      "GLORIA": 4,
+      "Yue": 5,
+      "FRANK": 4
+    },
+    {
+      "id": 199,
+      "GLORIA": 5,
+      "Yue": 3,
+      "FRANK": 5
+    },
+    {
+      "id": 200,
+      "GLORIA": 5,
+      "Yue": 5,
+      "FRANK": 4
+    },
+    {
+      "id": 201,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 202,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 203,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 204,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 205,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 206,
+      "GLORIA": 4,
+      "FRANK": 1,
+      "Yue": 3
+    },
+    {
+      "id": 207,
+      "FRANK": 5,
+      "Yue": 5,
+      "GLORIA": 5
+    },
+    {
+      "id": 208,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 2
+    },
+    {
+      "id": 209,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 210,
+      "FRANK": 4,
+      "Yue": 1,
+      "GLORIA": 4
+    },
+    {
+      "id": 211,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 212,
+      "GLORIA": 4,
+      "Yue": 2,
+      "FRANK": 5
+    },
+    {
+      "id": 213,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 214,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 215,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 216,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 217,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 218,
+      "FRANK": 1,
+      "Yue": 4,
+      "GLORIA": 1
+    },
+    {
+      "id": 219,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 220,
+      "GLORIA": 4,
+      "Yue": 1,
+      "FRANK": 1
+    },
+    {
+      "id": 221,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 222,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 223,
+      "GLORIA": 2,
+      "Yue": 2,
+      "FRANK": 4
+    },
+    {
+      "id": 224,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 225,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 2
+    },
+    {
+      "id": 226,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 227,
+      "FRANK": 3,
+      "Yue": 1,
+      "GLORIA": 4
+    },
+    {
+      "id": 228,
+      "GLORIA": 2,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 229,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 230,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 231,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 232,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 2
+    },
+    {
+      "id": 233,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 234,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 235,
+      "FRANK": 5,
+      "GLORIA": 2,
+      "Yue": 5
+    },
+    {
+      "id": 236,
+      "FRANK": 5,
+      "Yue": 3,
+      "GLORIA": 5
+    },
+    {
+      "id": 237,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 238,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 239,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 1
+    },
+    {
+      "id": 240,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 241,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 242,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 243,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 244,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 245,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 246,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 247,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 248,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 249,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 250,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 251,
+      "Yue": 4,
+      "FRANK": 4,
+      "GLORIA": 4
+    },
+    {
+      "id": 252,
+      "GLORIA": 3,
+      "Yue": 4,
+      "FRANK": 2
+    },
+    {
+      "id": 253,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 254,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 255,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 256,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 257,
+      "GLORIA": 5,
+      "Yue": 5,
+      "FRANK": 5
+    },
+    {
+      "id": 258,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 259,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 260,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 261,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 262,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 263,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 264,
+      "FRANK": 5,
+      "Yue": 5,
+      "GLORIA": 3
+    },
+    {
+      "id": 265,
+      "FRANK": 4,
+      "Yue": 1,
+      "GLORIA": 4
+    },
+    {
+      "id": 266,
+      "FRANK": 5,
+      "Yue": 2,
+      "GLORIA": 5
+    },
+    {
+      "id": 267,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 268,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 3
+    },
+    {
+      "id": 269,
+      "FRANK": 4,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 270,
+      "FRANK": 1,
+      "Yue": 2,
+      "GLORIA": 3
+    },
+    {
+      "id": 271,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 272,
+      "GLORIA": 4,
+      "Yue": 4,
+      "FRANK": 3
+    },
+    {
+      "id": 273,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 274,
+      "FRANK": 5,
+      "Yue": 1,
+      "GLORIA": 5
+    },
+    {
+      "id": 275,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 276,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 2
+    },
+    {
+      "id": 277,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 278,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 279,
+      "FRANK": 3,
+      "Yue": 3,
+      "GLORIA": 4
+    },
+    {
+      "id": 280,
+      "FRANK": 1,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 281,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 282,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 283,
+      "GLORIA": 4,
+      "Yue": 5,
+      "FRANK": 4
+    },
+    {
+      "id": 284,
+      "GLORIA": 5,
+      "Yue": 4,
+      "FRANK": 4
+    },
+    {
+      "id": 285,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 286,
+      "GLORIA": 1,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 287,
+      "FRANK": 3,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 288,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 289,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 290,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 291,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 292,
+      "FRANK": 4,
+      "GLORIA": 2,
+      "Yue": 4
+    },
+    {
+      "id": 293,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 294,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 295,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 296,
+      "GLORIA": 5,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 297,
+      "FRANK": 4,
+      "Yue": 4,
+      "GLORIA": 4
+    },
+    {
+      "id": 298,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 5
+    },
+    {
+      "id": 299,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 300,
+      "FRANK": 3,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 301,
+      "GLORIA": 3,
+      "Yue": 2,
+      "FRANK": 1
+    },
+    {
+      "id": 302,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 303,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 304,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 305,
+      "Yue": 1,
+      "FRANK": 1,
+      "GLORIA": 1
+    },
+    {
+      "id": 306,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 307,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 308,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 309,
+      "GLORIA": 2,
+      "Yue": 5,
+      "FRANK": 5
+    },
+    {
+      "id": 310,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 311,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 312,
+      "FRANK": 4,
+      "Yue": 3,
+      "GLORIA": 4
+    },
+    {
+      "id": 313,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 3
+    },
+    {
+      "id": 314,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 5
+    },
+    {
+      "id": 315,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 316,
+      "GLORIA": 3,
+      "Yue": 1,
+      "FRANK": 1
+    },
+    {
+      "id": 317,
+      "GLORIA": 4,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 318,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 2
+    },
+    {
+      "id": 319,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 320,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 321,
+      "FRANK": 1,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 322,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 323,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 324,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 325,
+      "FRANK": 4,
+      "Yue": 3,
+      "GLORIA": 4
+    },
+    {
+      "id": 326,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 327,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 328,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 329,
+      "FRANK": 2,
+      "Yue": 1,
+      "GLORIA": 2
+    },
+    {
+      "id": 330,
+      "GLORIA": 4,
+      "Yue": 4,
+      "FRANK": 4
+    },
+    {
+      "id": 331,
+      "FRANK": 5,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 332,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 333,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 1
+    },
+    {
+      "id": 334,
+      "FRANK": 1,
+      "Yue": 4,
+      "GLORIA": 4
+    },
+    {
+      "id": 335,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 1
+    },
+    {
+      "id": 336,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 337,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 338,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 339,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 340,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 341,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 342,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 343,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 344,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 345,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 346,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 347,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 3
+    },
+    {
+      "id": 348,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 349,
+      "GLORIA": 2,
+      "Yue": 3,
+      "FRANK": 4
+    },
+    {
+      "id": 350,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 1
+    },
+    {
+      "id": 351,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 352,
+      "GLORIA": 4,
+      "FRANK": 1,
+      "Yue": 4
+    },
+    {
+      "id": 353,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 354,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 355,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 356,
+      "GLORIA": 4,
+      "Yue": 4,
+      "FRANK": 4
+    },
+    {
+      "id": 357,
+      "FRANK": 3,
+      "GLORIA": 2,
+      "Yue": 4
+    },
+    {
+      "id": 358,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 359,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 360,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 2
+    },
+    {
+      "id": 361,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 362,
+      "GLORIA": 4,
+      "Yue": 1,
+      "FRANK": 2
+    },
+    {
+      "id": 363,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 364,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 365,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 366,
+      "GLORIA": 3,
+      "FRANK": 5,
+      "Yue": 3
+    },
+    {
+      "id": 367,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 368,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 369,
+      "FRANK": 2,
+      "Yue": 1,
+      "GLORIA": 4
+    },
+    {
+      "id": 370,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 371,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 372,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 2
+    },
+    {
+      "id": 373,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 374,
+      "GLORIA": 5,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 375,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 4
+    },
+    {
+      "id": 376,
+      "GLORIA": 2,
+      "Yue": 3,
+      "FRANK": 1
+    },
+    {
+      "id": 377,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 378,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 379,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 1
+    },
+    {
+      "id": 380,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 381,
+      "GLORIA": 2,
+      "Yue": 3,
+      "FRANK": 3
+    },
+    {
+      "id": 382,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 3
+    },
+    {
+      "id": 383,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 384,
+      "GLORIA": 2,
+      "Yue": 4,
+      "FRANK": 1
+    },
+    {
+      "id": 385,
+      "GLORIA": 4,
+      "Yue": 4,
+      "FRANK": 5
+    },
+    {
+      "id": 386,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 5
+    },
+    {
+      "id": 387,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 388,
+      "FRANK": 2,
+      "Yue": 1,
+      "GLORIA": 1
+    },
+    {
+      "id": 389,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 390,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 3
+    },
+    {
+      "id": 391,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 3
+    },
+    {
+      "id": 392,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 1
+    },
+    {
+      "id": 393,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 394,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 4
+    },
+    {
+      "id": 395,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 396,
+      "GLORIA": 5,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 397,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 398,
+      "GLORIA": 2,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 399,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 1
+    }
+  ],
+  "seq2seq": [
+    {
+      "id": 0,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 1,
+      "FRANK": 3,
+      "Yue": 3,
+      "GLORIA": 3
+    },
+    {
+      "id": 2,
+      "FRANK": 4,
+      "GLORIA": 2,
+      "Yue": 4
+    },
+    {
+      "id": 3,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 4,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 5,
+      "GLORIA": 3,
+      "FRANK": 5,
+      "Yue": 2
+    },
+    {
+      "id": 6,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 7,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 8,
+      "GLORIA": 3,
+      "Yue": 4,
+      "FRANK": 1
+    },
+    {
+      "id": 9,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 10,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 2
+    },
+    {
+      "id": 11,
+      "GLORIA": 2,
+      "Yue": 5,
+      "FRANK": 5
+    },
+    {
+      "id": 12,
+      "GLORIA": 5,
+      "Yue": 4,
+      "FRANK": 5
+    },
+    {
+      "id": 13,
+      "FRANK": 3,
+      "Yue": 1,
+      "GLORIA": 1
+    },
+    {
+      "id": 14,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 15,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 16,
+      "FRANK": 5,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 17,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 18,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 19,
+      "FRANK": 3,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 20,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 21,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 22,
+      "GLORIA": 4,
+      "Yue": 3,
+      "FRANK": 4
+    },
+    {
+      "id": 23,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 24,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 25,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 26,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 27,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 28,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 29,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 30,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 31,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 32,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 2
+    },
+    {
+      "id": 33,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 34,
+      "FRANK": 4,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 35,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 36,
+      "GLORIA": 2,
+      "Yue": 1,
+      "FRANK": 4
+    },
+    {
+      "id": 37,
+      "FRANK": 5,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 38,
+      "FRANK": 4,
+      "GLORIA": 2,
+      "Yue": 4
+    },
+    {
+      "id": 39,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 40,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 41,
+      "FRANK": 3,
+      "GLORIA": 1,
+      "Yue": 4
+    },
+    {
+      "id": 42,
+      "FRANK": 3,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 43,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 44,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 45,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 46,
+      "FRANK": 3,
+      "Yue": 1,
+      "GLORIA": 5
+    },
+    {
+      "id": 47,
+      "FRANK": 5,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 48,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 49,
+      "FRANK": 3,
+      "GLORIA": 1,
+      "Yue": 3
+    },
+    {
+      "id": 50,
+      "GLORIA": 2,
+      "Yue": 1,
+      "FRANK": 2
+    },
+    {
+      "id": 51,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 52,
+      "GLORIA": 1,
+      "Yue": 2,
+      "FRANK": 2
+    },
+    {
+      "id": 53,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 54,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 55,
+      "GLORIA": 1,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 56,
+      "GLORIA": 2,
+      "Yue": 1,
+      "FRANK": 3
+    },
+    {
+      "id": 57,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 58,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 59,
+      "GLORIA": 4,
+      "FRANK": 1,
+      "Yue": 3
+    },
+    {
+      "id": 60,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 61,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 62,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 63,
+      "GLORIA": 2,
+      "Yue": 2,
+      "FRANK": 2
+    },
+    {
+      "id": 64,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 65,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 66,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 67,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 68,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 5
+    },
+    {
+      "id": 69,
+      "GLORIA": 2,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 70,
+      "GLORIA": 2,
+      "Yue": 4,
+      "FRANK": 4
+    },
+    {
+      "id": 71,
+      "FRANK": 1,
+      "Yue": 2,
+      "GLORIA": 2
+    },
+    {
+      "id": 72,
+      "GLORIA": 3,
+      "Yue": 2,
+      "FRANK": 1
+    },
+    {
+      "id": 73,
+      "FRANK": 5,
+      "Yue": 2,
+      "GLORIA": 4
+    },
+    {
+      "id": 74,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 75,
+      "GLORIA": 3,
+      "Yue": 1,
+      "FRANK": 1
+    },
+    {
+      "id": 76,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 77,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 78,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 79,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 4
+    },
+    {
+      "id": 80,
+      "GLORIA": 4,
+      "Yue": 2,
+      "FRANK": 4
+    },
+    {
+      "id": 81,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 82,
+      "GLORIA": 2,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 83,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 84,
+      "GLORIA": 1,
+      "Yue": 1,
+      "FRANK": 3
+    },
+    {
+      "id": 85,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 86,
+      "GLORIA": 4,
+      "Yue": 5,
+      "FRANK": 5
+    },
+    {
+      "id": 87,
+      "GLORIA": 3,
+      "Yue": 4,
+      "FRANK": 4
+    },
+    {
+      "id": 88,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 89,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 2
+    },
+    {
+      "id": 90,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 91,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 92,
+      "FRANK": 5,
+      "Yue": 4,
+      "GLORIA": 4
+    },
+    {
+      "id": 93,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 5
+    },
+    {
+      "id": 94,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 95,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 96,
+      "GLORIA": 4,
+      "Yue": 4,
+      "FRANK": 5
+    },
+    {
+      "id": 97,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 98,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 99,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 4
+    },
+    {
+      "id": 100,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 3
+    },
+    {
+      "id": 101,
+      "FRANK": 4,
+      "GLORIA": 2,
+      "Yue": 2
+    },
+    {
+      "id": 102,
+      "FRANK": 1,
+      "GLORIA": 5,
+      "Yue": 2
+    },
+    {
+      "id": 103,
+      "FRANK": 4,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 104,
+      "GLORIA": 5,
+      "Yue": 2,
+      "FRANK": 5
+    },
+    {
+      "id": 105,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 3
+    },
+    {
+      "id": 106,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 2
+    },
+    {
+      "id": 107,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 108,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 109,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 110,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 111,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 112,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 113,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 114,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 2
+    },
+    {
+      "id": 115,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 116,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 117,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 118,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 119,
+      "GLORIA": 5,
+      "FRANK": 4,
+      "Yue": 3
+    },
+    {
+      "id": 120,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 121,
+      "GLORIA": 3,
+      "Yue": 4,
+      "FRANK": 5
+    },
+    {
+      "id": 122,
+      "GLORIA": 1,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 123,
+      "FRANK": 5,
+      "Yue": 5,
+      "GLORIA": 5
+    },
+    {
+      "id": 124,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 125,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 126,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 127,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 128,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 129,
+      "FRANK": 4,
+      "Yue": 1,
+      "GLORIA": 2
+    },
+    {
+      "id": 130,
+      "FRANK": 2,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 131,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 132,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 133,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 134,
+      "Yue": 1,
+      "GLORIA": 3,
+      "FRANK": 2
+    },
+    {
+      "id": 135,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 136,
+      "GLORIA": 2,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 137,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 138,
+      "GLORIA": 4,
+      "Yue": 1,
+      "FRANK": 5
+    },
+    {
+      "id": 139,
+      "FRANK": 5,
+      "GLORIA": 1,
+      "Yue": 2
+    },
+    {
+      "id": 140,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 141,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 142,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 143,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 144,
+      "GLORIA": 5,
+      "Yue": 4,
+      "FRANK": 3
+    },
+    {
+      "id": 145,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 146,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 147,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 148,
+      "GLORIA": 4,
+      "Yue": 5,
+      "FRANK": 4
+    },
+    {
+      "id": 149,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 150,
+      "GLORIA": 4,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 151,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 152,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 153,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 2
+    },
+    {
+      "id": 154,
+      "GLORIA": 3,
+      "Yue": 4,
+      "FRANK": 5
+    },
+    {
+      "id": 155,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 156,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 157,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 158,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 159,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 2
+    },
+    {
+      "id": 160,
+      "GLORIA": 4,
+      "FRANK": 1,
+      "Yue": 5
+    },
+    {
+      "id": 161,
+      "GLORIA": 3,
+      "Yue": 4,
+      "FRANK": 4
+    },
+    {
+      "id": 162,
+      "FRANK": 5,
+      "Yue": 5,
+      "GLORIA": 5
+    },
+    {
+      "id": 163,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 1
+    },
+    {
+      "id": 164,
+      "FRANK": 5,
+      "Yue": 4,
+      "GLORIA": 5
+    },
+    {
+      "id": 165,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 166,
+      "FRANK": 2,
+      "GLORIA": 5,
+      "Yue": 4
+    },
+    {
+      "id": 167,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 168,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 169,
+      "GLORIA": 4,
+      "Yue": 1,
+      "FRANK": 3
+    },
+    {
+      "id": 170,
+      "GLORIA": 2,
+      "Yue": 3,
+      "FRANK": 2
+    },
+    {
+      "id": 171,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 172,
+      "GLORIA": 1,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 173,
+      "GLORIA": 1,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 174,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 175,
+      "FRANK": 3,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 176,
+      "GLORIA": 2,
+      "FRANK": 2,
+      "Yue": 3
+    },
+    {
+      "id": 177,
+      "FRANK": 5,
+      "Yue": 5,
+      "GLORIA": 4
+    },
+    {
+      "id": 178,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 179,
+      "FRANK": 3,
+      "Yue": 4,
+      "GLORIA": 2
+    },
+    {
+      "id": 180,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 181,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 182,
+      "GLORIA": 4,
+      "Yue": 3,
+      "FRANK": 2
+    },
+    {
+      "id": 183,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 184,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 3
+    },
+    {
+      "id": 185,
+      "GLORIA": 5,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 186,
+      "FRANK": 1,
+      "GLORIA": 5,
+      "Yue": 1
+    },
+    {
+      "id": 187,
+      "FRANK": 3,
+      "GLORIA": 1,
+      "Yue": 2
+    },
+    {
+      "id": 188,
+      "GLORIA": 3,
+      "Yue": 1,
+      "FRANK": 4
+    },
+    {
+      "id": 189,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 190,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 4
+    },
+    {
+      "id": 191,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 192,
+      "GLORIA": 2,
+      "Yue": 1,
+      "FRANK": 3
+    },
+    {
+      "id": 193,
+      "FRANK": 3,
+      "GLORIA": 2,
+      "Yue": 2
+    },
+    {
+      "id": 194,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 195,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 2
+    },
+    {
+      "id": 196,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 1
+    },
+    {
+      "id": 197,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 3
+    },
+    {
+      "id": 198,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 5
+    },
+    {
+      "id": 199,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 200,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 5
+    },
+    {
+      "id": 201,
+      "GLORIA": 1,
+      "Yue": 1,
+      "FRANK": 1
+    },
+    {
+      "id": 202,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 203,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 4
+    },
+    {
+      "id": 204,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 205,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 206,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 2
+    },
+    {
+      "id": 207,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 208,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 3
+    },
+    {
+      "id": 209,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 210,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 1
+    },
+    {
+      "id": 211,
+      "GLORIA": 1,
+      "Yue": 1,
+      "FRANK": 3
+    },
+    {
+      "id": 212,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 4
+    },
+    {
+      "id": 213,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 214,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 215,
+      "GLORIA": 5,
+      "Yue": 2,
+      "FRANK": 2
+    },
+    {
+      "id": 216,
+      "GLORIA": 4,
+      "FRANK": 3,
+      "Yue": 4
+    },
+    {
+      "id": 217,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 3
+    },
+    {
+      "id": 218,
+      "FRANK": 4,
+      "GLORIA": 2,
+      "Yue": 5
+    },
+    {
+      "id": 219,
+      "FRANK": 5,
+      "Yue": 3,
+      "GLORIA": 4
+    },
+    {
+      "id": 220,
+      "GLORIA": 2,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 221,
+      "FRANK": 3,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 222,
+      "GLORIA": 2,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 223,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 224,
+      "GLORIA": 5,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 225,
+      "FRANK": 4,
+      "Yue": 5,
+      "GLORIA": 5
+    },
+    {
+      "id": 226,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 3
+    },
+    {
+      "id": 227,
+      "FRANK": 5,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 228,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 229,
+      "GLORIA": 3,
+      "Yue": 4,
+      "FRANK": 4
+    },
+    {
+      "id": 230,
+      "GLORIA": 3,
+      "FRANK": 3,
+      "Yue": 1
+    },
+    {
+      "id": 231,
+      "FRANK": 1,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 232,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 233,
+      "GLORIA": 5,
+      "Yue": 5,
+      "FRANK": 5
+    },
+    {
+      "id": 234,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 235,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 236,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 2
+    },
+    {
+      "id": 237,
+      "FRANK": 4,
+      "GLORIA": 1,
+      "Yue": 2
+    },
+    {
+      "id": 238,
+      "Yue": 2,
+      "FRANK": 5,
+      "GLORIA": 4
+    },
+    {
+      "id": 239,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 240,
+      "GLORIA": 2,
+      "FRANK": 3,
+      "Yue": 3
+    },
+    {
+      "id": 241,
+      "GLORIA": 4,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 242,
+      "FRANK": 4,
+      "Yue": 1,
+      "GLORIA": 1
+    },
+    {
+      "id": 243,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 3
+    },
+    {
+      "id": 244,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 245,
+      "GLORIA": 1,
+      "Yue": 2,
+      "FRANK": 4
+    },
+    {
+      "id": 246,
+      "FRANK": 2,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 247,
+      "FRANK": 5,
+      "Yue": 2,
+      "GLORIA": 4
+    },
+    {
+      "id": 248,
+      "GLORIA": 3,
+      "FRANK": 2,
+      "Yue": 1
+    },
+    {
+      "id": 249,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 250,
+      "GLORIA": 4,
+      "FRANK": 1,
+      "Yue": 3
+    },
+    {
+      "id": 251,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 3
+    },
+    {
+      "id": 252,
+      "GLORIA": 5,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 253,
+      "GLORIA": 1,
+      "FRANK": 4,
+      "Yue": 1
+    },
+    {
+      "id": 254,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 255,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 2
+    },
+    {
+      "id": 256,
+      "FRANK": 5,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 257,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 1
+    },
+    {
+      "id": 258,
+      "GLORIA": 4,
+      "FRANK": 2,
+      "Yue": 2
+    },
+    {
+      "id": 259,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 260,
+      "FRANK": 1,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 261,
+      "FRANK": 4,
+      "GLORIA": 2,
+      "Yue": 4
+    },
+    {
+      "id": 262,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 263,
+      "GLORIA": 4,
+      "Yue": 1,
+      "FRANK": 5
+    },
+    {
+      "id": 264,
+      "FRANK": 5,
+      "GLORIA": 3,
+      "Yue": 2
+    },
+    {
+      "id": 265,
+      "Yue": 2,
+      "FRANK": 4,
+      "GLORIA": 5
+    },
+    {
+      "id": 266,
+      "GLORIA": 3,
+      "FRANK": 4,
+      "Yue": 2
+    },
+    {
+      "id": 267,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 3
+    },
+    {
+      "id": 268,
+      "GLORIA": 5,
+      "Yue": 5,
+      "FRANK": 5
+    },
+    {
+      "id": 269,
+      "FRANK": 2,
+      "GLORIA": 3,
+      "Yue": 1
+    },
+    {
+      "id": 270,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 271,
+      "FRANK": 1,
+      "GLORIA": 3,
+      "Yue": 4
+    },
+    {
+      "id": 272,
+      "FRANK": 3,
+      "Yue": 1,
+      "GLORIA": 3
+    },
+    {
+      "id": 273,
+      "GLORIA": 5,
+      "FRANK": 4,
+      "Yue": 4
+    },
+    {
+      "id": 274,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 275,
+      "FRANK": 2,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 276,
+      "FRANK": 2,
+      "GLORIA": 4,
+      "Yue": 4
+    },
+    {
+      "id": 277,
+      "FRANK": 2,
+      "GLORIA": 5,
+      "Yue": 3
+    },
+    {
+      "id": 278,
+      "GLORIA": 4,
+      "FRANK": 5,
+      "Yue": 3
+    },
+    {
+      "id": 279,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 4
+    },
+    {
+      "id": 280,
+      "FRANK": 5,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 281,
+      "GLORIA": 4,
+      "Yue": 3,
+      "FRANK": 5
+    },
+    {
+      "id": 282,
+      "FRANK": 5,
+      "GLORIA": 5,
+      "Yue": 5
+    },
+    {
+      "id": 283,
+      "FRANK": 5,
+      "Yue": 1,
+      "GLORIA": 2
+    },
+    {
+      "id": 284,
+      "FRANK": 4,
+      "GLORIA": 3,
+      "Yue": 3
+    },
+    {
+      "id": 285,
+      "GLORIA": 1,
+      "Yue": 1,
+      "FRANK": 4
+    },
+    {
+      "id": 286,
+      "FRANK": 4,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 287,
+      "FRANK": 3,
+      "GLORIA": 4,
+      "Yue": 1
+    },
+    {
+      "id": 288,
+      "GLORIA": 1,
+      "FRANK": 1,
+      "Yue": 1
+    },
+    {
+      "id": 289,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 290,
+      "GLORIA": 3,
+      "FRANK": 5,
+      "Yue": 2
+    },
+    {
+      "id": 291,
+      "FRANK": 2,
+      "GLORIA": 2,
+      "Yue": 1
+    },
+    {
+      "id": 292,
+      "FRANK": 1,
+      "Yue": 1,
+      "GLORIA": 2
+    },
+    {
+      "id": 293,
+      "GLORIA": 3,
+      "Yue": 1,
+      "FRANK": 1
+    },
+    {
+      "id": 294,
+      "FRANK": 3,
+      "GLORIA": 3,
+      "Yue": 3
+    },
+    {
+      "id": 295,
+      "FRANK": 1,
+      "GLORIA": 1,
+      "Yue": 1
+    },
+    {
+      "id": 296,
+      "GLORIA": 2,
+      "Yue": 1,
+      "FRANK": 3
+    },
+    {
+      "id": 297,
+      "GLORIA": 5,
+      "FRANK": 5,
+      "Yue": 5
+    },
+    {
+      "id": 298,
+      "GLORIA": 1,
+      "Yue": 5,
+      "FRANK": 1
+    },
+    {
+      "id": 299,
+      "GLORIA": 3,
+      "FRANK": 1,
+      "Yue": 1
+    }
+  ]
+}

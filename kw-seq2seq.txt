@@ -1,0 +1,3453 @@
+A: whew ! i had to wait for almost an hour to get to the front of the line .
+B: you have much patience .
+A: wow ! your calligraphy is very beautiful . it was worth the wait !
+Targ-B: thank you . today i ' m writing a kind of poem called a chinese couplet .
+Pred-B: i know . my teacher likes to land a lot of people waiting for me at 11 : 00 .
+Targ-KW: writing poem called couple ##t
+Pred-KW: teacher mei land excited
+
+A: i understand . and where will you be going ?
+B: rockefeller center .
+A: and what time would you like to be picked up ?
+B: the sooner the better .
+A: a taxi will be here shortly , sir .
+Targ-B: great ! and remember , a taxi , not a limo .
+Pred-B: good . please hold on for a taxi . it will be here immediately .
+Targ-KW: remember taxi limo
+Pred-KW: hold taxi immediately
+
+A: good afternoon , sir . have you made a reservation ?
+B: i am afraid not . are there any vacant tables ?
+A: i don't think so . you have to wait for about 10 minutes .
+Targ-B: that ' s all right .
+Pred-B: thank you for lunch .
+Targ-KW: right
+Pred-KW: lunch
+
+A: this one here .
+B: ar , yes . there ' s a big cavity .
+A: can you fill it ?
+B: i ' m afraid not . the tooth is too far gone . it'll have to be taken out .
+A: then i might as well have it done now .
+Targ-B: you ' d better wait , the gums are swollen . take the medicine i prescribe and come back in three days .
+Pred-B: you ' d better wait . the gums are swollen . take the medicine i prescribe and come back in three days .
+Targ-KW: gum swollen medicine pre ##scribe three days
+Pred-KW: wait gum swollen medicine pre ##scribe days
+
+A: things are going good today . how have you been doing , mary ?
+B: things are going well for me , joe .
+A: want to go see a movie tonight ?
+B: my parents are taking me to dinner tonight .
+A: could you go with me to the movies on friday night , instead ?
+Targ-B: what movie did you want to see ?
+Pred-B: i ' m not sure . is it a certain way to go to a movie tonight ?
+Targ-KW: movie did
+Pred-KW: certain
+
+A: i can't believe how hot it is .
+B: it's not even noon yet .
+A: that means it will get hotter .
+B: i am dying from the heat .
+Targ-A: turn on the air conditioner .
+Pred-A: i hope so too .
+Targ-KW: air condition
+Pred-KW: hope
+
+A: what can i do for you , madam ?
+B: can you help me with comprehensive credit granting ?
+A: certainly , madam . what would you like to know ?
+Targ-B: well , everything really .
+Pred-B: we have platinum card a lot of cash . do you have a current one ?
+Targ-KW: everything
+Pred-KW: platinum
+
+A: i should tell you that i'm checking out in about 30 minutes .
+B: i'm ready when you are , sir .
+A: very good ! now , it's still morning here in new york .
+Targ-B: you are so right , sir . the clock just struck nine .
+Pred-B: therefore , i think i ' ll explore new york some more . but i need to buy some bags .
+Targ-KW: clock struck nine
+Pred-KW: therefore i explore york store bags
+
+A: hey suzie . guess what ? i'm having a baby !
+B: really ? that's so great . congratulations .
+A: thanks . i'm so excited . we've been trying for 8 months now .
+B: that's really exciting . how many months are you pregnant ?
+Targ-A: three months .
+Pred-A: more than six months .
+Targ-KW: three months .
+Pred-KW: three
+
+A: have you decided what you ' re going to do during your holiday ?
+B: yes . i ' m going to travel around europe .
+A: wow , that sounds great ! where are you going ?
+B: i think i will start off in paris . then i ' m going to take the train to nice and then go on to milan .
+Targ-A: oh that will be lovely . you ' ll be able to do lots of shopping i expect .
+Pred-A: sorry , sir . i have to interrupt you . do you mind living over the bus ?
+Targ-KW: be lovely lots shopping expect
+Pred-KW: interrupt living over us
+
+A: what kind of music do you prefer then ?
+B: i like pop music . do you ?
+A: not really . i don't think pop music has much depth .
+B: i see what you mean . i think that's way i like it so much .
+A: how long have you been in to pop music , then ?
+Targ-B: i ' ve always been into it . have you always liked classical music ?
+Pred-B: i ' ve always been into it . have you always liked classical music ?
+Targ-KW: always liked classical music
+Pred-KW: always liked classical music
+
+A: do you like being a doctor ?
+B: yes , most of the time . but , sometimes things can get difficult .
+A: can you tell me about it ?
+B: you know , sometimes patients can get very unreasonable . they may insist they are sick when they are not .
+A: what can you do when this happens ?
+Targ-B: not much , usually i ' ll just keep silent .
+Pred-B: i ' m prepared to be put on food , doctor . i think i am satisfied with it .
+Targ-KW: usually keep silent
+Pred-KW: prepared be possible doctor satisfied
+
+A: joe , how are you doing ?
+B: i am great ! how about you , mary ? how are you ?
+A: i am doing great ! thank you for asking , joe .
+B: i was wondering if you want to go see a movie with me tonight ?
+Targ-A: i need to stay home tonight and finish my term paper .
+Pred-A: what movie are you going to see ? with me tonight !
+Targ-KW: finish term paper
+Pred-KW: movie going dinner
+
+A: you'll never guess what i won at work today ! - tickets to tonight's final nba game .
+B: two , i hope and i hope that by telling me about them you are planning on taking me !
+A: of course ! and here's the best part , they are court side seats !
+B: how in the world ! who came up with seats like that from your company ?
+A: some guy in the accounting department has a brother on the team !
+Targ-B: can ' t beat that ! thank you accounting guy !
+Pred-B: that ' s great . what about him ?
+Targ-KW: beat ! accounting
+Pred-KW: him
+
+A: i can check that for you right now . would you mind holding ?
+B: sure . no problem .
+A: mr . robson , i'm sorry . our computer system is down . could i call you back later ?
+B: sure . do you have my number ?
+A: yes , i have it right here . i'm so sorry about this .
+Targ-B: no problem . i ' ll wait for your call .
+Pred-B: that ' s no problem . just wait for your call .
+Targ-KW: problem wait call
+Pred-KW: problem wait call
+
+A: here is the fish counter . look at the lobsters and crabs . shall we have some ?
+B: i'm allergic to these things , you know .
+Targ-A: sorry , i forgot . i don ' t like seafood , neither .
+Pred-A: i made a bottle of champagne , lobster time and 1 : 00 pm let ' s see .
+Targ-KW: sorry forgot seafood neither
+Pred-KW: lobster
+
+A: i've come to hear about your offer .
+B: we have the offer ready for you . let me check . 10 boxes with 50 brooches per box , at 20,000 yuan , 20 boxes with 50 waistbands per box , at 30,000 yuan , 15 boxes with other ornaments per box , at 7 , 500 yuan , for shipment in june . the offer is valid for five days .
+Targ-A: i can tell you right now that your prices are a little higher than we expected .
+Pred-A: i propose to bring in a sole agency agreement for 5 , 000 yuan . how much will you make , sir ?
+Targ-KW: prices little higher than expected
+Pred-KW: propose sole agency
+
+A: oh , ah , um the nikon d60 is a nice option .
+B: yeah , but what kit lens does this camera come with ? i don ' t want some bulky telephoto lens .
+A: oh , well this one has the , uh .
+B: looks to me like an 18-55 mm lens . pretty standard , that will do . not like my husband will be stalking celebrities or anything !
+A: so , ahem , can i interest you in any acc ...
+Targ-B: accessories ? do you carry polarizing filters ?
+Pred-B: you know what kind of sport are you serious ? can i have a look at it until 2 pm ? my camcorder and my traditional counterpart
+Targ-KW: accessories filters
+Pred-KW: interest sport serious
+
+A: don ' t worry . i ' ve decided that for your birthday i ' m going to take you shopping for a new dress .
+B: really ? i thought you hated shopping ?
+A: i do , that ' s why you should appreciate this gift !
+B: sure . that ' s really nice of you . let ' s go in and try some things on .
+A: how about this red dress ? i think it would really suit you .
+Targ-B: that ' s gorgeous ! do they have it in a size 8 ?
+Pred-B: that ' s gorgeous ! do they have it in a size 8 ? i mean , the red one is really gorgeous .
+Targ-KW: gorgeous they size 8
+Pred-KW: gorgeous they size 8
+
+A: how do you do ? nice to meet you , diane .
+B: how do you do , jack . nice to meet you .
+A: well , i think you ' ve reconsidered our proposal , diane .
+B: yes , you are right . after all , the quality of your air conditioners is good . the only problem is price .
+A: i should not be surprised , many customers have the same opinion . do you have any suggestion in mind ? our salesman told your secretary that the price could be negotiable .
+Targ-B: that ' s why i came to your office today . we think for your model we - 506 $ 590 would be reasonable , because air conditioners of the same kind sold by other companies are usually about 579 - 649 .
+Pred-B: i know a company that is good . but i need to discuss it with you . that ' s nice to meet with the company . now ,
+Targ-KW: your model - 50 ##6 590 reasonable air condition ##ers sold 57 ##9 64
+Pred-KW: i discuss a contract then company nice meet
+
+A: where do you plan to go this winter ?
+Targ-B: alps , suppose .
+Pred-B: i ' d like to go if i can .
+Targ-KW: alps
+Pred-KW: d better
+
+A: yes , that's right . that's the poster of the the witch .
+B: may , i really regret watching it with you last night .
+A: did it scare you ?
+B: of course not . i just thought the movie was ... boring .
+A: boring ? come on , you clutched to my arm all the time .
+Targ-B: well , i admit . the ghosts were scary .
+Pred-B: well , i ' m still a bit disappointed . let ' s go and see how it ' s a big deal .
+Targ-KW: admit ghosts scary
+Pred-KW: still bit disappointed
+
+A: are you bringing in any plants or animal products ?
+B: no .
+A: our sniffer dog seems to disagree . do you mind if we look in your suitcase ?
+B: not at all . go right ahead .
+A: what ' s this sir ?
+Targ-B: it ' s traditional chinese medicine . i mix it with hot water like tea . sorry . i forgot about it .
+Pred-B: er . . . it smells sweet . i ' ll try to get it over there . it ' s on the right side of the shopping center
+Targ-KW: it traditional medicine mix water forgot
+Pred-KW: . smells sweet try it over
+
+A: should we ask jason to play ? he's always watching movies on hbo .
+Targ-B: i guess we should invite him . i just hope he doesn ' t start talking about sylvester stallone and arnold schwarzenegger again .
+Pred-B: that ' s too sick . what about a young lady ? that says he ' s never watching anything on tv .
+Targ-KW: invite sylvester stall ##one arnold schwarz ##ene ##gger
+Pred-KW: sick young lady says watching movies
+
+A: the acting of this film is marvelous in spite of the thin plot .
+B: i'm sorry for hero .
+A: i don't think there's any excuse for his acting in some parts .
+Targ-B: don ' t be too critical . we can ' t expect it to be perfect .
+Pred-B: don ' t be too critical . we can ' t expect it to be perfect .
+Targ-KW: t be critical expect perfect
+Pred-KW: t be critical expect perfect
+
+A: i hear you are planning to travel abroad .
+B: yes . i'm going to the untied states for travel . what places do you recommend ?
+A: in my opinion , there are several places you mustn't miss , like washington d . c , las vegas , new york and los angeles .
+Targ-B: someone suggests that i should go to seattle and hawaii .
+Pred-B: well , i want to miss you . how nice ! is this going on vacation ?
+Targ-KW: suggests seattle hawaii
+Pred-KW: miss
+
+A: mum , can i finish my homework later ?
+B: sorry . you know the rules .
+Targ-A: but i want to watch tv now .
+Pred-A: but i want to watch tv now .
+Targ-KW: watch tv
+Pred-KW: watch tv
+
+A: thank you . today i'm writing a kind of poem called a chinese couplet .
+B: what does it say ?
+A: this is an especially famous one . it says " may the passing days bring you health and longevity . may this season of renewal find you basked in riches . "
+B: that's very nice . is it for sale ?
+A: no . i never sell my artwork .
+Targ-B: really ? then what do you do with it ?
+Pred-B: daniel , i often read it . it ' s a great time to read it .
+Targ-KW: really then do
+Pred-KW: daniel often read novel
+
+A: do you think my briefcase is big enough to put in all these stuff ?
+B: let me see . laptop , flash disk , a ballpoint pen , a pencil , a notebook , a pair of glasses , cell phone , charger , moisture lotion , ... oh , that is too much . you are not going to a business trip .
+A: i guess i need all of them .
+B: actually , the company will provide you with all of these supplies . so , you can leave this very thick notebook at home .
+A: i know . but it is my lucky charm . i carry it all the time .
+Targ-B: suit yourself . don ' t forget to set the alarm clock .
+Pred-B: suit yourself . don ' t forget to set the alarm clock .
+Targ-KW: suit forget alarm
+Pred-KW: suit forget alarm
+
+A: tickets ? what tickets ?
+B: two air tickets .
+A: air tickets ?
+B: yes . we will fly to paris the day after tomorrow .
+A: we ? the day after tomorrow ? what are you talking about ?
+Targ-B: today is june 18 , isn ' t it ?
+Pred-B: we are going to miss miss our one - hour trip . what about 16 ?
+Targ-KW: june 18 isn
+Pred-KW: we half hour
+
+A: i know . it really makes a mess of the whole election process .
+B: and it takes up all the news .
+A: the problem is that there always a large number of people who eat that kind of stuff up .
+B: it's so small . the fact that there is public interest , doesn't say much for us as the public .
+A: have you ever listened to am radio ? it's quite a different experience than the traditional news stations on tv and fm radio .
+Targ-B: i don ' t remember the last time i listened to am radio .
+Pred-B: i don ' t know . check it out . how about a pcc ?
+Targ-KW: remember last listened radio
+Pred-KW: check could
+
+A: exactly . you know , the sunshine and wind remind me of our honeymoon . you remember ? the island , the sound of the waves , the salty sea air and the sunshine ...
+B: yes , it was wonderful but it's already been a year . how time flies !
+A: why not go again to celebrate out one-year anniversary ? we can go to the same beach , stay in the same hotel and enjoy a dinner in the same restaurant .
+B: are you kidding ? can you afford it ? do you think we can get a room on such short notice ?
+A: never mind that , i'll take care of it . are you available next week ?
+Targ-B: yeah , i think so .
+Pred-B: yeah , i think so . you can come again this time and buy a new one .
+Targ-KW: yeah
+Pred-KW: yeah
+
+A: do you speak english ?
+B: yes , a little .
+Targ-A: can you tell me how to get to the jade buddha temple ?
+Pred-A: but i hear that many people are not working hard .
+Targ-KW: jade buddha temple
+Pred-KW: are working people
+
+A: what ' the matter ?
+B: the food station was as crowded as usual . i waited for 20 minutes for my sandwich , and when i finally got it the chicken was underdone .
+A: i see . you simply can't blame the server for this .
+B: yes , i know . fast food is so popular in this district .
+A: that's true .
+Targ-B: anyway , how was your such , catherine ?
+Pred-B: anyway , how can i get your idea with catherine ? i thought you were as fast as i didn ' t know .
+Targ-KW: anyway catherine
+Pred-KW: anyway catherine
+
+A: can you help me do an internet search ?
+B: sure . what do you want to find ?
+A: i want to find information on the american civil war .
+B: well , can you be more specific ? there are a lot of websites about that .
+A: yes , i want to know about the battle of gettysburg .
+Targ-B: o . k . well , go to google . com , and type in “ battle of gettysburg . ”
+Pred-B: oh , i see . when did you get a watch ?
+Targ-KW: google com “ battle gettysburg ”
+Pred-KW: when did look
+
+A: it's martin scorsese . you liked his film , the departed , didn't you ?
+B: yes , it was fantastic ! can i read the article when you're finished ?
+A: sure . you know it has an online edition , too . you should go online to read if you want to read it now .
+B: that's ok . i'll wait until you're finished . just out of curiosity , do you have a subscription for that magadize ?
+A: no . i don't buy it regularly enough for it to be worthwhile .
+Targ-B: how much does the magadize cost ?
+Pred-B: who ' s that ? who ' s the author ?
+Targ-KW: ##adi ##ze
+Pred-KW: who author
+
+A: i ' m going to be moving out soon .
+B: you still have time on your lease .
+A: there ' s no way that i can stay here .
+B: that ' s not going to be all right .
+A: i don ' t understand why .
+Targ-B: i ' m going to have to keep your deposit
+Pred-B: that ' s a problem . you can stay with those .
+Targ-KW: to keep deposit
+Pred-KW: problem those
+
+A: guess who i saw just now ?
+B: who ?
+A: john smith , the escaped criminal .
+B: that bad egg , who took the low road since he was a boy .
+A: i think i must report to the cops .
+Targ-B: ok .
+Pred-B: why do you do that ?
+Targ-KW: ok .
+Pred-KW: ll
+
+A: so i'm on the fifth floor ? how come this hotel has no fourth floor .
+Targ-B: four is an unlucky number here , peter . four sounds like death in chinese . hotels often have no fourth floor .
+Pred-B: sorry , miss . i have not to use the name . could you hold the line now ? i ' m moving through the lobby and take the
+Targ-KW: four ##lu ##cky peter death hotels fourth
+Pred-KW: have the name hold line and moving under lobby elevator stairs
+
+A: i ' m glad you could find time to meet with me , mr . johnson . i can ' t think of a nicer environment for our meeting today , the ambiance here is lovely !
+B: no problem , if possible i always combine business with pleasure . now , let ' s hear more about these chocolates you ' re offering .
+A: well , as you know , i have recently become the sole distributor for grangers gourmet bon-bons here in the united states . they ' re a new manufacturer and are looking to break into the luxury market . naturally , your restaurant sprang into my mind immediately . i think your brand exemplifies many of the same traits as grangers and serving these chocolates would really add to your reputation for providing elegant , luxurious , first class dining .
+B: mmmm , sounds interesting ... gourmet chocolates , where are they produced ? belgium ?
+A: actually , the factory is located in scotland .
+Targ-B: really ? i didn ' t think they were known for their luxury chocolate production
+Pred-B: really ? i didn ' t think they were known for their luxury chocolate production . as far as i can see , people visit the square are located
+Targ-KW: known luxury chocolate production
+Pred-KW: known their luxury chocolate production
+
+A: good morning , sir . where are you going ?
+B: i ' m going to england by flight be987 .
+A: when is your flight ?
+Targ-B: 10 : 00 am . when am i supposed to check in ?
+Pred-B: 10 : 00 am when am i supposed to check in ?
+Targ-KW: 00 am supposed
+Pred-KW: 00 am supposed
+
+A: hi , who has the remote control ?
+B: i do . why , do you want me to change the channel ?
+A: yes , please . i can't stand watching the channel any more .
+B: i think they have pretty good programmes . but i'll change it if you really want .
+Targ-A: put it on channel 5 , ok ?
+Pred-A: if these games are ok , why do you ask me ?
+Targ-KW: channel 5
+Pred-KW: problems why ask
+
+A: hey . why did you take that money ? you are such a cheater ! i should send you to jail !
+B: i am not cheating . when you pass go , you collect $ 200 , everyone knows that !
+A: well you can ' t just take the money . you have to ask the bank for money . and i ' m the banker .
+B: banker ?
+Targ-A: yes . . .
+Pred-A: yes .
+Targ-KW: .
+Pred-KW: .
+
+A: really ? is he married ?
+B: no , of course not . he is still single .
+A: then what's your problem ?
+B: i try to keep it to myself . but there is a lot of gossip about us .
+A: oh , i see . office romance tends to be the subject of gossip .
+Targ-B: worse still , he is trying to avoid me these days .
+Pred-B: worse still , he is trying to avoid me .
+Targ-KW: worse trying avoid
+Pred-KW: worse trying avoid
+
+A: mostly on the civil war . you should also study the impact martin luther king jr . had on american society .
+B: what about abraham lincoln ? did you get any questions about him ?
+A: i only had 1 question about him . but you might get more . i dont know if he will have the same exam or not .
+B: hopefully he will use the same exam , cause im going to spend most of my time studying the civil war . it is a huge section and that is what he lectured the most on in class .
+A: if you cant study everything , then that is probably the best way to go .
+Targ-B: aright . thanks for the info . i gotta go to the library now .
+Pred-B: by the way , i ' ve never thought about it , john .
+Targ-KW: ari ##ght info gotta
+Pred-KW: way never thought
+
+A: i can't figure out how to turn them on .
+B: do you have some quarters ?
+A: i didn't know i needed change .
+B: the washer costs 50 cents and the dryer costs a dollar .
+A: where do i put the change ?
+Targ-B: the quarters go into the slot . you have to push the slot in , and the machine will turn on .
+Pred-B: the shopped down the way to my office . do you want me to show you the way ?
+Targ-KW: the quarters slot push machine turn
+Pred-KW: the shop ##ped show
+
+A: good morning . i ' m from the new york book review . could i ask you some questions about your latest book ?
+B: sure . take a seat ... what would you like to know ?
+A: first , i ' ve heard that your latest book is based on a true story .
+Targ-B: that ' s correct . it ' s a murder mystery based on actual murders that book place in florida several years ago . the main character - the police invesigator - is based on the man who investigated the case .
+Pred-B: that ' s correct . it ' s a murder mystery based on actual murders that book place in florida several years ago . the main character - the
+Targ-KW: murder mystery based actual murders florida the character - ##ves ##iga ##tor investigated
+Pred-KW: murder mystery based actual murders florida the character - ##ves ##iga ##tor investigated
+
+A: i do ! my favorites are mexican , thai , and indian .
+B: really ? have you ever tried moroccan ?
+A: i can't say that i have . what are the basic ingredients ?
+B: i don't know . a friend of mine said i should try it .
+A: do you know where a moroccan restaurant is ?
+Targ-B: as a matter of fact , he gave me this address .
+Pred-B: it ' s a place where it ' s near qianmen . it ' s a pity if you have good taste .
+Targ-KW: fact gave address
+Pred-KW: s near qi ##an ##men pity tasting
+
+A: hey kevin , what are you doing here ? don't you usually spend tuesday nights at home studying ?
+Targ-B: i needed to get out of the house . my parents just went ballistic over something my older sister told them .
+Pred-B: no , i haven ' t . my parents are very busy recently . i thought i ' d be sitting in the weekend with my friends .
+Targ-KW: needed my parents ballistic older sister
+Pred-KW: my parents busy recently spending weekend sitting home doing
+
+A: you just can ' t imagine ! i waited for the first bus but it was too full , so i waited for the second , and it was still very crowded . then i decided not to wait for the next one , and got on the second bus . it was so full that i had to stand on one foot ! no kidding !
+B: hmm . good exercise , uh ?
+A: yeah , absolutely !
+B: and it ' s so much fun . one day , the bodies were so tightly packed that some girl ' s behind was pressed against my front . i was afraid to put my hands down for fear of accidentally groping her .
+A: you were so happy , weren ' t you ?
+Targ-B: what do you think ? i ' m a good boy .
+Pred-B: what do you think ? i ' m a good boy . . .
+Targ-KW: think good boy
+Pred-KW: think good boy
+
+A: we are going to climb a cliff on the colorado river .
+B: how hard is the climb ?
+A: it is a very difficult climb because there are not many places to put your hands and feet .
+B: what did you do last week ?
+A: we rappelled down the side of 300 - foot cliff . it was very exciting .
+Targ-B: wow ! that sounds like a lot of fun . i ' m sorry i missed it .
+Pred-B: wow ! that sounds like a lot of fun . i ' m sorry i missed it .
+Targ-KW: wow sounds lot fun missed
+Pred-KW: wow sounds lot fun missed
+
+A: no appetite , always on edge , and i can't sleep well .
+B: did you lose any weight ?
+A: yes , i have lost quite a few pounds since last month .
+B: when was the last time you had a check-up ?
+A: about two month ago .
+Targ-B: let me take your blood pressure . you look anemic .
+Pred-B: are you sure that the doctor had that one by hard orders ?
+Targ-KW: blood ##emi ##c
+Pred-KW: doctor foods
+
+A: nice to meet you , mr . peter . i ' m wang sian . i ' ve come for an interview as requested .
+B: oh , yes . how do you do , miss wang ? sit down , please .
+A: thank you .
+B: what was your major in school ?
+A: i majored in public relations .
+Targ-B: have you done any work in this field ?
+Pred-B: what kind of work are you in ?
+Targ-KW: done field
+Pred-KW: kind development
+
+A: tom , i won first prize in the poetry contest .
+B: come on ! you're pulling my leg .
+A: really ! here's my trophy .
+Targ-B: wow ! congratulations !
+Pred-B: thank you . which guy is it ?
+Targ-KW: congratulations
+Pred-KW: which guy
+
+A: did you get a job right after graduation ?
+B: no , i traveled for a while in europe after college , and then i lived in france .
+A: when was that ?
+B: let's see ... that was about six years ago .
+A: i bet that was interesting . what did you do there ?
+Targ-B: i studied french . anyway . . . that ' s enough about me . how about you ? were you born in l . a . ?
+Pred-B: i went to paris last year , and it was the best time for me to buy a house in school . i enjoyed it .
+Targ-KW: studied french . anyway enough about born l
+Pred-KW: paris went world best year life school
+
+A: i prefer potatoes to eggplants .
+B: i feel eggplants are more nutritious .
+A: but as a matter of fact , potatoes taste better .
+Targ-B: oh , that ' s how you see it .
+Pred-B: but i still have enough time to go .
+Targ-KW: oh how see
+Pred-KW: still enough
+
+A: good morning ! i am a new comer in our office .
+Targ-B: good morning ! welcome to our office !
+Pred-B: ah , yes , ms . wilson . what are you doing in your office ?
+Targ-KW: ! welcome
+Pred-KW: ah ms wilson office
+
+A: bob !
+B: anne ! i haven't seen you for ages . how ' ve you been ?
+A: fine , just fine . and you ?
+Targ-B: not bad . it really is great to see you again . where have you been ?
+Pred-B: not bad . it really is great to see you again . w here have you been ?
+Targ-KW: bad great again where been
+Pred-KW: bad great again w been
+
+A: look at the show on tv . i am watching a food show at a very famous seafood restaurant . i really want to eat at that restaurant . i am a seafood lover .
+B: speaking of seafood , my mouth is watering . let's go to the seafood restaurant in our neighborhood .
+A: sound great . let's go !
+B: look at the crystal clear fridge . you can see so many kinds of seafood in it . they all look very fresh and delicious .
+A: true . i would like to have some salmon sashimi and a roast salmon head .
+Targ-B: you sound like a seafood expert . i would like to have some stir - fried squids and steamed shrimps .
+Pred-B: that sounds delicious . it ' s definitely a good idea . are you american , toms and saucers ?
+Targ-KW: expert stir fried squid ##s shrimp
+Pred-KW: sounds delicious definitely italian
+
+A: we are planning to go to beidaihe for vacation . do you want to go with us ?
+Targ-B: it ' s so cool !
+Pred-B: sure . where should we go ?
+Targ-KW: cool
+Pred-KW: where
+
+A: yeah , so are you planning on going ?
+B: i think so . it sounds like it's going to be a lot of fun .
+A: it really does , i can't wait .
+B: what time does the party start ?
+A: it starts at 8 o'clock .
+Targ-B: oh , well , how many people has she given invites to so far ?
+Pred-B: well , who all is going to be ? it ' s fun . i hope you will like it .
+Targ-KW: many given invites far
+Pred-KW: who all going fun
+
+A: then would you please go to a dance party with me ?
+B: with pleasure . i suppose you dance often .
+A: oh , no . as a matter of fact , i haven't danced for a long time .
+B: but i am told that you dance wonderfully well .
+A: thanks for flattering me . i think you dance a lot , right ?
+Targ-B: no . just occasionally .
+Pred-B: no . just occasionally .
+Targ-KW: occasionally
+Pred-KW: occasionally
+
+A: mum , can i finish my homework later ?
+B: sorry . you know the rules .
+A: but i want to watch tv now .
+B: that ' s out of the question .
+A: please .
+Targ-B: not a chance .
+Pred-B: not a chance . i ' ll pick you up at 9 : 00 pm .
+Targ-KW: chance
+Pred-KW: chance
+
+A: what specific duties would i perform if i am hired ?
+B: nothing different from a secretary's common responsibilities . however , you know , our company is an international trade-oriented company , can you handle english papers and write english correspondence ?
+A: yes . i specialized in english secretary studies at college and that's one of the main parts of my present job .
+B: what are your salary expectations ?
+A: i really need more information about the job before we start to discuss salary . maybe you could tell me what is budgeted for the position .
+Targ-B: the starting monthly salary would be ¥ 2 , 000 , with rises after the half year according to your competence .
+Pred-B: well , the salary is based on your academic achievements and my competence , so i hope to work with a bank of 1 , 000 yuan a month
+Targ-KW: starting monthly salary ¥ rises competence
+Pred-KW: salary according academic achievements competence
+
+A: how many languages can you speak ?
+B: i can speak french and german .
+A: how well can you speak them ?
+B: i can speak german quite well , but i can't speak french very well .
+Targ-A: can you help me to translate these sentences into german now ?
+Pred-A: can you help me to translate these sentences into german now ?
+Targ-KW: translate sentences german
+Pred-KW: translate sentences german
+
+A: beijing library .
+B: hop in , please .
+A: is it a long ride to beijing library ?
+B: it will take about thirty minutes because it is the rush hour .
+A: thirty minutes , that will be all right . there are still fifty minutes to go before the library is open . look , what are they doing on the square ?
+Targ-B: it is an exhibition of chinese jades . it is held each year . a nice collection jades of are on display and sold .
+Pred-B: they ' re not going to work . i know you ' re going to be in a hurry . please take a shortcut .
+Targ-KW: exhibition jade ##s held each collection display sold
+Pred-KW: they ' re going to work hurry short ##cut
+
+A: how long will you stay in new york ?
+B: just tor three days . i won't need these luggages . couid i put them here ?
+A: i am sorry . if you have here more than 24 hours between connecting flights , we can't check your luggage through london .
+B: well , maybe i can put them in the airport storage there .
+Targ-A: that ' s right . it ' s over there .
+Pred-A: what kind of storage facility did you want ?
+Targ-KW: s right over
+Pred-KW: storage facility
+
+A: i give up ! i simply can't learn french !
+B: why do you say that ? i think you're making a lot of progress .
+Targ-A: no , i ' m not . i try and try and i still can ' t speak it very well .
+Pred-A: no , i ' m not . i try and try and i still can ' t speak it very well .
+Targ-KW: i try and still speak very
+Pred-KW: i try and still speak very
+
+A: my brother , here , this is an invitation letter from him . i will stay with him and his family in their home .
+B: alright , tell me about the ties you have to your home country .
+A: well , i own a house . actually , i ' m leaving my dog there with my neighbors . i have a car at home , and oh , my job ! i ' m employed by tornal as an engineer . actually , i only have three weeks ' vacation , so i have to go back to work at the end of march .
+B: and what evidence do you have that you are financially independent ?
+A: well , i do have assets in my country . like i said , i own a house , and see , here ' s a bank statement showing my investments , and my bank balance .
+Targ-B: i ' m sorry , sir , we cannot grant you a b2 visa at this time , instead , you are granted a resident visa ! congratulations , you are the millionth person to apply for a visa ! you win ! congratulations !
+Pred-B: oh , my goodness . you don ' t have to be a realtor , but i think renewing this contract will be signed by 14 months
+Targ-KW: , cannot grant you a ##2 visa granted resident ! congratulations million ##th apply
+Pred-KW: it real ##tor renew contract signed month report
+
+A: what other kind of music do you listen to ?
+B: actually , i mostly just listen classical music . what about you ?
+A: to be honest , i think classical music is too complicated for me .
+B: what kind of music do you prefer then ?
+A: i like pop music . do you ?
+Targ-B: not really . i don ' t think pop music has much depth .
+Pred-B: not really . i don ' t think pop music has much depth .
+Targ-KW: pop music has depth
+Pred-KW: pop music has depth
+
+A: what subjects are you studying ?
+B: english , math , commercial and legal studies , and accountancy .
+A: have you had any working experience .
+B: well , i worked at a supermarket during last summer holidays .
+A: what do you like to do in your spare time ?
+Targ-B: i like sports very much . besides that , i also like working on a computer in my spare time .
+Pred-B: i usually play chess with my friends . but i like playing basketball best .
+Targ-KW: like sports besides working computer spare
+Pred-KW: chess friends playing basketball
+
+A: please mail this letter for me on your way to the store .
+B: sure . do you want it to be registered ?
+A: yes , i think so . there are some pictures in it . it would be a great pity if they were lost .
+B: yes , i will be glad to mail your letter .
+A: thanks .
+Targ-B: you are welcome .
+Pred-B: are you going to come back ?
+Targ-KW: welcome
+Pred-KW: come back
+
+A: why'd you pull me over ?
+Targ-B: are you aware that you drove through a red light ?
+Pred-B: i had no idea that way . i ran into it .
+Targ-KW: aware drove light
+Pred-KW: idea ran into
+
+A: twenty of them are going abroad to china and america .
+B: do you have any going anywhere in the eu ? if you do , those are less expensive .
+A: no .
+B: ok , here you go . that will be 18 pounds and seventy two pence .
+A: and the bubble wrap ?
+Targ-B: that ' s another quid .
+Pred-B: that ' s another quid .
+Targ-KW: qui ##d
+Pred-KW: qui ##d
+
+A: lee , i'm going to get married next month .
+Targ-B: good news ! and congratulations !
+Pred-B: wow ! you ' re going to love it !
+Targ-KW: congratulations
+Pred-KW: ! love
+
+A: do you think they two will get married ?
+Targ-B: yeah , you can count on it .
+Pred-B: you can count on it .
+Targ-KW: yeah count
+Pred-KW: count
+
+A: look ! mom , that's amazing ! i can't believe the girls have so neat movements .
+Targ-B: yeah , they all received very strict training . a minute on the stage takes ten - year practice .
+Pred-B: and look at her ! her face is swollen and red . i wonder if she ' s not available this time .
+Targ-KW: received strict training stage takes practice
+Pred-KW: her face swollen red hair wonder
+
+A: wow , amy , look at that number .
+Targ-B: what ' s so great about it ?
+Pred-B: what ' s so great about it ?
+Targ-KW: great about
+Pred-KW: great about
+
+A: i have just received your note which informs me that you have offered the accountant position to another candidate . may i ask why i was defeated ?
+B: we have thought of you carefully with discretion , but the other candidate has more experiences .
+Targ-A: experience is important , but don ' t you think capability is more valuable than that ?
+Pred-A: that ' s right . i hope to learn more than the future .
+Targ-KW: experience is important capability valuable
+Pred-KW: learn more than future
+
+A: i don't know . i saw him the first time tuesday . he was at the cafe . i noticed he was looking at me a lot . not just the usual looking , but staring . he just kept staring at me . he didn't stop .
+B: what did you do ?
+A: i didn't do anything . finally , he left . but then i saw him again today . outside the shoe store . near the cafe . i went into a cd store and pretended i was looking at cd's . but then he came in too .
+B: did he leave when you left ?
+A: yes . then i noticed he was on the sidewalk behind me . he was following me .
+Targ-B: what did you do ?
+Pred-B: what did you do ?
+Targ-KW: did
+Pred-KW: did
+
+A: i want to take a look at that home with the open house flags out front .
+B: what a wonderful neighborhood ! can you find that house on our open house list ?
+A: yes , that is one of the houses that we have on our list .
+B: they always make the front yards look so great for open houses . let ' s see what the inside looks like .
+Targ-A: i am going to go sign my name in the registry to let the listing agent know that we were here .
+Pred-A: well , it looks like a great house . let ' s see if you can get inside and look at the big house .
+Targ-KW: sign name registry listing agent were
+Pred-KW: looks great curb inside house
+
+A: yes , that's what i need .
+B: he is really clear on what you need to learn to get a good grade . are you willing to study hard ?
+A: yes , i guess so .
+B: what i really liked about him is that he was an understanding and friendly teacher . do you enjoy that in a teacher ?
+A: yes , i had a teacher like that before .
+Targ-B: did you know that he has 20 years teaching experience ?
+Pred-B: to be honest , i would never be a teacher . he taught me a lot about 50 percent , if you want to take the class any more
+Targ-KW: 20 teaching experience
+Pred-KW: would be honest he taught fun
+
+A: which university did you graduate from ?
+Targ-B: i graduated from peking university .
+Pred-B: i graduated from hebes university .
+Targ-KW: peking
+Pred-KW: graduated ##bes
+
+A: oh , my god . i can't take it any more .
+B: what's wrong , honey ? take it easy .
+A: i am tired of doing that boring work . i just repeat doing counting everyday . it's so terrible .
+B: me too . but i think we can do something else for a change .
+Targ-A: you know i work with my professional knowledge not passion . sometimes i don ' t know what the meaning of working is ?
+Pred-A: but we need to know why this relationship isn ' t going anywhere . do you think our relationship is ok on the map ?
+Targ-KW: know professional knowledge passion sometimes meaning working
+Pred-KW: different relationship isn anywhere
+
+A: excuse me . i am looking for a book called little women , but i can't find it anywhere .
+Targ-B: let me see . i am sorry we just have sold it out .
+Pred-B: let me see . i am sorry we just have sold it out .
+Targ-KW: am sorry sold out
+Pred-KW: am sorry sold out
+
+A: not very far from here . we'll fly . it's about one and a half hours .
+B: what's there to see ?
+A: there is a large canyon , vast grasslands , ancient forests and mountain lakes .
+B: oh , sounds nice .
+A: yes , the scenery there is breathtaking . i have some pictures at home . you can come over and take a look if you like .
+Targ-B: ok . then i can make up my mind .
+Pred-B: ok . then i can make up my mind .
+Targ-KW: then make mind
+Pred-KW: then make mind
+
+A: the restaurant across the street hired a new chinese chef , so i ordered some chinese food there for this evening .
+Targ-B: good . i love chinese food . what did you order ?
+Pred-B: what are you planning to try ?
+Targ-KW: chinese food order
+Pred-KW: planning cleaning
+
+A: you look fresh recently . how do you make it ?
+B: i attend an aerobic class three times a week .
+Targ-A: aren ' t you tired ?
+Pred-A: aren ' t you tired ?
+Targ-KW: tired
+Pred-KW: tired
+
+A: what is that ? it looks like something from a swamp !
+B: it's a green drink . it's supposed to be full of vitamins and minerals .
+A: you know , healthy eating doesn't have to make you gag .
+B: the sales lady said that even if i eat right , i wouldn't get enough vitamins .
+A: have you ever tried it ? or are you just going to believe the sales lady ?
+Targ-B: it ' s easier to drink this once a day than eat fruit and vegetables all day .
+Pred-B: she said it ' s good , but she ' s such a nice drink . it ' s twice a week to buy .
+Targ-KW: easier once day fruit vegetables
+Pred-KW: she ' s such a supermarket twice different buy
+
+A: do you have any questions ?
+B: yes , do i have to work a whole year before i can take a vacation ?
+A: yes , after you ' ve been here a year , you qualify for a three-day vacation
+Targ-B: only three days ?
+Pred-B: i see . when can i get sick ? i hope it ' s not necessary for me to quit my job .
+Targ-KW: days
+Pred-KW: tomorrow when sick
+
+A: next , please . may i help you , sir ?
+B: hello , yes , i ' d like to open a bank account .
+Targ-A: certainly , i can can help you with that . what type of account would you like to open ? a chequing or a savings account ?
+Pred-A: certainly , i can can help you with that . what type of account would you like to open ?
+Targ-KW: can type account open che ##quin ##g savings
+Pred-KW: can type account open che ##quin ##g savings
+
+A: how about going to the cinema tonight ?
+B: that's great . what's on tonight ?
+A: i am not sure about the name of the film , but i know it's a romantic one .
+B: romantic ? i am afraid i like thrillers better .
+A: don't you think it's too bloody ?
+Targ-B: on the contrary , very exciting .
+Pred-B: on the contrary , very exciting .
+Targ-KW: contrary exciting
+Pred-KW: contrary exciting
+
+A: hello ! tomorrow i'm going to need a wake-up call .
+B: not a problem . what time shall we call you ?
+A: i always hit the snooze button , so give me two calls , one at 7 and another at 7 fifteen .
+Targ-B: it ' ll be our pleasure . we ' ll call you at 7 and then at 7 fifteen .
+Pred-B: your wish is our command . expect a call at 7 : 00 pm and again , sir .
+Targ-KW: ll pleasure call at 7 fifteen
+Pred-KW: command expect at 7 fifteen
+
+A: do you believe in ufos ?
+B: of course , they are out there .
+A: but i never saw them .
+Targ-B: are you stupid ? they are called ufos , so not everybody can see them .
+Pred-B: do you think that there ' s life on other planets ?
+Targ-KW: are stupid called ufo everybody
+Pred-KW: life other planets
+
+A: i love history , but i ' ve always thought that learning the reasons behind events is more important than remembering exactly when they happened .
+B: i wish you had been my history teacher ! i might have got better marks !
+A: some people say that history repeats itself .
+B: what does that mean ? the same events never happen twice , do they ?
+A: the idea is that the people and dates change , but the reason why things happen stay the same .
+Targ-B: i see . i think i ' d agree with that statement . people often seem to make the same mistakes over and over again .
+Pred-B: i see . i think i ' d agree with that statement . people often seem to make the same mistakes overworked .
+Targ-KW: agree statement often seem same mistakes over
+Pred-KW: agree statement often seem same mistakes over
+
+A: nicole , your fettucini is very ... unique .
+B: but not as good as your mother's , right ?
+A: actually , it's better ...
+Targ-B: what ? are you kidding ?
+Pred-B: hangzhou style . , ok , here you are .
+Targ-KW: kidding
+Pred-KW: hang ##zhou
+
+A: hi . i ' m here to catch flight 513 to new york .
+Targ-B: may i see your ticket please ?
+Pred-B: is there anything i can do for you ?
+Targ-KW: may ticket
+Pred-KW: anything should
+
+A: for the 100th anniversary of the opening of the library we are going to have a party .
+Targ-B: that ' s a wonderful way to celebrate this grand old library !
+Pred-B: thank you . what time will you do this ?
+Targ-KW: celebrate grand library
+Pred-KW: time love special
+
+A: i will be there half an hour early .
+B: you might want to tell whoever is picking you up that you will return on december 8th . do you have a ride ?
+A: yes , someone is picking me up .
+B: to get back to campus by 8
+A: not at the moment — maybe later , though .
+Targ-B: all of the extra information that you need is on the bulletin board in the hallway . see you on monday !
+Pred-B: ok . . . in that case , we will have to change the bus driver ' s credit card as soon as possible .
+Targ-KW: extra on bulletin board hallway monday
+Pred-KW: . we bus driver credit card
+
+A: hey , taxi .
+B: where to , sir ?
+Targ-A: beijing library .
+Pred-A: i ' ll take you there .
+Targ-KW: beijing library .
+Pred-KW: take
+
+A: i'm so glad i bought this watch !
+B: cool ! flashy red lines !
+A: i think this is the coolest watch i've ever owned .
+B: is it waterproof ?
+Targ-A: isn ' t that a silly question ? you know how much of an athlete i am .
+Pred-A: yes , it is . this is a fun game and it costs more than a long time .
+Targ-KW: isn silly question athlete am
+Pred-KW: is fun game cost
+
+A: hi . i need to have my shoes repaired .
+B: what ' s the matter with them ?
+A: look at the heels . they are slanting .
+B: ah , i can do it perfectly .
+Targ-A: how much does it cost ?
+Pred-A: what do you need for the better ?
+Targ-KW: cost
+Pred-KW: need better
+
+A: i have to check out today . i'd like my bill ready by 10 this morning .
+Targ-B: you can be sure of that , sir .
+Pred-B: what ' s your name and room number ?
+Targ-KW: sure sir
+Pred-KW: name number
+
+A: what courses did you take in college ?
+B: i took a lot of courses , such as philosophy , logic , ethics , aesthetics , etc .
+A: which course did you like best ?
+Targ-B: i liked aesthetics best . it is very impressive .
+Pred-B: i liked it . it ' s interesting . which course did you like ?
+Targ-KW: liked aesthetics impressive
+Pred-KW: both interesting useful
+
+A: push the red button on the mike to turn it on .
+B: ok . this key is too high for me .
+A: i think it's a piece of cake for you .
+B: ok . let me have a try ...
+A: well done ! i hope i can sing as well as you one day .
+Targ-B: thank you . i ' m sure you will .
+Pred-B: never mind . i ' m really willing to hear this heart .
+Targ-KW: thank you sure
+Pred-KW: voice willing heart
+
+A: hello ? this is john smith . can i speak to mr . white , please ?
+B: this is mr . white speaking .
+Targ-A: hi . i understand that you have a house for sale , haven ' t you ?
+Pred-A: sorry , mr . smith . i have an appointment with you in a week .
+Targ-KW: hi understand house sale haven
+Pred-KW: calling appointment week
+
+A: yes , and i want to buy the insurance too . i think it's necessary .
+B: you're smart to buy it . at 45 dollars for three days , it is a good deal .
+A: can i return the car in san francisco ?
+B: san francisco ? no , sir . we only have this office here . you will have to return it here .
+A: really ? i heard in america you can return rental cars in different cities .
+Targ-B: no , sir . that ' s only with the very big companies . i ' m sorry , but this car must be returned to this lot .
+Pred-B: of course . i prefer travel to a rental agency . the room is exactly what you want . can i have the money ?
+Targ-KW: sir only big companies this car must returned
+Pred-KW: prefer travel a rental agency room exactly cost
+
+A: have you seen the new james bond movie ?
+B: oh , yes . you ?
+Targ-A: yes . what did you think of it ?
+Pred-A: yes . how did you like it ?
+Targ-KW: did think
+Pred-KW: did think
+
+A: what are your personal weaknesses ?
+B: i ' m afraid i ' m a poor talker . i ' m not comfortable talking with the people whom i have just met for the first time . that is not very good for business , so i have been studying public speaking .
+Targ-A: are you more of a leader or a follower ?
+Pred-A: what are the best part ?
+Targ-KW: a leader follower
+Pred-KW: best
+
+A: helen , did you hear i ' m having a party ? next saturday in my place .
+B: i may have something on that day , but thanks for inviting me .
+A: well , drop by if you can .
+Targ-B: i will , do you want me to bring anything ?
+Pred-B: i will , do you want me to bring anything ?
+Targ-KW: want bring anything
+Pred-KW: want bring anything
+
+A: if you need to work overtime , you will get twice the usual salary as overtime pay .
+B: ok .
+A: you have read the relevant terms of the contract . do you have other questions ?
+B: how long will the induction training be ?
+A: about two weeks .
+Targ-B: i see .
+Pred-B: thank you .
+Targ-KW: i see .
+Pred-KW: thank
+
+A: you're made a good choice . this china tea set is unusual .
+Targ-B: where was it from ?
+Pred-B: it ' s a must .
+Targ-KW: where
+Pred-KW: what
+
+A: it's too hot to read .
+B: we'd better go out for a walk .
+Targ-A: which season do you like best ?
+Pred-A: which season do you like best ?
+Targ-KW: which season
+Pred-KW: season best
+
+A: could you do me a favor and proofread my resume before i send it out to the human resources department ?
+B: sure , let me take a look ... personal information , education , experience , training ... i think you should add another section for language . you speak three languages , so you might as well put that on your resume .
+A: but languages don't have anything to do with engineering . shouldn't everything i put on my resume have something to do with my field ?
+B: not necessarily . i think people would be impressed by your language abilities . it says something about your level of intellect and experience . also , i think human resources directors want to see more of a well-rounded person in a resume .
+A: it's just a piece of paper , you think that they can tell if i am a well-rounded person by looking at it ?
+Targ-B: well , you ' re right , the resume is limited in how much it can tell someone about a person . that ' s why job interviews are important to let people know the real you that they can ' t see from a piece of paper . but resumes can be helpful in explaining things and giving a good impression to a potential employer .
+Pred-B: that ' s a bit bright , but what i need to do is to ask you . what if you need to do ? if you are hired
+Targ-KW: ' resume limited in can someone a person that interviews important real piece paper helpful explaining giving impression potential employer
+Pred-KW: a bit bright being able and ask seriously ? need hired you prove skills talents able ' plenty learn from job
+
+A: doris , i'm glad you're home . i'm terrified . i don't know what to do !
+B: what is it ? what happened ?
+A: i think someone is stalking me .
+B: no , it can't be . really ? who ?
+A: i don't know . i saw him the first time tuesday . he was at the cafe . i noticed he was looking at me a lot . not just the usual looking , but staring . he just kept staring at me . he didn't stop .
+Targ-B: what did you do ?
+Pred-B: what did you do ?
+Targ-KW: did
+Pred-KW: did
+
+A: what does your mother do , may i ask ?
+Targ-B: my mother works in a company as an accountant .
+Pred-B: she is a teacher . who works as an accountant ?
+Targ-KW: mother works accountant
+Pred-KW: mother works accountant
+
+A: i want something sweet after dinner .
+B: what do you have in mind ?
+A: a dessert sounds nice .
+Targ-B: what kind are you thinking of getting ?
+Pred-B: ok , i ' ll try that .
+Targ-KW: thinking getting
+Pred-KW: would try
+
+A: yes , that's my only day off until thursday .
+B: ok , well , my friends and i are planning on going to the beach on sunday . we tend to leave around noon whenever we go anywhere , so you could still sleep in . do you want to come with us ?
+A: that'd be fantastic ! which beach are you going to ?
+B: it's a quiet beach just about an hour outside of the city .
+A: what should i bring with me ?
+Targ-B: we ' ve got plenty of inflatables , but if you want to sit on a chair , you ' ll have to bring your own sunlounger .
+Pred-B: we ' ve got plenty of inflatables , but if you want to sit on a chair , you ' ll have to bring your own
+Targ-KW: plenty ##fl ##atable sit chair own sun ##lou ##nger
+Pred-KW: plenty ##fl ##atable sit chair own sun ##lou ##nger
+
+A: our benefits usually include medical insurance , public accumulation fund and allowances .
+Targ-B: what are the allowances ?
+Pred-B: how much is the salary ?
+Targ-KW: allowance
+Pred-KW: salary
+
+A: thank you . i think i should also have a look at the internet to see if anyone's got a sublet .
+B: how much do are you looking to spend ?
+A: i can only afford about 1,000 yuan a month .
+B: looks like you'll have to get a place in the suburbs .
+A: it doesn't matter , but it needs to be close to the subway or on a convenient bus route .
+Targ-B: anything you need to have in the place ?
+Pred-B: we call this one - hour parking meter in the city . it ' s only 5 , 000 yuan .
+Targ-KW: anything place
+Pred-KW: parking meter
+
+A: do you know that the dolphin is the most intelligent animal in the world ?
+B: yes . dolphins have a big brain and they are very smart . they are also the fastest swimmers in the world .
+A: they must be amazing animals .
+Targ-B: they are . i read a story about a dolphin saving a a from drowning in the sea .
+Pred-B: that ' s great . i can ' t imagine that many kids are so excited about that .
+Targ-KW: a dolphin saving drowning sea
+Pred-KW: imagine that kids excited
+
+A: have you adapted to the lifestyle in china ?
+B: yeah , almost . but there is one thing .
+Targ-A: what ?
+Pred-A: what ?
+Targ-KW: what ?
+Pred-KW: what ?
+
+A: hello , sir . how can we help you today ?
+B: i need to find out some more information for l / c . i would like an outline of responsibilities , both ours , yours and the beneficiary , please .
+Targ-A: ok , to start , the conditions are specified by the buyer and may include insurance forms , way bills , bills of lading , customs forms , various certificates .
+Pred-A: i see . it ' s an amazing growth opportunity ! they ' re true industry leaders , and have committed to extra responsibilities . could you please select
+Targ-KW: , conditions specified buyer include forms bills lad certificates
+Pred-KW: an growth industry leaders organization committed extra responsibilities
+
+A: so you ' d better explore the place the day before and at the same time , look around to see what the employees are wearing . so the next day you will arrive early for the appointment .
+B: i ' ll try my best to make a good impression on the interviewer .
+A: that ' s right . you need to create a good image in a limited time , usually about 30 to 45 minutes .
+B: it ' s always easier to say something than to do it .
+A: it ' s not too difficult to make a good impression . for example , you should take care to appear well-groomed and modestly dressed . avoid the extremes of a too elaborate or too casual style . this will put you on the same level as other applicants and make the interviewer consider more important qualifications .
+Targ-B: but i love wearing t - shirts and jeans .
+Pred-B: can you tell me how to wear professional suits or other professional clothes ?
+Targ-KW: wearing shirts jeans
+Pred-KW: wear professional suits
+
+A: mike ! look at the floor !
+B: what's wrong with it ?
+A: what's wrong with it ? it's filthy !
+Targ-B: oh . . .
+Pred-B: oh . . . sorry , jack !
+Targ-KW: oh
+Pred-KW: oh
+
+A: lucy , i ' d like to fix the light in the corridor , it keeps flashing , which drives me crazy . would you like to help me with the ladder ?
+B: monica , wait a moment . i think we ' d better call the repair man to do it .
+A: i think i can handle it by myself .
+B: i ' d like you to have a look at the safety manual of our company .
+A: i see . if i got hurt when fixing the light , even during office hours , i wouldn ' t get compensation from our company since repairing is not my responsibility .
+Targ-B: other company rules also need your attention .
+Pred-B: other company rules also need your attention . what ' s the issue with all the different files that can help you with ?
+Targ-KW: rules attention
+Pred-KW: rules attention
+
+A: it's quit a big cafeteria , isn't it ?
+B: sure . i usually have my lunch here . the food is tasty and they offer a big variety .
+A: let's line up . the steak is very inviting . i'll have it .
+B: i'll have ham and egg with french fries . what dessert do you want ?
+Targ-A: banana pie .
+Pred-A: i want some chocolate .
+Targ-KW: banana pie .
+Pred-KW: chocolate
+
+A: have you found anything nice yet ?
+B: i found a few pairs of pants .
+A: where'd you get those ?
+B: i found them at jc pennies .
+A: those are really cute .
+Targ-B: do you want me to show you where i found them ?
+Pred-B: do you want me to show you where i found them ?
+Targ-KW: show where found
+Pred-KW: show where found
+
+A: that's all right , i'm a beginner . i've just learnt how to play .
+B: look , there's a chessboard . those two men have already finished playing .
+A: you're a very good player
+B: not really , but once i won a prize .
+A: so did i . i won a prize last week but it was a prize for beginners .
+Targ-B: my prize was for the best player in the country . now let ' s start playing chess seriously .
+Pred-B: do you think you ' ll suffer from muscle pain ?
+Targ-KW: prize player country playing chess seriously
+Pred-KW: suffer muscle pain
+
+A: what's up ? you sound a little down in dumps .
+B: i quarreled with my roommate last night . he is really stubborn .
+A: calm down ! shouting won ' t help ?
+B: he is really outrageous .
+Targ-A: what happened ?
+Pred-A: why ? what do you want to do ?
+Targ-KW: what happened ?
+Pred-KW: make
+
+A: good afternoon . can i be of service ?
+B: i don't know . can i purchase treasury certificates here at this counter ?
+A: yes , of course . we have treasury notes with two , three and five-year terms available .
+B: two years is fine , with a value of 1,000 rib .
+Targ-A: ok , could i take a look at some id please , like a passport ?
+Pred-A: how about bearer certificates ? are they different from those of us ? a million of 000 rib , please .
+Targ-KW: could a id passport
+Pred-KW: bearer certificates ##ed
+
+A: did you watch the volleyball match last night ?
+B: yeah .
+A: who won ?
+B: china .
+A: what was the score ?
+Targ-B: china beat brazil 3 to 0 .
+Pred-B: seventy to sixty - seven .
+Targ-KW: brazil 0
+Pred-KW: seventy
+
+A: then it is june 20 the day after tomorrow .
+B: yes . think about it carefully .
+A: oh , come on . tell me please . why did you book tickets to paris ?
+B: oh , honey ! don ' t you remember this important day to us ?
+A: sorry .
+Targ-B: it is our 10th wedding anniversary this june 20 .
+Pred-B: no , of course . i like traveling .
+Targ-KW: 10th anniversary june
+Pred-KW: some traveling
+
+A: why don't you sit down and relax , darling ?
+B: i don't want to .
+Targ-A: well , come over and talk to me then .
+Pred-A: well , come and talk to me then .
+Targ-KW: come over talk
+Pred-KW: come talk
+
+A: you are speaking with professor clark .
+B: professor , i am kalina from your morning literature class .
+A: yes , how can i help you ?
+B: i ran my car into a tree yesterday and need to miss a few days of school .
+A: oh , my god ! i hope you are all right .
+Targ-B: i have a concussion , but i will be ok .
+Pred-B: it has no problem at all .
+Targ-KW: concussion will ok
+Pred-KW: has problem
+
+A: i want to get some pie .
+B: what kind of pie do you want ?
+A: i have no idea .
+B: do you want to know what kind of pie i like ?
+A: sure , what kind do you like ?
+Targ-B: i love apple pie .
+Pred-B: i love apple pie too . how much is it ?
+Targ-KW: apple
+Pred-KW: pie
+
+A: hey , taxi .
+B: where to , sir ?
+A: beijing library .
+Targ-B: hop in , please .
+Pred-B: take me to get there , please .
+Targ-KW: hop
+Pred-KW: take
+
+A: what can i do for you today ?
+B: i have a question .
+Targ-A: what do you need to know ?
+Pred-A: what is the problem ?
+Targ-KW: need know
+Pred-KW: problem
+
+A: i am sorry to have kept all of you waiting . i was delayed by something urgent .
+B: you are not late , mr . thomas . there're still 15 minutes to go . mr . white has just called you .
+A: what did he say ?
+B: he said there was a traffic jam , but he is coming .
+Targ-A: he shouldn ' t drive his car . he should come here by bus .
+Pred-A: could you leave him a message ? i am afraid there ' s no traffic jam on his car .
+Targ-KW: he shouldn drive bus
+Pred-KW: leave message
+
+A: i majored in public relations .
+B: have you done any work in this field ?
+A: yes , after my graduation , i worked in a trade company in macao for one year .
+B: what section did you work in ?
+A: the export business section .
+Targ-B: so you must be very familiar with export procedures .
+Pred-B: tell me about it . the job is about 50 % of my own .
+Targ-KW: familiar export procedures
+Pred-KW: tell job
+
+A: hello , where can i buy an inexpensive cashmere sweater ?
+B: maybe you should look around for an outlet .
+A: that is a wonderful idea .
+B: outlets have more reasonable prices .
+A: thank you for your help .
+Targ-B: no problem . good luck
+Pred-B: no problem . good luck .
+Targ-KW: luck
+Pred-KW: luck
+
+A: when was america discovered , tony ?
+B: i'm not certain . do you know ?
+A: america was discovered by christopher columbus in 1492 .
+B: in a way that's right . but the vikings travelled there long beforecolumbus . and what about the red indians ?
+A: all right . ask me a question now .
+Targ-B: who invented the electric light bulb ?
+Pred-B: uh , it ' s not sure . maybe we will turn around . travel by air , or the east .
+Targ-KW: invented bulb
+Pred-KW: uh turn traveling by europe east
+
+A: could you do me a favor and proofread my resume before i send it out to the human resources department ?
+B: sure , let me take a look ... personal information , education , experience , training ... i think you should add another section for language . you speak three languages , so you might as well put that on your resume .
+A: but languages don't have anything to do with engineering . shouldn't everything i put on my resume have something to do with my field ?
+B: not necessarily . i think people would be impressed by your language abilities . it says something about your level of intellect and experience . also , i think human resources directors want to see more of a well-rounded person in a resume .
+Targ-A: it ' s just a piece of paper , you think that they can tell if i am a well - rounded person by looking at it ?
+Pred-A: well , i think the engineering manager will go to my office supply means that i can buy something else from him . he said jim thomas must be
+Targ-KW: it a piece paper tell rounded person looking
+Pred-KW: engineering of office supply means buy else using
+
+A: did you have an accident recently ... hey , wait a second ! i know this car !
+B: you do ?
+A: i ran into it a couple of weeks ago . what do you know ? name's hal .
+B: i'm akimbo . nice to meet you , i guess .
+A: boy , i'm sure sorry about your car . hey , akimbo , i wonder if you'd like to make a deal ?
+Targ-B: what kind of deal ?
+Pred-B: go ahead , i ' ll buy a new car .
+Targ-KW: deal
+Pred-KW: buy car
+
+A: good morning . can i help you ?
+Targ-B: good morning . i ' m here to see rochelle davis , the human resources manager .
+Pred-B: yes . do you have any seats available on a flight for beijing leaving at 15 : 00 ?
+Targ-KW: rochelle davis human resources manager
+Pred-KW: seats beijing leaving 15
+
+A: it's especially cold when the wind is blowing .
+B: why don't you wear a scarf ?
+A: what can wearing one do for me ?
+B: you're cold because the wind is blowing into your open collar . it's not because your jacket isn't thick enough .
+Targ-A: so wearing a scarf helps your body to stay warm inside your jacket .
+Pred-A: i think it ' s not too bad . i ' ll take it .
+Targ-KW: scarf body warm jacket
+Pred-KW: it s too bad then
+
+A: how was the movie last night ?
+B: i didn't really like it .
+Targ-A: mary said that she was really pleased with the photography .
+Pred-A: mary said that she was really pleased with the photography .
+Targ-KW: mary pleased photography
+Pred-KW: mary pleased photography
+
+A: but , you were born and raised in california !
+B: yeah , but i get that sometimes . it doesn't matter how many generations my family has lived in the u . s . , we'll always be foreigners in their eyes .
+A: what a racist ! how can you stand working with the guy ?
+B: you know , richard isn't such a bad guy . he made the comment out of ignorance , not malice .
+A: so , what did you say when he asked you how long it took you to learn english ?
+Targ-B: i told him 28 years . and , he knows i ' m 28 years old since i just celebrated my birthday last week . he was puzzled for a minute , and then he got it .
+Pred-B: well , obviously , the news depends on what i do like to hear . the buck is always in touch with my business .
+Targ-KW: told 28 years he knows old since celebrated birthday puzzled minute
+Pred-KW: obviously depends passing buck know
+
+A: whew ! i had to wait for almost an hour to get to the front of the line .
+B: you have much patience .
+A: wow ! your calligraphy is very beautiful . it was worth the wait !
+B: thank you . today i'm writing a kind of poem called a chinese couplet .
+Targ-A: what does it say ?
+Pred-A: i see . are you your teacher , too ?
+Targ-KW: does
+Pred-KW: teacher mei land
+
+A: come in , come in !
+B: hi , gary , what happened ? i was waiting for you at the theater . why didn ' t you meet me there ?
+A: i thought we were supposed to meet here .
+Targ-B: don ' t you know our movie starts at seven ? and we were going to meet at the theater at five to seven . then it doesn ' t make sense to meet at the apartment .
+Pred-B: don ' t you know our movie starts at seven ? and we were going to meet at the theater at five to seven . then it doesn '
+Targ-KW: t movie starts at seven to meet theater doesn sense apartment
+Pred-KW: t movie starts at seven to meet theater five sense apartment
+
+A: what can i do for you today ?
+B: i would like to use a computer .
+Targ-A: do you have your library card ?
+Pred-A: are you having anything to use ?
+Targ-KW: library card
+Pred-KW: anything use
+
+A: uh , the origin of law . and it's written by professor felix of harvard .
+B: i'm sorry . it's out of stock now . could you come by again next week ?
+A: next week ? it is too late . i need it urgently .
+B: well , then , is it convenient to leave your phone number so that i can inform you as soon as we restock it ?
+A: no , thanks any way .
+Targ-B: you ' re welcome .
+Pred-B: you ' re welcome .
+Targ-KW: welcome
+Pred-KW: welcome
+
+A: hello . this is mrs . wilson . i'd like to buy a new car . could you offer me a new type of the car , please ?
+Targ-B: oh , madam , buy what ?
+Pred-B: sure . how do you like it ?
+Targ-KW: madam buy
+Pred-KW: how
+
+A: where's mrs . johnson ?
+Targ-B: just call her lisa , mary . she ' s cooking dinner .
+Pred-B: she ' s out of the office .
+Targ-KW: lisa mary cooking
+Pred-KW: her office
+
+A: hey , blake ! are you still listening to mozart ?
+B: yes . do you like it ?
+A: it's great . and i ' ve heard that listening to mozart can make you more intelligent .
+Targ-B: really ? i ' ve never heard that before . i just like it .
+Pred-B: i agree . it ' s just like being a parent . i think it helps a lot .
+Targ-KW: ve never heard before
+Pred-KW: agree it being parent helps
+
+A: where are you going , jane ?
+B: i'm going to the hospital to see susan .
+A: i saw her yesterday . she was a little better .
+B: must i catch a number 7 bus to get there ?
+Targ-A: no , you needn ' t . a number 13 bus will also take you to the hospital .
+Pred-A: no , you needn ' t . a number 13 bus will also take you to the hospital .
+Targ-KW: ##n number 13 bus also hospital
+Pred-KW: ##n number 13 bus also hospital
+
+A: anything you need to have in the place ?
+B: i want a bedroom with full bath , and it'll be better if the bedroom is on the sunny side .
+A: you can also check out university bulletin boards .
+B: why ? will those be students who are leaving ?
+A: not really , but landlords put up notices to attract students and they often have low rent .
+Targ-B: thank you . i ' ll be sure to take a look .
+Pred-B: thanks for letting me know . i have to go to my apartment anyway . i want a phone number 1 , 000 rib .
+Targ-KW: thank take look
+Pred-KW: letting apartment anyway
+
+A: may i know where you are going ?
+Targ-B: yes . i want to go to beijing hotel .
+Pred-B: i am going to live in pasadena .
+Targ-KW: to beijing hotel
+Pred-KW: live pasadena
+
+A: where ' s sally , jack ?
+B: she ' s in the garden , jane .
+A: what ' s she doing ?
+Targ-B: she ' s sitting under the tree .
+Pred-B: she ' s playing tennis with her . . .
+Targ-KW: sitting tree
+Pred-KW: playing tennis
+
+A: i shouted it back of course .
+B: hold it , mike . you won't accomplish anything by hollering at him , right ? you worked it all up till now . why not wait until you cool down a bit ?
+A: what would you do if you were in my shoes ?
+B: just stay cool . you know . when you get back home tonight , tell him that you didn't mean to quarrel with him .
+A: no way , kate . i mean it's just not my fault .
+Targ-B: i know . it wouldn ' t hurt much to say sorry first . and after that , you can casually mention the problem . i am sure he will cooperate .
+Pred-B: oh , it ' s my fault , i ' ve been doing it for a long time . i can ' t put you down any more .
+Targ-KW: wouldn hurt say first after casually mention problem cooperate
+Pred-KW: it ' fault hadn t put down knew
+
+A: mr . carter has asked me to come over to invite you to the banquet held in your honor at the shangri-la hotel at 7:00 this evening . here's an invitation for you .
+B: how nice of him . i'll be delighted to go . but what time would be convenient ?
+A: if you could be ready by , say 6:30 o'clock , i'll be at the hotel to pick you up .
+B: that's great . it's most thoughtful of you to do this , miss rose .
+Targ-A: it ' s my pleasure . well , then . i ' ll say goodbye .
+Pred-A: it ' s my pleasure . well , then , see you tomorrow .
+Targ-KW: pleasure then say goodbye
+Pred-KW: pleasure then see tomorrow
+
+A: i'm just calling to see if you have made any decision about the position .
+B: sorry , we haven't made the decision at all .
+Targ-A: do you have any idea when you might arrive at a decision ?
+Pred-A: then what will you do to learn from that position ?
+Targ-KW: might arrive decision
+Pred-KW: will experience
+
+A: what kind of place shall we rent ?
+B: it should be close to the university . neither of us are good at getting up in the mornings and closer it is , the later we can get up .
+Targ-A: absolutely . that ' s the most important thing to take into consideration . i ' m not too worried about the size of the flat .
+Pred-A: how about the rent each month ? we can build a new one on the campus . it ' s a noisy way to work .
+Targ-KW: absolutely the important into consideration worried size flat
+Pred-KW: apartment build campus
+
+A: tom , i won first prize in the poetry contest .
+Targ-B: come on ! you ' re pulling my leg .
+Pred-B: do you want to go with me ?
+Targ-KW: come pulling leg
+Pred-KW: want go
+
+A: definitely . i have to spend 300 yuan more on food every month .
+B: the biggest price jump is for pork , so most people have to turn to chicken .
+A: is that inflation ?
+B: inflation is more than just the rising prices , i guess . but the central bank is warning about the risk of inflation .
+A: has the government taken some measures to curb it ?
+Targ-B: yes . the government has banned price hikes in some key industries like energy .
+Pred-B: yes , it ' s said that the government should make a move on to others .
+Targ-KW: banned hike industries energy
+Pred-KW: government serves moves cool
+
+A: yes , i ' m pleased to see that you also got a distinction .
+B: yes that ' s right . i ' ve always enjoyed studying . my friends say i ' m a bit of a bookworm , but my father always pushed us to succeed academically .
+A: well , it looks like his encouragement paid off rebecca . so how about extracurricular activities at university ?
+B: well i ' ve always been keen on writing , so i became the editor for the university student magazine , which i really loved . also i volunteered for a group called shelter , to help the homeless in york .
+A: what did that involve ?
+Targ-B: providing warm meals and shelter , especially in the winter months . i found it really fulfilling to be part of that group .
+Pred-B: providing warm meals and shelter , especially in the winter months . i found it really fulfilling to be part of that group . 7 pm a week at
+Targ-KW: providing warm meals shelter winter fulfilling group
+Pred-KW: providing warm meals shelter winter fulfilling group
+
+A: i guess i'm just a little nervous . i'm giving everything i have to invoking , and ...
+B: and what if it doesn't work out , right ?
+A: exactly .
+Targ-B: you need to quit thinking like a loser . invoking is going to kick butt . you know how i know ?
+Pred-B: you need to quit thinking like a loser . invoking is going to kick butt . you know how i know ?
+Targ-KW: quit loser ##voking kick butt know
+Pred-KW: quit loser ##voking kick butt know
+
+A: i need to get my license .
+B: you're going to need to complete six hours .
+A: how many hours a day can i do ?
+B: you can do two hours a day for three days .
+A: that's all i need to do to finish ?
+Targ-B: yes , that ' s all you need to do .
+Pred-B: you ' re finished . you need to fill out the form .
+Targ-KW: yes all need
+Pred-KW: finished need fill
+
+A: hi , george . i'm going to have a job interview next week . could you give me some advice ?
+Targ-B: sure . first of all , it ' s very important for you not to be late . job interviewers usually don ' t think very highly of a candidate who arrives ten minutes after the appointed time , only to explain that he could not find the place or that there was heavy traffic .
+Pred-B: sure . i know you should have a free job interview tomorrow . i think they will be suitable for you . you know , a lot of things
+Targ-KW: of very important not late interview ##ers usually highly candidate arrives ten minutes appointed explain heavy traffic
+Pred-KW: . should have free pay for a job interview ##er suitable best
+
+A: hi there , i want to reserve a hotel room .
+B: no problem at all . could i have your full name , please ?
+A: sure , john sandals .
+B: hi , mr . sandals . i'm michelle , at your service . when do you need the room ?
+A: my plans are to be there april 14th to the 17th .
+Targ-B: we have new room rates , sir . will that be acceptable to you ?
+Pred-B: perhaps you didn ' t know that we have new room rates . do you find that acceptable , sir ?
+Targ-KW: room rates sir acceptable
+Pred-KW: perhaps that room rates find acceptable
+
+A: i wish the politicians would quit digging up dirt about each other's past .
+B: i know . it really makes a mess of the whole election process .
+A: and it takes up all the news .
+B: the problem is that there always a large number of people who eat that kind of stuff up .
+Targ-A: it ' s so small . the fact that there is public interest , doesn ' t say much for us as the public .
+Pred-A: i think the government should make a good move . he knows the news about it .
+Targ-KW: small fact public interest doesn say us
+Pred-KW: government serves moves cool
+
+A: are you serious ?
+B: it ' s the truth .
+A: are you okay ?
+B: i really wanted to get into nyu .
+A: i am really sorry to hear that .
+Targ-B: it ' s okay . i ' m still waiting to hear from ucla anyway .
+Pred-B: if i were you , then i ' d talk to you next time .
+Targ-KW: waiting hear ucla anyway
+Pred-KW: then didn talk
+
+A: excuse me , does this bus go to the new bookstore ?
+Targ-B: no , you ' ll have to get off at the bank , and take a no . 50 .
+Pred-B: no , you ' ll have to get off at the bank , and take a no . 50 .
+Targ-KW: no get off bank take 50
+Pred-KW: no get off bank take 50
+
+A: it falls on the fifth day of the fifth lunar month .
+B: could you tell me the origin of the two festivals ?
+A: ok . the dragon boat festival is a way to commemorate a great ancient poet named quyuan . on that day , people will hold a boat race as a symbol of the attempt to save him who threw himself into the river .
+B: why do people eat rice cakes on that day ?
+A: in order to prevent the fish from eating the poet's body .
+Targ-B: it sounds so moving .
+Pred-B: it ' s interesting .
+Targ-KW: moving
+Pred-KW: interesting
+
+A: which university did you graduate from ?
+B: i graduated from peking university .
+A: what was your major at university ?
+B: i studied economics , i am especially interested in the economic development of china .
+A: what course did you like best ?
+Targ-B: i like business management , and i think it ' s very useful for the present work .
+Pred-B: i like business management , and i think it ' s very useful for the present work .
+Targ-KW: business management useful present work
+Pred-KW: business management useful present work
+
+A: when is it ?
+B: it falls on the fifth day of the fifth lunar month .
+A: could you tell me the origin of the two festivals ?
+B: ok . the dragon boat festival is a way to commemorate a great ancient poet named quyuan . on that day , people will hold a boat race as a symbol of the attempt to save him who threw himself into the river .
+A: why do people eat rice cakes on that day ?
+Targ-B: in order to prevent the fish from eating the poet ' s body .
+Pred-B: rice rolls on that day , when it is open from 2 : 00 pm , you can come there at 11 : 00 pm .
+Targ-KW: prevent eating poet body
+Pred-KW: rice rolls birthday
+
+A: excuse me sir . may i come in ?
+B: mike , you're late again .
+A: i'm sorry , but my sister was ill , so i
+Targ-B: do you think i believe the story like that ?
+Pred-B: do you think i believe the story like that ?
+Targ-KW: think believe story
+Pred-KW: think believe story
+
+A: what can i do for you today ?
+B: i have a question .
+A: what do you need to know ?
+Targ-B: i need to take the driver ' s course . how many hours do i need ?
+Pred-B: well , i . . . er . . . it is just . . . just that i get my visa , right ?
+Targ-KW: need driver course many hours
+Pred-KW: well . er is just that
+
+A: that was a really good meal , gordon .
+B: it sure was . i couldn't eat another bite .
+A: well , it is getting pretty late . i think we should go home .
+Targ-B: you ' re right . i have to get up early to go to work tomorrow .
+Pred-B: you ' re right . i have to get up early to go to work tomorrow .
+Targ-KW: re to early work tomorrow
+Pred-KW: to up early work tomorrow
+
+A: look at the show on tv . i am watching a food show at a very famous seafood restaurant . i really want to eat at that restaurant . i am a seafood lover .
+Targ-B: speaking of seafood , my mouth is watering . let ' s go to the seafood restaurant in our neighborhood .
+Pred-B: one of the traditional dishes like those fried fish , such as prawns , crabs , and fish . i ate a lot of seafood and almost
+Targ-KW: speaking seafood mouth watering restaurant neighborhood
+Pred-KW: portions ##aw ##ns crabs ate smoked salmon
+
+A: sure . i often buy things or do business through it without going out to the physical stores .
+B: great ! it's just like viewless stores . but how can you shop or order on line or trade on line ?
+A: that's simple . just click the hyperlink , www . taobao . com or www . ebay . com , and you can see the specimen of the goods shown on the screen , and then you can place an order online with the sales company . and the goods will be delivered to your place .
+B: is the service charged ?
+A: no . it's free .
+Targ-B: really . i ' ll get a computer at once .
+Pred-B: gucci , i . thank you for all the time . and where is your birthday ? it ' s a gift for my friend .
+Targ-KW: really computer once
+Pred-KW: gu ##cci
+
+A: cute ? hope so .
+B: oh , it is coming to us , come on , ben , get a banana to it .
+A: me ? no way , keep him away from me , please .
+B: why are you acting so strange today ?
+A: i've said that i've got a problem with the circus . i'm not kidding .
+Targ-B: that ' s weird !
+Pred-B: that ' s all right .
+Targ-KW: weird
+Pred-KW: right
+
+A: hello , are you chinese ?
+B: no , i'm korean . where are you from ?
+A: i'm from america . are you settling in all right ?
+B: i've already found a flat and it's quite comfortable . what about you ?
+A: i live in my uncle's house . he came here ten years ago .
+Targ-B: what do you think of the local accent here ? has it been causing you any problems ?
+Pred-B: oh , good . did you come to visit me for a long time ?
+Targ-KW: local accent has causing problems
+Pred-KW: did come visit
+
+A: could you change these for me , please ?
+Targ-B: what would you like ?
+Pred-B: sure . how about this ?
+Targ-KW: would
+Pred-KW: sure
+
+A: it's a good thing that i have choices here . can you tell me about the one on saturday ?
+B: sure . it's to raise money for the homeless .
+A: what about the performance itself ?
+B: oh , it's a reserved opera named the monkey creates havoc in heaven .
+A: wow , a story about the clever monkey king . it's a classic and children's favorite .
+Targ-B: it surely is . and the cast is really the best .
+Pred-B: it surely is . and the cast is really the best .
+Targ-KW: surely is cast
+Pred-KW: surely is cast
+
+A: i really need to start eating healthier .
+B: i have to start eating better too .
+A: what kind of food do you usually eat ?
+B: i try my best to eat only fruits , vegetables , and chicken .
+A: is that really all that you eat ?
+Targ-B: that ' s basically it .
+Pred-B: that ' s right . i mean , how about the chicken anymore ?
+Targ-KW: basically
+Pred-KW: mean
+
+A: you need a babysitter .
+B: yes , i'd ask jill , the girl i've had before , but i need someone overnight . maybe even for two nights .
+A: i could have suzy stay at my place .
+B: i don't want to do that to you , karen .
+A: why not ?
+Targ-B: your own kids would get suzy ' s cold . i think it would be better to have a good babysitter here . but i don ' t know who to ask . i need someone more mature than jill . it might even be for two or three days .
+Pred-B: your own kids would get suzy ' s cold . i think it would be better to have a good babysitter here . but i don '
+Targ-KW: own kids would suzy cold . be baby ##sit ##ter someone mature jill might even
+Pred-KW: own kids would suzy cold . be baby ##sit ##ter ask someone mature jill might
+
+A: excuse me . i have an appointment with mr . li at nine . may i come in ?
+B: yes , come in please . i am mr . li . you must be my liu , right ?
+Targ-A: yes , i am my liu . thanks .
+Pred-A: yes , i do .
+Targ-KW: liu thanks
+Pred-KW: do ms
+
+A: have you seen the tower in front of us . that's the famous eiffel tower . it was built in 1889 for the world's fair .
+Targ-B: how tall is this building ?
+Pred-B: what a pity ! then how long have you been ?
+Targ-KW: tall
+Pred-KW: a pity
+
+A: here is the draft contract , mr . brown . let's discuss the clauses to see if we agree on all of them . then i will make out an original of the contract . after that , what's left is to fill out the contract and sign our names .
+B: that's ok .
+A: the contract is to be written in chinese and english . both languages are equally effective .
+Targ-B: fine . if you ' ll excuse me , i ' d like to go it over first . ( after about 15 minutes ) hmm , you ' ve done a pretty good job . it ' s well prepared .
+Pred-B: that ' s a good thing . when you sign a contract , you can pay more attention to practice . if you use spanish , we will use
+Targ-KW: fine ' excuse ( 15 minutes ) hmm done pretty job prepared
+Pred-KW: the sign contract points attention to practice use spanish classes computer
+
+A: well , what do you think about the development in computers ?
+B: the developments in software are going ahead very quickly and more and more problems are resolved by software . in some regions , the hardware is completely replaced by software . so i think the software industry has a great future .
+A: have you ever designed any programs concerning network ?
+B: yes , i have designed some programs for the network with visual c + + and i have passed the test for programmers - muse .
+A: have you got anything to ask me ?
+Targ-B: yes , can you tell me what ' s my responsibility in this position ?
+Pred-B: not really . i have to use my computer screen , so i am interested in .
+Targ-KW: tell responsibility this position
+Pred-KW: screen so am interested
+
+A: yes , i liked it , too . it was exciting , but not over the top . do you know what i mean ?
+B: mmm . that's what i thought too . i really liked the car chase , and the opening credit sequence was very exciting . and i always enjoy watching pierce brosnan .
+A: oh , yes . he's brilliant . did you like the title song ?
+B: not as much as last time , actually . what's the name of the american actor who was in the supporting role ?
+A: hum , edward norton , or something like that . did you like him ?
+Targ-B: yes . he was excellent . they worked well together , don ' t you think ?
+Pred-B: yes , he did . he very funny , even when he starts at eight .
+Targ-KW: he was excellent worked together
+Pred-KW: he funny starts eight
+
+A: what dressing would you like on the salad ?
+Targ-B: french dressing , please .
+Pred-B: french dressing , please .
+Targ-KW: dressing
+Pred-KW: dressing
+
+A: how did you find your apartment ?
+B: you can check on the bulletin boards at school for local housing .
+A: what if i need a roommate ?
+Targ-B: there are websites that can hook you up with a roommate .
+Pred-B: you can find an apartment with live in boxes of room 1019 .
+Targ-KW: websites hook roommate
+Pred-KW: students uniforms
+
+A: is it too late to mail the continued claim form in now ?
+B: it can ' t be more than fourteen days late for us to accept it .
+A: i will mail it in a little early next time to avoid this problem .
+B: you can ' t possibly know in advance how much you will be working . if you mail it in too soon , we will reject it !
+A: will my paycheck arrive late because i messed up on my form ?
+Targ-B: your check will be arriving late , but the next one will come right on time .
+Pred-B: let me check . yes , you will have to go back in a few days . are you sure you are doing business with him ?
+Targ-KW: check will arriving late next
+Pred-KW: check few days getting money
+
+A: did you pack this bag yourself ? has it been out of your possession at any time before checking-in ?
+B: yes , i packed it myself , and it hasn ' t been out of my possession .
+A: are you bringing in any plants or animal products ?
+B: no .
+A: our sniffer dog seems to disagree . do you mind if we look in your suitcase ?
+Targ-B: not at all . go right ahead .
+Pred-B: no , thanks . maybe i ' ll go .
+Targ-KW: right ahead
+Pred-KW: maybe go
+
+A: abby park hotel . can i help you ?
+Targ-B: yes , i would like to book a room for my wife and myself .
+Pred-B: yes . i ' d like to book a double room with bath .
+Targ-KW: book room wife myself
+Pred-KW: book double room bath
+
+A: have you ever read this book before ?
+B: no , but my little brother likes it very much .
+A: it's really a good book . you will like it too .
+B: i'll try to read it . actually , i like literature very much .
+A: wow , that sounds like a scholar . by the way , who's your favorite writer ?
+Targ-B: jane austen .
+Pred-B: i like the novels of dickens very much . i ' ve read almost all of them .
+Targ-KW: jane austen .
+Pred-KW: novels dickens read almost
+
+A: so dick , how about getting some coffee for tonight ?
+B: coffee ? i don ' t honestly like that kind of stuff .
+Targ-A: come on , you can at least try a little , besides your cigarette .
+Pred-A: come on , you can at least try a little , besides your cigarette .
+Targ-KW: least little besides cigarette
+Pred-KW: least little besides cigarette
+
+A: i'd like to speak dr . johnson .
+B: sorry , but he's not in . may i take a message for you ?
+Targ-A: this is robert jordan . would you ask him to call me back , please ?
+Pred-A: this is robert jordan . would you ask him to call me back , please ?
+Targ-KW: robert jordan ask call
+Pred-KW: robert jordan ask call
+
+A: what's the matter with you , then ? you look miserable .
+B: it's us .
+A: what do you mean by " us " ?
+B: well , we used to talk to each other before we were married . remember ?
+Targ-A: what do you mean ? we ' re talking now , aren ' t we ?
+Pred-A: what do you mean ? we ' re talking now , aren ' t we ?
+Targ-KW: mean we talking aren
+Pred-KW: mean we talking aren
+
+A: have heard of paul ?
+B: no , what ?
+A: he's got a promotion .
+B: you're kidding .
+A: no , they made him vicepresident in charge of sells .
+Targ-B: i don ' t believe it . he is only being with the company for two years .
+Pred-B: that ' s correct , sir . what about him ? he gets the message that you are coming to get me .
+Targ-KW: believe only being company years
+Pred-KW: correct that gets message told coming
+
+A: come on , nothing can be that bad .
+B: but promise me , you'll keep it a secret .
+A: ok , i promise . so what's troubling you so much ?
+B: i've fallen in love with my boss .
+A: really ? is he married ?
+Targ-B: no , of course not . he is still single .
+Pred-B: bo , of course not . he is still single .
+Targ-KW: course still single
+Pred-KW: bo still single
+
+A: what kind of personality do you think you have ?
+B: i'm quite active and energetic . i approach things enthusiastically and i don't like to leave things half-done .
+A: do you think you are introverted or extroverted ?
+B: i'm quite outgoing i think . i enjoy mixing and doing things with others .
+A: what do you think is the most important thing for you to be happy ?
+Targ-B: i maintain that the most important thing is having good friends . a person can ' t live all by himself i think . a friend in need is a friend in deed . the more really close friends i have , the better .
+Pred-B: i maintain that the most important thing is having good friends . a person can ' t live all by himself i think . a friend in need is
+Targ-KW: maintain the important having friends a person live himself friend in deed close
+Pred-KW: maintain the important having friends a person live himself friend in deed close
+
+A: what game do you like ?
+B: i like board games . i like chinese chess and draughts .
+A: i ' ve never played chinese chess before , but i ' ve seen old men playing it in the street . it looks complicated .
+Targ-B: it ' s about as complicated as chess . the basic rule and moves are simple enough , but there are many strategies that players need to learn .
+Pred-B: what do you think of the chinese chess ? it ' s better than my friends . do you think it ' s no object ?
+Targ-KW: as complicated chess basic rule moves strategies players
+Pred-KW: great chinese chess friends think object
+
+A: why didn't you tell me you had a girlfriend ?
+B: sorry , i thought you knew .
+Targ-A: but you should have told me you were in love with her .
+Pred-A: but you should have told me you were in love with her .
+Targ-KW: told were love
+Pred-KW: told were love
+
+A: can you help me do an internet search ?
+Targ-B: sure . what do you want to find ?
+Pred-B: sure . where can i find it ?
+Targ-KW: want find
+Pred-KW: sure find
+
+A: brian , do you know how to speak english ?
+B: yes .
+A: where did you learn ?
+Targ-B: i learned in college .
+Pred-B: i was at school in america .
+Targ-KW: learned
+Pred-KW: school america
+
+A: our toner cartridges are already out of ink ... could you make an order for a new set ?
+B: we will need new cartridges for all of the office printers ? that will be a large order , probably about two or three cases . the office supply store we usually go through might not have that many in stock .
+A: you can double check with the housekeeping department , but i am pretty sure all of the machines will need new cartridges . last time when we made our order to the supplier , the quantity was also especially high . they are used to receiving such bulk orders from us . as long as we give them a heads up a couple days in advance , they can usually fill the order .
+Targ-B: ok , i will make a few calls and run our order by housekeeping first to make sure . is there anything else we need to order while i am at it ?
+Pred-B: that ' s good . our general manager will keep the order . anyway , i think we can keep the fax machine .
+Targ-KW: make few calls run order house ##keeping anything else while
+Pred-KW: general manager keep about supply
+
+A: certainly . and what vegetables would you like ?
+B: oh , spinach , i think .
+A: fine , and what about something to drink ?
+B: just a beer , please .
+A: good . thank you . sir .
+Targ-B: would you like to have some more beer ?
+Pred-B: i ' m really not thirsty .
+Targ-KW: more beer
+Pred-KW: thirsty
+
+A: i am calling to consult you about the job as a copywriter .
+B: yes , what do you want to know ?
+A: the information is scanty for me . and can you describe the responsibilities of the position ?
+Targ-B: yes . copywriters are supposed to design and write articles for the advertising company .
+Pred-B: well , how long do you follow the regulations ? it depends on how long you are working on it .
+Targ-KW: copy ##writer design articles advertising
+Pred-KW: long follow regulations
+
+A: let's make sure we are on the same page . do we want a formal or informal gathering ?
+B: let's make it a formal affair .
+A: yes , that would be best . now , for food should we have chinese or american food ?
+B: american food would be the best choice .
+A: that would be great . what kind of music would you like , a band or recorded music ?
+Targ-B: we should bring in a really good dj .
+Pred-B: i like hip hop , but i don ' t like to play the guitar . i am a good fan of best friends .
+Targ-KW: bring dj
+Pred-KW: hip hop play guitar
+
+A: hi , dan . what's new ?
+B: where have you been ? i've been trying to get in touch with you for two days .
+Targ-A: i went to salt lake city on business . what ' s up ?
+Pred-A: really ? i ' ve been calling about my job the past week .
+Targ-KW: went salt lake city
+Pred-KW: been calling past week
+
+A: well , i am a bit out of shape . i'm thinking about getting some exercises to keep fit .
+B: oh , that's good news for us .
+A: so what do you provide ?
+B: first of all , we'll design a custom-made work-out plan according to your habits .
+A: how can you get that done ?
+Targ-B: well , we give each of our customers a personal trainer who is qualified . and he will give you a fitness assessment and then come up with the work - out plan for your needs .
+Pred-B: well , that ' s an excellent idea . we can get together some things - together no problem . do you want to join us ?
+Targ-KW: give each customers personal trainer qualified and fitness assessment plan needs
+Pred-KW: excellent idea running together green plant along join
+
+A: why is that ?
+B: i really love how rain clears the air .
+A: me too . it always smells so fresh after it rains .
+B: yes , but i love the night air after it rains .
+A: really ? why is that ?
+Targ-B: because you can see the stars perfectly .
+Pred-B: the stars look so much closer after it rains .
+Targ-KW: stars perfectly
+Pred-KW: stars closer rains
+
+A: welcome to the company . we are conducting a survey of new employees to find out what influenced them to choose our company .
+B: that's easy . it was your office ergonomics that decided me .
+A: you're kidding ! something as simple as that ?
+B: yes . it is very important to me . my mother worked in offices for twenty years , and she finally had carpal tunnel syndrome . i have been reading about repetitive stress injuries , and i know that t
+A: yes , there has been a lot of research into rsi's . something so simple as proper chair height can prevent injuries . tell me , did anything else influence your decision ?
+Targ-B: yes , i noticed that you have professional training and team - building days . i like the idea of working for a company that invests in its staff .
+Pred-B: well , i decided to invest more money in some areas . my education helped me a lot about my career . i think a regular dieting time
+Targ-KW: noticed professional training team building working invest its staff
+Pred-KW: decided areas invest education helped career
+
+A: yes , it's very nice . all our foreign visitors enjoy it . the food is wonderfully well-prepared . let me know if you need any help with the menu .
+B: thank you . mmm . can you tell me about the terrine ?
+A: yes . a terrine is a kind of meat pate . it's meat turned into a paste . it sounds horrible but it's actually really good .
+B: mmm . maybe another time .
+A: you could try the ravioli . they are rather like your chinese dumplings , and the sauce is delicious .
+Targ-B: sounds good . i think i ' ll have the lamb for my main course . what does it come with ?
+Pred-B: ok , i will bring the tea and vegetables .
+Targ-KW: sounds lamb main course does come
+Pred-KW: would food
+
+A: good morning . what can i do for you ?
+B: i'm looking for some earrings for my wife as a wedding anniversary gift .
+A: you've come to the right store . we've got a beautiful and wide selection of earrings for you to choose from .
+B: i saw a pair of earrings outside your window . can you show them to me ?
+A: do you mean the exquisite pearl earrings ?
+Targ-B: exactly . how much do you want for them ?
+Pred-B: yes , here you are .
+Targ-KW: exactly want them
+Pred-KW: here one
+
+A: tim ' s smiles are interesting .
+B: yes , they are shy and gentle but very powerful .
+A: you are right . they sweep nancy off her feet . and now she fell head over heels in love with him .
+Targ-B: how wonderful it would be if i had such smiles !
+Pred-B: wow . your boyfriend is so popular .
+Targ-KW: wonderful such smiles
+Pred-KW: boyfriend
+
+A: bill , do you know if the cafeteria around the corner's open today ?
+B: yes . they were open this morning when i came to work . they must've finished remodeling . why do you want to know ?
+A: well , i thought that maybe we could go there for lunch today . that is , if you haven't promised to go with someone else .
+B: that'd be wonderful , peter . but i hope you're in a better mood than you were this morning .
+A: i'm sorry i was such a grouch . it must've been the weather . when it rains i get depressed .
+Targ-B: forget it . i ' ll see you at 11 : 30 am .
+Pred-B: how long does it take ? the rainy weather is better today !
+Targ-KW: forget 11 : 30
+Pred-KW: rainy weather !
+
+A: it's very kind of you to say so . how about changing another one for you ?
+B: all right . thank you .
+A: just a minute , please . i won't be long . i'm sure this one is perfect . you may examine it carefully .
+B: oh , yes , it is . i'll take this one .
+A: i'm very sorry for any inconvenience i've caused you .
+Targ-B: well , there ' s no reason to apologize for such a trifle thing .
+Pred-B: what ' s the matter with you ?
+Targ-KW: reason apologize tri ##fle
+Pred-KW: matter
+
+A: excuse me , is this seat taken ?
+B: i ' m afraid this seat is taken .
+A: oh . is it . thank you anyway .
+Targ-B: you ' re welcome . why don ' t you ask the conductor when he comes by ?
+Pred-B: you ' re welcome . if you need help , just ask the conductor when he comes .
+Targ-KW: welcome ask conductor comes by
+Pred-KW: you welcome ask conductor he comes
+
+A: what are you listening to ? is that beethoven or mozart ?
+Targ-B: it ' s beethoven . do you like it ?
+Pred-B: it ' s beethoven . do you like it ?
+Targ-KW: it beethoven like
+Pred-KW: it beethoven like
+
+A: mary , it's good to see you !
+B: josh and i were just on our way back home from the beach and thought we'd drop by .
+Targ-A: i am so glad that you decided to stop by !
+Pred-A: are you kidding ? what time will it be ?
+Targ-KW: glad decided stop
+Pred-KW: kidding got off
+
+A: good afternoon ! did you call for a plumber ?
+B: yes , yes i did . please come in ! i ' m so glad you came ! this old house is falling apart ! come on into the bathroom . see , here , there ' s water leaking everywhere !
+A: i see . let me have a look . it seems that your toilet is clogged , and that ' s why it won ' t flush . let me just get my plunger . no , that ' s not working either . i suspect that there ' s some sort of foreign object in the pipes that ‘ s causing a blockage . that ' s what ' s making your toilet overflow .
+B: oh , that must be because of my four-year-old daughter . she is always flushing things down the toilet . you know how kids are .
+Targ-A: yeah , i have a little one myself . anyway , these water pipes are really rusty , so they also should be changed . thatcould be causing water to not drain completely , that might lead to more problems in the future . i would also suggest fixing this faucet that isn ' t shutting off properly . i could have it all finished by today if it ' s urgent .
+Pred-A: no , not at all ! the bathroom building wouldn ' t be able to scold me if i were a employee . i ' m gonna have
+Targ-KW: , water pipes rusty also be changed that ##co ##uld causing drain completely lead future suggest fixing fa ##uce shutting properly finished urgent
+Pred-KW: ! the bathroom building wouldn to sc ##old employee dry cleaning counter top
+
+A: take a seat inside and see what you think . so you will take the porsche then , sir ?
+B: yes , and i want to buy the insurance too . i think it's necessary .
+A: you're smart to buy it . at 45 dollars for three days , it is a good deal .
+B: can i return the car in san francisco ?
+Targ-A: san francisco ? no , sir . we only have this office here . you will have to return it here .
+Pred-A: of course you can . you can drive safely , and i won ' t wear your car any time .
+Targ-KW: san francisco have office here return
+Pred-KW: can drive safely wear stolen car
+
+A: good morning . this is room 113 . i'd like some breakfast , please .
+B: right . excuse me . mrs . jones ?
+A: that's right .
+B: what can i do for you ?
+A: i'd like some grapefruit juice , marmalade , two scrambled eggs with two sausages , toast , and a pot of black coffee , please . how long will it take ?
+Targ-B: just a few minutes , ma ' am .
+Pred-B: about 7 am .
+Targ-KW: minutes ma
+Pred-KW: 7
+
+A: hey , look over there . it seems that there is something interesting going on . let's go and have a look .
+B: sure . it's probably a skiing show . adam told me there are many skiing clubs whose members put on shows to attract more visitors .
+A: look at that . it's so dangerous . my mom would never allow me to do that .
+Targ-B: stop all this fuss and enjoy the show .
+Pred-B: didn ' t i tell you about it before ?
+Targ-KW: stop fuss
+Pred-KW: didn tell before
+
+A: here is the fish counter . look at the lobsters and crabs . shall we have some ?
+B: i'm allergic to these things , you know .
+A: sorry , i forgot . i don ' t like seafood , neither .
+B: let ' s go over there and get some milk , a couple dozen eggs and some orange juice .
+A: let's get frozen juice . it is really good . we ' ve got enough food . let ' s go over to the check-out stand .
+Targ-B: ok . but just let me pick up a bottle of cooking wine and oil as we go by .
+Pred-B: ok . i ' ll be back for lunch . i ' ve bought some drinks and i ' d like to try one .
+Targ-KW: pick bottle cooking wine oil by
+Pred-KW: back lunch bought drinks d younger
+
+A: i'd like to invite you to dinner tonight , do you think have time ?
+Targ-B: thank you for your inition . i ' m free tonight .
+Pred-B: thank you for your invitation . i ' m free tonight .
+Targ-KW: ##ition free tonight
+Pred-KW: invitation free tonight
+
+A: i'm going to go shopping for groceries in a little bit .
+B: why , do we need groceries ?
+A: i believe we are all out of food .
+B: do you know what to get ?
+Targ-A: i don ' t know what we need .
+Pred-A: i want to check in .
+Targ-KW: know need
+Pred-KW: check
+
+A: listen , karen , i need your help . i don't know anyone here yet .
+B: i'm glad to help you . what's wrong ?
+A: my mother-in-law just went into the hospital in l . a.hank and i will be flying there tonight .
+B: i'm sorry to hear it . what's wrong with her ?
+A: doctors aren't sure yet . but the real problem is suzy . she has a bad cold , and we don't want to take her with us . but we don't know who can stay with her .
+Targ-B: you need a babysitter .
+Pred-B: you need a babysitter . i hope she didn ' t know who could do anything about that with her .
+Targ-KW: ##sit ##ter
+Pred-KW: ##sit ##ter
+
+A: i learned in college .
+B: you speak really well .
+A: thank you .
+B: how long have you been in the u . s . ?
+A: 3 weeks .
+Targ-B: is your wife with you ?
+Pred-B: can i speak english now ?
+Targ-KW: wife
+Pred-KW: who
+
+A: johnson ? i can't place them .
+B: we met them in bermuda last may .
+A: they've completely slipped my mind .
+B: the couple with the dogs , think back .
+A: no , i don't recall a thing about them .
+Targ-B: well , i ' ve invited them for brunch .
+Pred-B: well , i ' ve invited them for brunch . will you do anything else ?
+Targ-KW: br ##un ##ch
+Pred-KW: br ##un ##ch
+
+A: oh , in what way .
+B: no appetite , always unaged and i can ' t sleep well .
+A: did you lose any weight ?
+B: yes . i ' ve lost quite a few pounds since last month .
+A: when was the last time you have track up ?
+Targ-B: about two month ago .
+Pred-B: i should try it sometime .
+Targ-KW: ago
+Pred-KW: sometime
+
+A: next , please . hello , may i help you , sir ?
+B: yes , i want to send a registered airmail letter to france .
+A: ok , it comes four dollars twenty cents .
+Targ-B: here is five dollars .
+Pred-B: here ' s a check for ten dollars .
+Targ-KW: five
+Pred-KW: ten dollars
+
+A: hello , jack . i'm john .
+B: i'm glad to see you !
+A: sit down , please . maybe you have read the contract , but i want to give you the details again before you sign the contract . you must have a three-month internship .
+B: yes , i know .
+A: when you become a permanent employee , you will have the insurances . you will get monthly pay and will be on eight-hour / day work shift .
+Targ-B: wait , will i have five insurances and one fund ?
+Pred-B: that ' s great . thanks a lot .
+Targ-KW: five insurance fund
+Pred-KW: lot
+
+A: what ' s the problem ?
+B: i wrote the check out for way too much .
+A: how much ?
+B: i wrote the check out for $ 150 .
+A: what were you supposed to write it out for ?
+Targ-B: i was supposed to write the check out for $ 100 .
+Pred-B: i forgot it was written for $ 150 .
+Targ-KW: supposed write 100
+Pred-KW: written 150
+
+A: where to , ma'am ?
+Targ-B: the grand hotel .
+Pred-B: the grand hotel .
+Targ-KW: grand
+Pred-KW: grand
+
+A: it's a german company . this unit has auto-reverse , recording capability , and an am / fm radio band . it also has a built-in microphone .
+B: i suppose i don't want that one then . i don't like auto-reverse . it breaks too easily .
+A: really ? have you had an auto-reverse break before ?
+B: yes , twice now . i think it's too high-tech , and so it's the first part that breaks .
+A: hmm . you know , the problem might be dust . did you clean the unit often ?
+Targ-B: well . no , i didn ' t clean it . but still , i only had the last one two months , and it broke . i don ' t trust auto - reverse .
+Pred-B: i know , i know . so it ' s on the shelf and i can go and look at the computer . why don ' t i run
+Targ-KW: , i t clean still months broke trust auto reverse
+Pred-KW: i know . the shelf and look at computer run
+
+A: should we tip ? this service is pretty good .
+Targ-B: yeah , we probably should . how much is normal ?
+Pred-B: you ' re right . i won ' t have an order for that .
+Targ-KW: yeah probably normal
+Pred-KW: won t an army
+
+A: so what do you think of my new dress ?
+B: i think it's great ! i really like the color , and it goes really well with your eyes . i've actually been eyeing that dress at maxine's for a while now , but i wasn't sure i could afford ninety-five dollars for a dress at the moment .
+A: um , ninety-five dollars ?
+B: yes , that's the price they were advertising it at . i was hoping it might go on sale soon . why , how much did you pay for it ?
+A: i bought it for one hundred and forty-five dollars at helen's boutique . i didn't know i could get it cheaper somewhere else .
+Targ-B: of course ! everything at helen ' s is overpriced , and they sell things that you can find at almost every other clothing store ! why didn ' t you shop around ?
+Pred-B: but there ' s nothing wrong with her . you ' re welcome to let her know . how much are you going to spend on her salary ?
+Targ-KW: ! at helen ##pr ##ice ##d sell almost clothing store shop
+Pred-KW: she re welcome her business spend salary
+
+A: jack wonders whether linda likes him or not .
+B: why doesn't he ask her ?
+A: he is too scared to ask her .
+Targ-B: he ' s a chicken guy .
+Pred-B: he ' s a chicken guy .
+Targ-KW: chicken guy
+Pred-KW: chicken guy
+
+A: no , i'd rather go out . the chinese food here is rather different from what i had at home . maybe we can try some other food today ... what about that all-you-can-eat place we passed the other day , the one over in the shopping center ?
+B: okay . i could go for that . it's called al's steakhouse . they also have great fried fish , and i love their salad bar . you can go back to refill your plate as often as you like .
+A: is that the place that serves such large portions of meat ?
+B: yes , their steaks are enormous . sometimes i can't finish what i've ordered .
+A: what if that happens to me ? i hate to let food go to waste .
+Targ-B: don ' t worry . we ' ll just get a doggie bag .
+Pred-B: don ' t worry . we ' ll just get a doggie bag .
+Targ-KW: worry dogg ##ie bag
+Pred-KW: worry dogg ##ie bag
+
+A: can you help me plan the office party ?
+B: sure . what do you need the most help with , the food or entertainment ?
+A: i need help with food .
+B: ok , well , let's coordinate our efforts . should this party be formal or casual ?
+Targ-A: i think it should be casual .
+Pred-A: i guess it ' s formal .
+Targ-KW: should casual
+Pred-KW: guess formal
+
+A: hello , sir . how can we help you today ?
+B: i need to find out some more information for l / c . i would like an outline of responsibilities , both ours , yours and the beneficiary , please .
+A: ok , to start , the conditions are specified by the buyer and may include insurance forms , way bills , bills of lading , customs forms , various certificates .
+B: ok , got it . is there anything else i need to know before we go ahead ?
+A: just that in effect , a basic letter of credit is a financial contract between the bank , the bank's customer , and the beneficiary , and this contract involves the transfer of goods or services against funds .
+Targ-B: that sounds fine , thanks for that . let ' s go ahead !
+Pred-B: so , you need to pay a second guarantor ' s loan from us . i need to see about 50 % of the profit and statement
+Targ-KW: that sounds fine ahead
+Pred-KW: second gu ##aran ##tor loan asa ##p
+
+A: we quarreled yesterday , and he picked up and left .
+Targ-B: terrible ! does he want to divorce ?
+Pred-B: you must be quarrelling again .
+Targ-KW: terrible divorce
+Pred-KW: quarrel ##ling
+
+A: i should not be surprised , many customers have the same opinion . do you have any suggestion in mind ? our salesman told your secretary that the price could be negotiable .
+B: that's why i came to your office today . we think for your model we - 506 $ 590 would be reasonable , because air conditioners of the same kind sold by other companies are usually about 579-649 .
+A: that's true . but if you understand that quality is the most important aspect of a product , you'll agree that 679 is not high , especially when we allow you a 10 % discount .
+B: i see your point . that's to say s 611 each set . still it's much higher than the market price . could you see your way to reduce the price , jack ?
+A: well , considering the quantity of your order we could further reduce the price to 600 . that's the best we can do . what do you think of that ?
+Targ-B: all right . we accept it . so $ 600 for each set .
+Pred-B: i ' ll accept that . i think it ' s a little high .
+Targ-KW: accept 600 each set
+Pred-KW: accept
+
+A: how do you do , jack . nice to meet you .
+B: well , i think you ' ve reconsidered our proposal , diane .
+A: yes , you are right . after all , the quality of your air conditioners is good . the only problem is price .
+B: i should not be surprised , many customers have the same opinion . do you have any suggestion in mind ? our salesman told your secretary that the price could be negotiable .
+A: that's why i came to your office today . we think for your model we - 506 $ 590 would be reasonable , because air conditioners of the same kind sold by other companies are usually about 579-649 .
+Targ-B: that ' s true . but if you understand that quality is the most important aspect of a product , you ' ll agree that 679 is not high , especially when we allow you a 10 % discount .
+Pred-B: that ' s great . you can anywhere else to discuss with the boss . when can you fill out this form ? i ' ll let us know
+Targ-KW: that understand quality aspect product agree 67 ##9 especially allow % discount
+Pred-KW: anywhere else discuss boss
+
+A: no , i ' m afraid not , mary . may i take a message for her ?
+B: yes , please tell her that band practice has been moved to tuesday night at eight thirty .
+A: o . k . no problem . anything else ?
+B: no , but if she has any questions , she can call me at 555-2345 .
+A: all right , i ' ll leave her the message , mary . thanks for calling .
+Targ-B: thank you . bye .
+Pred-B: no problem .
+Targ-KW: bye
+Pred-KW: no problem .
+
+A: he's away on a business trip . he won't be back until some time next week .
+B: is there some way i can get into contact with him ?
+A: the best way to reach him is by cell phone . i'll give you his number .
+B: thanks . and could i have his e-mail , just in case i can't get him by phone ?
+A: sure . his cell phone is 09112223 33 . and his e-mail is lower case t , smith--that's one word , at , c , c , w , dot , com , dot , t , w .
+Targ-B: thank you so much . does he read his e - mails daily ?
+Pred-B: why don ' t you look into it and see if he left by car ? the customer gets through .
+Targ-KW: read e mail daily
+Pred-KW: look into car
+
+A: some new clothes . how about you ?
+B: same here .
+A: have you found anything nice yet ?
+B: i found a few pairs of pants .
+A: where'd you get those ?
+Targ-B: i found them at jc pennies .
+Pred-B: i found them at pennies .
+Targ-KW: jc penn
+Pred-KW: penn ##ies
+
+A: i ' m very pleased with their performances . timmy can cover the 100 meters in 12 seconds . that ' s very fast for a kid his age .
+B: he ' s not very good at the long jump though , is he ?
+A: he ' s not bad . he can jump a distance of over four meters . i think he just prefers running to jumping . jimmy ' s very good at the high jump . he can jump over two meters . again , that ' s fine for someone his age .
+B: two meters ? that means that the high jump bar is above his head ! are any of them good at long-distance running ?
+A: the longest race we run is the 1500 meters . a few of the boys and one girls can do it in less than five minutes .
+Targ-B: how are they at swimming ?
+Pred-B: how are they at swimming ? does he have a good jump on the field ?
+Targ-KW: swimming
+Pred-KW: swimming
+
+A: let's do something outdoors today .
+B: all right . but i don't want to play tennis . we played tennis last weekend .
+A: okay . what do you want to do ?
+B: i want to go jogging .
+Targ-A: all right . that sounds like fun .
+Pred-A: good idea . i ' m too tired .
+Targ-KW: sounds fun
+Pred-KW: re tired
+
+A: what did you do last night ?
+Targ-B: i just stayed at home and watched tv .
+Pred-B: i just stayed at home and watched tv .
+Targ-KW: stayed watched
+Pred-KW: stayed watched
+
+A: can i help you ?
+B: yes , i would like to buy a walkman . can you tell me about the models you have ?
+A: well , we have a lot of models here . did you want to listen to cd's or cassettes or the radio ?
+Targ-B: mostly cassette tapes .
+Pred-B: i would like to know why the cd player is so popular in mind .
+Targ-KW: tapes
+Pred-KW: checked letters
+
+A: but you should tell me you were in love with her .
+B: didn't i ?
+A: you know you didn't .
+B: well , i am telling you now .
+A: yes , but you might have told me before .
+Targ-B: i didn ' t think you would be interested .
+Pred-B: i didn ' t think you would be interested .
+Targ-KW: didn would interested
+Pred-KW: didn would interested
+
+A: how about going to the cinema tonight ?
+Targ-B: that ' s great . what ' s on tonight ?
+Pred-B: that ' s great . what ' s on tonight ?
+Targ-KW: s great tonight
+Pred-KW: s great tonight
+
+A: why do you like it best ?
+B: i enjoy the various characters and the plot .
+A: well . i like the thom birds best .
+B: is it very interesting ?
+A: sure . i like the writer's language , too .
+Targ-B: if i have a chance , i ' ll enjoy the book .
+Pred-B: if i have a chance , i ' ll enjoy the book .
+Targ-KW: chance enjoy book
+Pred-KW: chance enjoy book
+
+A: can you speak japanese ?
+Targ-B: yes , i can , but not very well .
+Pred-B: yes , i can , but not very well .
+Targ-KW: not very well
+Pred-KW: not very well
+
+A: look at the show on tv . i am watching a food show at a very famous seafood restaurant . i really want to eat at that restaurant . i am a seafood lover .
+B: speaking of seafood , my mouth is watering . let's go to the seafood restaurant in our neighborhood .
+Targ-A: sound great . let ' s go !
+Pred-A: good idea . i will call them to see if they can get in .
+Targ-KW: sound great
+Pred-KW: idea call them
+
+A: where ' s sally , jack ?
+Targ-B: she ' s in the garden , jane .
+Pred-B: she told me that she ' s got tennis practice today .
+Targ-KW: garden jane
+Pred-KW: she tennis practice
+
+A: lily , can you take part in our picnic this weekend ?
+B: that sounds great . where are you going ?
+Targ-A: i think we can go to the river , go around and have supper .
+Pred-A: we plan to go to a forest in the suburb . there is a beautiful river there . we can do some fishing .
+Targ-KW: go river around supper
+Pred-KW: we plan forest suburb there river fishing
+
+A: yes , i can . i have received some special training in computers . besides i am good at operating common office machines , such as fax machines and duplicating machines .
+B: sometimes we are very busy and need to work overtime . how do you feel about that ?
+A: that's all right . but could you tell me how often and how many hours i should work overtime ?
+B: it just depends . if we have important visiting delegations , you have to stay with us . it's not unusual .
+A: mr . smith , i's like to ask you a question .
+Targ-B: ok , please .
+Pred-B: what ?
+Targ-KW: ok
+Pred-KW: what ?
+
+A: tom , is jenny crying ?
+B: can you take he away from me ?
+Targ-A: i ' m just coming for that .
+Pred-A: i ' m just coming for that .
+Targ-KW: just coming
+Pred-KW: just coming
+
+A: i need to take the driver's course . how many hours do i need ?
+B: it depends on what you're trying to do with the completion of the course .
+A: i need to get my license .
+B: you're going to need to complete six hours .
+A: how many hours a day can i do ?
+Targ-B: you can do two hours a day for three days .
+Pred-B: you can take care of 7 hours a day .
+Targ-KW: hours three days
+Pred-KW: sir
+
+A: man , i'm hungry . do you know a good place to have lunch ?
+B: yes , i know a great place . what types of food do you like ?
+A: mexican , japanese or chinese would be great .
+Targ-B: oh , i know a place where you might like to eat .
+Pred-B: do you know any chinese restaurants in america ? they are very good .
+Targ-KW: place might eat
+Pred-KW: chinese restaurants america
+
+A: hi , victor . how are you ?
+B: oh , i'm fine .
+A: so , are you going to go to class tonight ?
+B: maybe ... but i don't think so .
+A: really ? what's the matter ?
+Targ-B: i don ' t know . i ' m just feeling a little sad .
+Pred-B: professor donald , are you giving your advanced geology course again ?
+Targ-KW: just feeling little sad
+Pred-KW: professor donald advanced geology
+
+A: with the job ?
+B: with everything , with everybody , with all this !
+A: a good suggestion for you . you need a holiday .
+B: it wasn't always like this , you know .
+A: what do you mean ?
+Targ-B: well , i mean . we always do the same thing . there ' s no variety in our lives .
+Pred-B: well , i mean . we always do the same thing . there ' s no variety in our lives .
+Targ-KW: mean always same thing variety lives
+Pred-KW: mean always same thing variety lives
+
+A: i prefer potatoes to eggplants .
+B: i feel eggplants are more nutritious .
+Targ-A: but as a matter of fact , potatoes taste better .
+Pred-A: have you ever had one before ?
+Targ-KW: fact potatoes taste
+Pred-KW: ever before
+
+A: hey , son , are you insured ?
+B: not yet , but i'm thinking of it . have you bought one , dad ?
+A: i took out a life insurance policy and made your mother the beneficiary .
+B: can you tell me why you want to buy it ?
+Targ-A: i am a fireman and it is a dangerous job . i have to consider your mother ' s life .
+Pred-A: well , my wife doesn ' t like us very much . it ' s so expensive that i can ' t afford to pay a risk on the
+Targ-KW: fire ##man dangerous consider mother life
+Pred-KW: wife t children so expensive afford risk
+
+A: how do you think they could be ended ?
+B: i don't think that there is any easy way . the united nations could send peacekeepers into the country . at least then the warring parties could be forced to negotiate .
+Targ-A: so , if the cause is poverty , there should be a program to make the country richer . if the problem is resources , share them .
+Pred-A: if there ' s a problem , somebody should ask them . if they have a good cause of poverty , then the government will have to negotiate .
+Targ-KW: if the cause poverty program richer resources share
+Pred-KW: if somebody ask contract
+
+A: can you tell me the best way to look for an apartment ?
+B: the local newspaper has ads for housing .
+A: is there any way to find a roommate to share an apartment with ?
+B: sometimes you can post an advertisement saying that you need a roommate .
+Targ-A: what do landlords charge for rent ?
+Pred-A: are apartments expensive in this city ?
+Targ-KW: landlord rent
+Pred-KW: apartments expensive
+
+A: yeah , that's why i can enjoy myself in it .
+B: did you always like pop music .
+A: i think so , since i was in primary school . how long have you been interested in classical music .
+B: i didn't like it at all until i started to learn violin when i was eight . from then on . classical music has been an important part of my life .
+A: oh , i didn't know you can play the violin . do you still play .
+Targ-B: sometimes , but these days i ' m often too busy .
+Pred-B: sure . it ' s good to know some specialties .
+Targ-KW: sometimes often busy
+Pred-KW: some special ##ties
+
+A: how much will my pay be , if you don ' t mind my asking ?
+Targ-B: we would like to start you off at 1 , 500 yuan a month , not including bonus and overtime pay . we don ' t give bonus every month , but we offer a semi - annual bonus . and you will receive two weeks paid vacation a year , as well . does it suit you ?
+Pred-B: let me see . a roasted duck is 15 dollars . a plate of pork is 10 dollars . a bowl of beef is 6 dollars . two bottles
+Targ-KW: we 1 , 500 yuan a month including bonus overtime semi annual receive weeks paid vacation suit
+Pred-KW: a roasted duck is dollars plate of pork bowl beef bottles beer 34
+
+A: yes , i bought a few things .
+B: what did you buy ?
+A: i bought this coat . do you like it ?
+B: yeah , i like it a lot . it's very pretty . where did you buy it ?
+A: at the mall on 5th street .
+Targ-B: was it expensive ?
+Pred-B: oh , i see it .
+Targ-KW: expensive
+Pred-KW: oh
+
+A: speaking of seafood , my mouth is watering . let's go to the seafood restaurant in our neighborhood .
+B: sound great . let's go !
+A: look at the crystal clear fridge . you can see so many kinds of seafood in it . they all look very fresh and delicious .
+B: true . i would like to have some salmon sashimi and a roast salmon head .
+A: you sound like a seafood expert . i would like to have some stir-fried squids and steamed shrimps .
+Targ-B: you are not too bad as well . i also want to have a steamed lobster . it is really taste like heaven .
+Pred-B: ok , i ' ll be sitting over for dinner and cook . it ' s a big party . let ' s go !
+Targ-KW: bad as also steamed lobster taste heaven
+Pred-KW: sitting dinner cook
+
+A: no , thank you .
+B: would you like a drink ?
+A: let me have a soda .
+B: what kind of soda would you like ?
+A: may i have a sprite , please ?
+Targ-B: sure , no problem .
+Pred-B: would you like anything else ?
+Targ-KW: problem
+Pred-KW: else
+
+A: can i make a reservation for flight fw58 to san marino ?
+B: sure . when do you want to take the plane ?
+A: next monday .
+B: will that be first class or economy seat ?
+A: what's the fare for a first class seat ?
+Targ-B: $ 200 .
+Pred-B: it ' s $ 150 .
+Targ-KW: $ 200 .
+Pred-KW: 150
+
+A: yes , g stands for general audiences , pg means parental guidance suggested , r is restricted to audiences under 18 and x means explicit content .
+B: does anyone pay any attention to those ratings anymore ?
+A: remember when we were kids ? theaters wouldn't let kids in to pg moves without a parent .
+B: i remember that i never saw an x moves even displayed .
+A: now with video rentals it's all a personal matter .
+Targ-B: yea , i never see theaters turn people away for their age anymore either .
+Pred-B: what do you mean ? as long as the movie criticizes tv that we can raise money for kids on tv , and that ' s ok .
+Targ-KW: ye ##a theaters age
+Pred-KW: as movie critic ##izes raise kids
+
+A: not very well .
+B: why ? looks like you're feeling very down ! what happened ?
+A: nothing .
+B: come on . for a man who's feeling so , down , there're usually two reasons . either his career is going downhill , or he has a broken heart . since you're so successful , it must be the latter .
+A: well , you're right . i just broke up with jane .
+Targ-B: oh , i ' m sorry . i thought you two were made for each ocher .
+Pred-B: oh , i ' m sorry to hear that . by the way , what about john ?
+Targ-KW: thought made each och ##er
+Pred-KW: oh sorry hear
+
+A: weren't you taught that yellow means slow down , not speed up ?
+B: i did learn that .
+A: so , then why did you speed up ?
+B: i don't know what to tell you .
+A: i'm going to have to write you a ticket .
+Targ-B: i understand .
+Pred-B: i understand , and i guess .
+Targ-KW: i understand .
+Pred-KW: understand
+
+A: alright . well . we have many units without auto-reverse . here is a good unit . very reliable . it has an am / fm band , built-in microphone , recording capability , and no auto-reverse .
+B: how much is it ?
+A: this one sells for $ 39 . 99 .
+B: can i test it out ?
+A: of course .
+Targ-B: it sounds great . i ' ll take it .
+Pred-B: that ' s easy . please ask me for a room . how much is it ?
+Targ-KW: it sounds great
+Pred-KW: easy please ask
+
+A: now please tell me something about your past work achievements .
+B: all right , madam . when i was sales manager at the beijing friendship store . i succeeded in raising the yearly sales volume by 25 % and profit margins from 50 % to 80 % .
+A: that is quite an achievement ! do you consider it your most rewarding work experience ?
+Targ-B: i don ' t think so . i ' ll create further achievement in the future .
+Pred-B: i don ' t think so . i ' ll create further achievement in the future .
+Targ-KW: think create further achievement future
+Pred-KW: think create further achievement future
+
+A: what kind of flowers would you like ?
+B: i don't know . i don't know too much about flowers . can you recommend something ?
+A: ok . what's the reason you are sending her flowers ?
+B: today's her birthday and she told me she wants me to buy her flowers .
+A: do you know what kind of flowers she likes ?
+Targ-B: i ' m not sure . i know i should know that , but i can ' t remember right now .
+Pred-B: she will be interested in some of her roses . it ' s excellent .
+Targ-KW: i sure know should remember now
+Pred-KW: roses excellent birthday
+
+A: why not go again to celebrate out one-year anniversary ? we can go to the same beach , stay in the same hotel and enjoy a dinner in the same restaurant .
+B: are you kidding ? can you afford it ? do you think we can get a room on such short notice ?
+A: never mind that , i'll take care of it . are you available next week ?
+B: yeah , i think so .
+A: ok . i'll make the arrangements . it will be great .
+Targ-B: wonderful ! i ' ll start packing our suitcases .
+Pred-B: wonderful ! i ' ll start packing our suitcases . see you then .
+Targ-KW: wonderful packing suitcase
+Pred-KW: wonderful packing suitcase
+
+A: bill , do you know if the cafeteria around the corner's open today ?
+Targ-B: yes . they were open this morning when i came to work . they must ' ve finished remodeling . why do you want to know ?
+Pred-B: yes , i ' ve always been waiting for lunch . why don ' t you come to the dentist to pick up a new room in the library
+Targ-KW: they open morning came must finished ##mo ##del ##ing
+Pred-KW: always lunch little coming to dentist
+
+A: it's quit a big cafeteria , isn't it ?
+B: sure . i usually have my lunch here . the food is tasty and they offer a big variety .
+Targ-A: let ' s line up . the steak is very inviting . i ' ll have it .
+Pred-A: perhaps you ' re right . it ' s our counter - offer .
+Targ-KW: let line up steak inviting
+Pred-KW: perhaps counter
+
+A: what do you think about the equipment in our company ?
+B: we have to equip our company with a network of work stations at every office and show room as soon as possible .
+A: i also realized this issue . and office automation is essential .
+Targ-B: besides , internet tends to be more essential now in the information age .
+Pred-B: yes , i agree with you . we ' ll call them outside of our office . you know the service fee is very important .
+Targ-KW: internet tends essential age
+Pred-KW: agree call us to outside office
+
+A: what did you do last week ?
+B: we rappelled down the side of 300 - foot cliff . it was very exciting .
+A: wow ! that sounds like a lot of fun . i ' m sorry i missed it .
+B: well , you should come this weekend . i think you could do the climb .
+A: yeah , i will . see you then !
+Targ-B: o . k . see you .
+Pred-B: o . k . see you .
+Targ-KW: o k
+Pred-KW: o k
+
+A: do you use an anti-virus program to protect your computer ?
+B: yes , i do . i also use an anti-spyware program and a firewall . there are so many nasties on the internet and so many people who are trying to use the internet to hurt other users . you have to be very c
+A: how often do you run your anti-virus program ?
+Targ-B: i usually run it every few days . it finds a virus about half the time .
+Pred-B: i usually run it every few days . it finds a virus about four times a day .
+Targ-KW: run every finds virus half
+Pred-KW: usually run finds virus half
+
+A: honey , i need to have a talk with you .
+B: dad , i have to do my homework .
+Targ-A: no , honey , why didn ' t you go to cram school last night ?
+Pred-A: honey , it doesn ' t matter . i will teach you how to work .
+Targ-KW: honey cr ##am school night
+Pred-KW: honey doesn matter teach
+
+A: what shall i call him ?
+B: oh , you may call him uncle , or henry .
+A: what's he doing ?
+Targ-B: he ' s checking bags . he ' s an official in the customs .
+Pred-B: he ' s checking bags . he ' s an official in the customs .
+Targ-KW: he checking official customs
+Pred-KW: he bags official customs
+
+A: how much will my pay be , if you don ' t mind my asking ?
+B: we would like to start you off at 1,500 yuan a month , not including bonus and overtime pay . we don ' t give bonus every month , but we offer a semi-annual bonus . and you will receive two weeks paid vacation a year , as well . does it suit you ?
+Targ-A: yes , thank you . may i ask for an apartment ?
+Pred-A: yes , of course . the contract gets included in my annual bonus , a half - year paid vacation .
+Targ-KW: may ask apartment
+Pred-KW: contract gets included annual bonuses
+
+A: it is a very difficult climb because there are not many places to put your hands and feet .
+B: what did you do last week ?
+A: we rappelled down the side of 300 - foot cliff . it was very exciting .
+B: wow ! that sounds like a lot of fun . i ' m sorry i missed it .
+A: well , you should come this weekend . i think you could do the climb .
+Targ-B: yeah , i will . see you then !
+Pred-B: yeah , i will . see you then !
+Targ-KW: yeah then
+Pred-KW: yeah then
+
+A: will you be voting ?
+B: i can ' t wait to vote .
+A: who are you voting for ?
+B: the person i ' m voting for is the best .
+Targ-A: what do you like about him ?
+Pred-A: what do you do to ask anyone ?
+Targ-KW: about him
+Pred-KW: do anyone
+
+A: here's the course description guide .
+B: what do i do with it ?
+A: do you want me to help you ?
+Targ-B: please .
+Pred-B: of course .
+Targ-KW: please .
+Pred-KW: of course .
+
+A: so what do you provide ?
+B: first of all , we'll design a custom-made work-out plan according to your habits .
+A: how can you get that done ?
+B: well , we give each of our customers a personal trainer who is qualified . and he will give you a fitness assessment and then come up with the work-out plan for your needs .
+A: what else ?
+Targ-B: since everyone is different , your personal trainer will find you a suitable type of exercise equipment and teach you all the techniques to help you achieve your fitness level and goal .
+Pred-B: since everyone is different , your personal trainer will help you find out all the exercise equipments that are suitable for you fitness level . then you '
+Targ-KW: trainer suitable equipment teach techniques achieve fitness level goal
+Pred-KW: personal trainer all equipment suitable fitness level ##be taught necessary techniques
+
+A: hello , miss wu , this is dan robson calling from otc limited . i'd like to check my last order . when exactly was it sent out ?
+B: i can check that for you right now . would you mind holding ?
+A: sure . no problem .
+Targ-B: mr . robson , i ' m sorry . our computer system is down . could i call you back later ?
+Pred-B: mr . robson , i ' m sorry . our computer system is down . could i call you back later ?
+Targ-KW: mr robson computer system call later
+Pred-KW: mr robson computer system down later
+
+A: tom , is jenny crying ?
+B: can you take he away from me ?
+A: i ' m just coming for that .
+B: she kept bothering me .
+A: she ' s your sister . what she asked was only duck soup for you . why can ' t you be good to her ?
+Targ-B: but i am her brother , not her servant .
+Pred-B: but i am her brother , not her servant . how can she do her that ?
+Targ-KW: her brother servant
+Pred-KW: her brother servant
+
+A: i am more interested in a full-time position . however , i would also consider a part-time position .
+B: can you tell me about your responsibilities at your last job ?
+A: i advised customers on financial matters . after i consulted the customer , i completed a customer inquiry form and catalogued the information in our database . i then collaborated with colleagues to prepare the best possible package for the client . the clients were then presented with a summarized report on their financial activities that i formulated on a quarterly basis .
+B: what is your greatest strength ?
+A: i am an excellent communicator . people trust me and come to me for advice . one afternoon , my colleague was involved with a troublesome customer who felt he was not being served well . i made the customer a cup of coffee and invited both my colleague and the client to my desk where we solved the problem together .
+Targ-B: what is your greatest weakness ?
+Pred-B: what do you think is the most important thing to do with your previous work ?
+Targ-KW: weakness
+Pred-KW: most important thing
+
+A: over here is our gym . we have all the latest equipment .
+B: but i haven't used exercising equipment before . can you tell us some more details ?
+A: certainly . we have here the race apparatus , stationary bike , muscle builder set , chest expander , bar bell , dumb bell and so on .
+Targ-B: working in the gym is a very good way for losing weight . what else do you have ?
+Pred-B: i thinks it has about a thousand times . i can play badminton with my parents . i ' m not sure how to play badminton .
+Targ-KW: working gym losing weight else
+Pred-KW: thinks thousand times play badminton parents
+
+A: have you got any experience in advertising ?
+B: yes , i have been working in the public relations section of a company in the past two years . i plan the advertising campaign and cooperate the work of artists and typographers . sometimes i have to do the work of a specialist when there ' s something urgent .
+Targ-A: do you have any practical experience as a secretary ?
+Pred-A: what are you doing in a mirror or work during the interview ?
+Targ-KW: practical experience secretary
+Pred-KW: mirror shop
+
+A: helen , did you hear i ' m having a party ? next saturday in my place .
+Targ-B: i may have something on that day , but thanks for inviting me .
+Pred-B: i thought you said it was a good time . everyone will be inviting you .
+Targ-KW: may something thanks inviting
+Pred-KW: may something day inviting
+
+A: it's the circus .
+B: i don't want to sit there and watch them torturing the animals .
+A: oh , come on , they give them treat too . oh , look , that little monkey is so cute .
+B: cute ? hope so .
+A: oh , it is coming to us , come on , ben , get a banana to it .
+Targ-B: me ? no way , keep him away from me , please .
+Pred-B: oh , really ? where are you doing ?
+Targ-KW: me keep away
+Pred-KW: exactly feet
+
+A: america was discovered by christopher columbus in 1492 .
+B: in a way that's right . but the vikings travelled there long beforecolumbus . and what about the red indians ?
+A: all right . ask me a question now .
+B: who invented the electric light bulb ?
+A: that's easy . it was invented by edison .
+Targ-B: correct . now for a harder question . who will be the first men on mars ?
+Pred-B: so , it ' s the only way to make a british part of traveling by air , or so on .
+Targ-KW: correct harder question men mars
+Pred-KW: so british part traveling by tom
+
+A: would you please show me that mural ?
+B: certainly . here you are .
+A: it looks so beautiful . how much is it ?
+B: four hundred yuan .
+A: that's a bit more than i wanted to pay . can you cut the price down a bit ?
+Targ-B: i ' m sorry . ours is a fixed price shop and i can assure you this is the best price you can get for a mural like this .
+Pred-B: we just have to pay 20 % for it . could you give me some idea of what direction we go on the street ? it ' s going
+Targ-KW: ours is fixed price shop can assure this mural
+Pred-KW: we just estimated give idea direction on street
+
+A: yes . think about it carefully .
+B: oh , come on . tell me please . why did you book tickets to paris ?
+A: oh , honey ! don ' t you remember this important day to us ?
+B: sorry .
+A: it is our 10th wedding anniversary this june 20 .
+Targ-B: our 10th wedding anniversary ?
+Pred-B: really ?
+Targ-KW: 10th
+Pred-KW: really ?
+
+A: ella , it's been such a long week . i'm ready to go out and party . hey , let's go out for a night on the town .
+B: gosh , you took all the word right out of my mouth . let's go out and get crazy tonight .
+A: let's go to the new club on west street .
+B: sure , but what do i wear ?
+Targ-A: you can wear that pretty red dress .
+Pred-A: a dark suit . white shirt . no more than the usual usual .
+Targ-KW: wear dress
+Pred-KW: dark shirt
+
+A: can we choose a time to look at houses together ?
+B: can you do that in the mornings , or would the afternoons be best ?
+A: either way is good for me .
+B: there are a number of open houses this weekend in your area . would that okay with you ?
+A: i can take a little time off of work , or i can go on a weekend , also .
+Targ-B: we could meet at the real estate office , or i could pick you up at your home .
+Pred-B: i ' ll meet you at the real estate office , at 10 : 30 . i ' ll be there at 7 : 30 .
+Targ-KW: could at real estate pick
+Pred-KW: meet at real estate office pick
+
+A: honey , i need to have a talk with you .
+B: dad , i have to do my homework .
+A: no , honey , why didn't you go to cram school last night ?
+B: dad , i don't want to talk about it now .
+A: honey , if you don't want to go to cram school , you should tell me the reason why .
+Targ-B: i ' m sorry , dad . but i would rather stay at school than go to cram school .
+Pred-B: i know . is that all ?
+Targ-KW: dad rather stay school cr ##am
+Pred-KW: is all
+
+A: hello ! this is ruby speaking from g . o . t . international travel agency . what can i do for you ?
+Targ-B: i ' d like to make a reservation for my trip from detroit to beijing on april 13 on trans pacific airline .
+Pred-B: i ' ve got some documents here that go with the l / c number . is there a package to china ?
+Targ-KW: detroit april 13 trans pacific airline
+Pred-KW: documents l / c there package china
+
+A: what ' s the problem ? things are getting out of hand . you keep sticking your nose where it doesn ' t belong .
+B: what do you mean ?
+Targ-A: now , i am responsible for training new staff , but you keep overriding my authority by trying to pose your methods . i know you are a hotshot college graduate with something to prove . but i don ' t like your way .
+Pred-A: now , i am responsible for training new staff , but you keep overriding my authority by trying to pose your methods . i know you are a
+Targ-KW: responsible training staff but ##riding authority pose your methods hot ##shot college graduate prove
+Pred-KW: responsible training staff but ##riding authority trying pose your methods ##shot college graduate prove
+
+A: did you set your clock forward for daylight savings time ?
+B: what ? why do we have to do that ?
+A: well , at the start of the spring we usually have more daylight in the mornings and less in the afternoon . this is basically due to our position on the planet and the rotation of the earth . in any case , to take better advantage of the daylight available , we compensate by moving our clocks forward one hour .
+Targ-B: i see . that ' s convenient ! i never understood things like this , such as gmt . i never know what time zone we are in or when to change my clock !
+Pred-B: what ' s convenient ! i never understood things like this , such as gmt . i never know what time zone we are in or when to
+Targ-KW: convenient ! never understood such gm ##t zone change clock
+Pred-KW: convenient ! never understood such gm ##t zone change clock
+
+A: do you take a bus to and from work ?
+B: yeah , everyday . and there ' s only one choice . all the other buses are going the other direction .
+Targ-A: hmm . i have the same problem . when i leave work , it ' s always rush hour . so the buses are always crowded .
+Pred-A: hmm . i have the same problem . when i leave work , it ' s always rush hour . so the buses are always crowded .
+Targ-KW: hmm same leave always rush hour buses crowded
+Pred-KW: hmm same leave always rush hour buses crowded
+
+A: how upsetting ! he has been away for a week !
+B: i don't know if anything terrible has happened .
+A: i have reported it to the police .
+Targ-B: we ' d better prepare for the worst .
+Pred-B: what happened ?
+Targ-KW: prepare worst
+Pred-KW: happened
+
+A: do you have a package tour to hollywood ?
+B: yes , here is the table , which plans do you like best ?
+A: the seven-days trip shall be fine . how much is this tour ?
+B: $ 300 .
+Targ-A: we will take the trip . could you give us a pamphlet ?
+Pred-A: may i suggest our package tour ?
+Targ-KW: trip us pamphlet
+Pred-KW: suggest package tour
+
+A: we are looking for a bilingual secretary . do you think you are proficient in both written and spoken english ?
+Targ-B: i think my english is fairly good . as you can see from my cv , i graduated from university with a b . a . degree in english . i studied the english language and english literature systematically .
+Pred-B: yes , we are doing quite well . we can meet with a partner and have a good time together . what about this evening ? unforgi
+Targ-KW: my english fairly from cv graduated b degree studied language literature systematically
+Pred-KW: with a partner discussion evening un ##for ##gi ##vable
+
+A: you can have a free facial and then make up free for you . do you want it now ?
+B: probably not . doing that will probably take another three hours which i can't afford now .
+A: here is our number . call us when you are ready to come .
+B: you mean i should make an appointment ahead of time ?
+A: yes .
+Targ-B: got it . bye for now .
+Pred-B: that ' s great . thank you .
+Targ-KW: got bye
+Pred-KW: great see
+
+A: your own kids would get suzy's cold . i think it would be better to have a good babysitter here . but i don't know who to ask . i need someone more mature than jill . it might even be for two or three days .
+B: i know who we can ask . there is a girl i know , sara ralston . she is 17 , and she will usually take this kind of job . i know her from my church , and i trust her completely .
+A: i'd like to talk with her . this is short notice , i know . but hank and i are leaving tonight .
+B: i'll get you her number . i hope she can do it . she is very responsible .
+A: i'm glad you know someone . i knew you would be the best person to ask about this . i don't want to insult jill or her mother . i think jill maybe could do it . but i'd rather have someone a little older .
+Targ-B: i ' ll go home and get sara ' s number . i ' ll call her first myself .
+Pred-B: i ' ll go home and get sara ' s number . i ' ll call her first . but if you ' re doing her , i '
+Targ-KW: ' ll home sara number myself
+Pred-KW: ' ll home sara number myself
+
+A: how about going to the cinema tonight ?
+B: that's great . what's on tonight ?
+A: i am not sure about the name of the film , but i know it's a romantic one .
+B: romantic ? i am afraid i like thrillers better .
+Targ-A: don ' t you think it ' s too bloody ?
+Pred-A: don ' t you think it ' s too bloody ?
+Targ-KW: think too bloody
+Pred-KW: think too bloody
+
+A: now , tell me , what do you eat ?
+B: well , i don't eat any meat , but i do eat fish and eggs .
+A: do you eat a lot of vegetables ?
+B: oh yes , and fruit , i love fruit .
+A: what do you drink ?
+Targ-B: well , i never drink alcohol , coffee or tea . they are very bad for you .
+Pred-B: i ' ve got a coke . what kind of meat do you like ?
+Targ-KW: drink alcohol coffee tea bad
+Pred-KW: got a coke kind meat
+
+A: certainly , i can can help you with that . what type of account would you like to open ? a chequing or a savings account ?
+B: what what features do they offer ?
+A: well , if you just take a look here , see , with our chequing account , you can have unlimited daily transactions for a small monthly fee , and our savings account has a higher interest rate , but you must carry a minimum balance of $ 10,000 dollars .
+B: i see , well , i think i ' m more interested in a chequing account . i like to have easy access to my money .
+A: alright , then , with this chequing account you ' ll be issued a debit card and a cheque book . will you require overdraft protection ? there is an extra fee for that .
+Targ-B: no , that won ' t be necessary .
+Pred-B: no , that won ' t be necessary . but i think i ' ll need a chequing account to close my account .
+Targ-KW: won necessary
+Pred-KW: won necessary
+
+A: yeah , if you ' re a girl .
+B: well , you just want to watch dark angel because of the hot girl .
+A: that ' s not true . dark angel is a good show .
+B: it ' s story is just an excuse to get the girl dressed up in different tight outfits .
+A: o . k . , o . k . let ' s forget it . there ' s a football game on too .
+Targ-B: no way . i ' m watching ally mcneal . go to john ' s to watch the game .
+Pred-B: look at that one - hand . i ' ll find out she is right on the 7 o ' clock .
+Targ-KW: watching ally mc ##nea ##l john
+Pred-KW: hand zone find out
+
+A: i hear you are planning to travel abroad .
+Targ-B: yes . i ' m going to the untied states for travel . what places do you recommend ?
+Pred-B: yes , i ' m going to travel by an agency , but i have decided to go there .
+Targ-KW: un ##tie ##d states travel places
+Pred-KW: going to travel agency decided yet
+
+A: hey , could you help me try and figure out how to get ready for my job interview ?
+Targ-B: the most important thing to do is to make sure you know the company and what services or products it provides . do you know all about them ?
+Pred-B: sure . that would be very good . you need to be prepared for a job and start with the budget .
+Targ-KW: most important thing do know services products provides
+Pred-KW: that be prepared better confident job
+
+A: it ' s ten yuan .
+B: here you are .
+A: this is your luggage check which you must show when you disembark at your destination and here is your boarding pass and your ticket .
+B: thanks .
+A: now , please wait until your flight is called . there's about twenty-five minutes to go .
+Targ-B: i ' m a little nervous . i ' ve never flown before .
+Pred-B: it ' s a little nervous . i have never flown before . is that right ?
+Targ-KW: little nervous never flown
+Pred-KW: nervous never flown
+
+A: do you have a free moment ?
+B: sure . what do you need ?
+A: i'm having some trouble . how do you use this printer ?
+B: well , first you have to turn this switch on .
+A: silly me .
+Targ-B: now press this button .
+Pred-B: now press this button .
+Targ-KW: press
+Pred-KW: button
+
+A: you guys are charging me $ 10 for a movie that i never ordered or saw .
+Targ-B: let ' s see , sir . according to your file , you watched ' titanic ' monday evening .
+Pred-B: well , that ' s $ 5 . 00 , please give me some instructions . that ' s okay .
+Targ-KW: according file watched titanic monday evening
+Pred-KW: $ 5 00 give instructions
+
+A: would you like your bags to be taken to your room ?
+B: yes , please .
+A: ok . i'll get the bellman to taka them up . which bags are yours ?
+B: my luggage is in the corner over there . they are the leather suitcase , the canvass holdall and the blue backpack .
+A: ok .
+Targ-B: please be careful with the suitcase , it ' s very heavy .
+Pred-B: thanks . i ' m looking forward to seeing you . have a good trip ! are you sure tom can help johnny with your keys ?
+Targ-KW: careful suitcase heavy
+Pred-KW: thanks looking forward seeing
+
+A: welcome to the company . we are conducting a survey of new employees to find out what influenced them to choose our company .
+B: that's easy . it was your office ergonomics that decided me .
+Targ-A: you ' re kidding ! something as simple as that ?
+Pred-A: what ' s your main idea in this position ?
+Targ-KW: kidding as simple
+Pred-KW: main role
+
+A: good morning . thank you for the interview .
+B: no problem . now , do you prefer working with others or flying solo ?
+Targ-A: actually , i enjoy both .
+Pred-A: i wish i could .
+Targ-KW: both
+Pred-KW: wish
+
+A: good morning , sir . may i see your passport ?
+B: yes , of course . here it is .
+Targ-A: thank you . are all these yours ?
+Pred-A: when was your birth date ?
+Targ-KW: these yours
+Pred-KW: birth date
+
+A: this is just for you . cheers ! bottoms up .
+Targ-B: en . . . it tastes good . i appreciate what you have done for me .
+Pred-B: what would you like to drink ? you are making a nice point .
+Targ-KW: en . tastes appreciate done
+Pred-KW: drink making nice point
+
+A: yes , it's yao lan . room 406 .
+B: and how many pieces did you have ?
+A: two suitcases and a handbag . the suitcases are blue and the shoulder bag is red .
+B: is there a name tag attached to them ?
+A: yes , there is .
+Targ-B: we ' re very sorry for the delay . i ' ll check immediately and call you back .
+Pred-B: ok , i ' ll send this hotel to pick you up at 12 : 00 . where should i make a call ?
+Targ-KW: delay check immediately call back
+Pred-KW: to hotel 12 : 00 call
+
+A: we are looking for a bilingual secretary . do you think you are proficient in both written and spoken english ?
+B: i think my english is fairly good . as you can see from my cv , i graduated from university with a b . a . degree in english . i studied the english language and english literature systematically .
+Targ-A: how are your typing and shorthand skills ?
+Pred-A: that ' s a good idea . how can you learn english ?
+Targ-KW: typing ##hand
+Pred-KW: interested how learn english
+
+A: i ' d like to apply for a personal loan .
+B: how much would you like to borrow ?
+A: a thousand dollars .
+B: let me check with a credit manager . a record show your credit reading is quite high . i don't think you have any problems .
+Targ-A: what ' s the current interest rate ?
+Pred-A: do you have a current account with us ? i mean , how about living in a band - offer 13 % to start with a mortgage ?
+Targ-KW: current rate
+Pred-KW: current interest
+
+A: do you consider yourself a good mother ?
+B: yes , i'm a very good mother and successful career woman .
+A: how can you manage to do both ? i mean , it is so hard to be a working mother .
+B: i think the most important thing is that you should be nice to yourself , like keeping housework simple , spending money on things that make life easier , buying yourself things you like , and so on . you can only be nice to others when you can be nice to yourself .
+Targ-A: does your husband feel the same ?
+Pred-A: but i always do my own business to help her .
+Targ-KW: husband feel
+Pred-KW: always own business
+
+A: yes . the government has banned price hikes in some key industries like energy .
+B: but i'm afraid the price hikes will spill over from food into other areas of the economy .
+A: you said it . i think we should tighten our budget and cut our spending .
+B: how ?
+A: for a start , we can take the public transport to work . you know , running a car is a big expense .
+Targ-B: sounds a good idea .
+Pred-B: but we ' re already working hard .
+Targ-KW: idea
+Pred-KW: already lot
+
+A: do you think my briefcase is big enough to put in all these stuff ?
+Targ-B: let me see . laptop , flash disk , a ballpoint pen , a pencil , a notebook , a pair of glasses , cell phone , charger , moisture lotion , . . . oh , that is too much . you are not going to a business trip .
+Pred-B: let me see . laptop , flash disk , a ballpoint pen , a pencil , a notebook , a pair of glasses , cell phone , charge
+Targ-KW: . laptop , flash disk a ball ##point pen pencil notebook pair glasses cell moisture ##ion
+Pred-KW: . laptop , flash disk a ball ##point pen pencil notebook pair glasses cell moisture notion
+
+A: please fill in the arrival card and sign the register .
+B: all right . which room shall i have ?
+Targ-A: room 202 , but i ' m afraid we have to ask for a deposit of $ 200 .
+Pred-A: i am in room 205 . my name is bill smith . when are you coming ?
+Targ-KW: 202 ask deposit $ 200
+Pred-KW: 205 name bill smith
+
+A: stupid girl , making me spend so much money , now i have to get it from the atm ...
+B: hello , welcome to universal bank . please insert your card into the slot .
+A: i know where to put my card ! stupid machine , talking to me like i ' m an idiot ...
+B: please input your 6 digit pin code followed by the pound key . thank you . please select an option . thank you . you have selected withdrawal .
+A: yeah , yeah , i know what i selected . just gimme my money !
+Targ-B: please type the amount you would like to withdraw . thank you , you want to transfer 10000 usd to the world wildlife foundation . if this is correct please press 1 .
+Pred-B: please type the amount you would like to withdraw . thank you , you want to transfer 10000 usd to the world wildlife foundation . if this is
+Targ-KW: please amount withdraw 1000 ##0 usd wildlife foundation correct press
+Pred-KW: please withdraw transfer 1000 ##0 usd wildlife foundation correct press
+
+A: i want to see the man responsible for selling typewriters .
+B: my name is steven . i'm the sales manager of this company .
+A: well , look here . ten new typewriters were delivered to my company yesterday afternoon and only five of them work properly .
+B: oh , i'm sorry about that .
+A: never mind being sorry , what are you going to do about it ?
+Targ-B: don ' t worry , we ' ll soon fix them .
+Pred-B: i ' m going to do some overtime .
+Targ-KW: worry soon fix
+Pred-KW: maybe help
+
+A: hey jimmy . let's go workout later today .
+B: sure . what time do you want to go ?
+Targ-A: how about at 3 : 30 ?
+Pred-A: at 8 o ' clock , ok .
+Targ-KW: 3 30
+Pred-KW: 8 clock
+
+A: yeah , what ' s up ?
+B: next monday is my birthday , and i would like you to attend my party .
+A: wow . i'd love to .
+B: great !
+A: when and where ?
+Targ-B: five o ' clock that afternoon , and in my place , you know ?
+Pred-B: at the party ! it ' s a great party going on tomorrow evening . there ' s a prize for best costume !
+Targ-KW: five o clock afternoon
+Pred-KW: for halloween ! party evening prize costume
+
+A: how long will it take us to drive to london ?
+Targ-B: i think it ' s a distance of 180 kilometers from here to london , so it should be a two - hour drive on the motorway .
+Pred-B: i think it ' s a distance of 180 kilometers from here to london , so it should be a two - hour drive on the motorway .
+Targ-KW: it distance 180 kilometers london hour drive motorway
+Pred-KW: distance 180 kilometers london two hour drive motorway
+
+A: have you done any work in this field ?
+B: yes , after my graduation , i worked in a trade company in macao for one year .
+A: what section did you work in ?
+B: the export business section .
+A: so you must be very familiar with export procedures .
+Targ-B: yes , very much .
+Pred-B: yes , i am familiar with that .
+Targ-KW: much
+Pred-KW: yes
+
+A: did you pack this bag yourself ? has it been out of your possession at any time before checking-in ?
+Targ-B: yes , i packed it myself , and it hasn ' t been out of my possession .
+Pred-B: yes . i forgot to put it in my bag . i ' m in the box .
+Targ-KW: packed it myself hasn possession
+Pred-KW: . mom forgot out clock
+
+A: have you ever gotten a parking ticket ?
+B: i've never gotten one . have you ?
+A: i got a ticket yesterday .
+B: really ? what did you get one for ?
+A: i parked in the red zone .
+Targ-B: why did you do that ?
+Pred-B: i guess you have to wait a minute . the parking zone seems to be parked on it .
+Targ-KW: why
+Pred-KW: park zone
+
+A: can you help me plan the office party ?
+B: sure . what do you need the most help with , the food or entertainment ?
+A: i need help with food .
+Targ-B: ok , well , let ' s coordinate our efforts . should this party be formal or casual ?
+Pred-B: i need to tell you what , if the party is different from 7 : 30 and your drinks are already there at 8 o ' clock .
+Targ-KW: coordinate efforts party formal casual
+Pred-KW: told table 11 30 drinks hotel
+
+A: i'm not in the mood .
+B: it's the circus .
+A: i don't want to sit there and watch them torturing the animals .
+B: oh , come on , they give them treat too . oh , look , that little monkey is so cute .
+A: cute ? hope so .
+Targ-B: oh , it is coming to us , come on , ben , get a banana to it .
+Pred-B: seriously , i don ' t know them . how can i get him something ? i don ' t want him to do that . anyway , you
+Targ-KW: , coming us ben banana
+Pred-KW: seriously excited them get own special
+
+A: hi , monica , how is everything going ?
+B: everything goes well , but i am thinking about quitting my current job .
+A: why ? you ' re not satisfied anymore ?
+B: i just sense . but i cannot grow anymore . my boss is not really supporting me . i am interested in some positions in other jv companies , but i need to do some more in-depth research before i send my application letters out .
+A: that is important . doing research on a company you are interested in will definitely help your application .
+Targ-B: certainly , it is very nice talking with you . but i really have to go now . catch you later .
+Pred-B: certainly , it is very nice talking with you . but i really have to go now . catch you later . i am hearing from us that you
+Targ-KW: certainly nice talking now catch later
+Pred-KW: certainly nice talking now catch later
+
+A: hey julie , you want to go grab something to eat ?
+B: sure ! what do you feel like having ?
+A: i really feel like having a big juicy steak !
+B: oh . ok . i don't eat meat , but that's fine , i am sure wherever we are going they will have other options right ?
+A: i didn't know you were a vegetarian !
+Targ-B: i ' m not , i am a vegan .
+Pred-B: relly ? that ' s amazing .
+Targ-KW: am vega ##n
+Pred-KW: ##lly amazing
+
+A: you really should go to rachel's pet store .
+B: why ? anything special there ?
+A: it's more than special . you can find as many kinds of animals as you can put a name to and more .
+B: oh , really ? are there any snakes ?
+A: snakes ? there are even rodents and monkeys ! it's a world of exotic pets .
+Targ-B: that ' s terrific . i can ' t wait to check it out .
+Pred-B: what do you mean ? i heard that !
+Targ-KW: terrific wait check out
+Pred-KW: mean heard
+
+A: thank you , paul .
+B: by the way , would you like to have dinner with me tomorrow evening ? tomorrow is my birthday .
+A: good , happy birthday to you !
+B: not so soon . it ' s not my birthday today . well , you ' ll come , won ' t you ?
+A: sure , i will . thank you for inviting me .
+Targ-B: my pleasure .
+Pred-B: it ' s my pleasure .
+Targ-KW: my pleasure .
+Pred-KW: my pleasure .
+
+A: how is your new dormitory ?
+B: it's very nice . there are only four people , and those girls are very kind and friendly .
+Targ-A: well , do you all major in the same subject ?
+Pred-A: can i get a look at it for me ?
+Targ-KW: major same subject
+Pred-KW: get some
+
+A: your knowledge of english is really surprising .
+Targ-B: oh , it ' s nothing to speak of .
+Pred-B: oh , it ' s nothing to speak of .
+Targ-KW: oh nothing speak
+Pred-KW: oh nothing speak
+
+A: why not ? it's so cool .
+B: but it will pose a risk to your health .
+A: pardon ?
+B: i mean , most reptiles carry some harmful bacteria , they are likely to cause immune system problems .
+A: well , i didn't realize that .
+Targ-B: i don ' t believe it ' s a good choice to keep those pets , especially for families with young children .
+Pred-B: that ' s no problem . you can take good care of some medicine . you ' ll probably take care of all the animals you eat . i
+Targ-KW: choice pets especially families young children
+Pred-KW: that s problem . medicine rest probably care animals eat
+
+A: good choice !
+B: what kind of drinks do you have ?
+A: well , we have all kinds of beverages in addition to fruit juices .
+B: in that case , let me have a glass of orange juice .
+A: anything else ?
+Targ-B: i would like to have some tea as well .
+Pred-B: could i have a slice of pumpkin pie please ?
+Targ-KW: some tea as
+Pred-KW: slice pumpkin pie
+
+A: model of computers aren't compatible ?
+B: most current computer systems simply can't handle it because this model truly has extraordinary capabilities .
+A: maybe after the next generation of technology comes out , the price of this model will become more affordable .
+B: but by then , the technology will be outdated .
+A: true , but our focus has never been affordability anyway . coastwise , we may not be very competitive , but qualitywise , we definitely have an edge .
+Targ-B: that ' s right , no one else has a product on the market now that is comparable .
+Pred-B: that ' s no problem . i ' ll find it through the lobby . let ' s set priorities for people to drink and fail .
+Targ-KW: that else product market comparable
+Pred-KW: who find through lobby set priorities
+
+A: morning , zina . just wanted to say thanks again !
+B: hi , vince . thanks for stopping by . how's the work coming along for the online auction ?
+Targ-A: oh , yeah . i ' m glad you mentioned that . i think we need to hire somebody new to manage it .
+Pred-A: don ' t worry about it . i won ' t be happy about that . i explain to you about the new world .
+Targ-KW: yeah glad mentioned hire somebody new manage
+Pred-KW: t worry won happy explain trip
+
+A: ... so , i said , let ' s take a break . and since that night , i ' ve been waiting for him to call , but i still haven ' t heard from him . you don ' t think he ' s seeing someone else , do you ?
+B: come on , don ' t be so dramatic ! i ' m sure everything is going to work out just fine .
+A: you think so ? oh , no ! how can he do this to me ? i ' m sure he ' s cheating on me ! why else wouldn ' t he call ?
+B: but , you two are on a break . theoretically he can do whatever he likes .
+Targ-A: he ' s the love of my life ! i ' ve really messed this up .
+Pred-A: you said he had to get rid of me for the timing .
+Targ-KW: love life ve messed up
+Pred-KW: said rid timing
+
+A: oh hello , sally . this is dave thomson here . could i speak to jim please ?
+B: i'm afraid he's not in at the moment dave . he went out about an hour ago and he's not back yet .
+A: any idea when he might be back ?
+B: well , he shouldn't be long . he said he was just going to get some paint . but i wouldn't be surprised if he's stopped off at the pub on the way back .
+A: ok . well , tell him i've called , will you , and i'll try again later .
+Targ-B: all right . goodbye , dave .
+Pred-B: that ' s wonderful . thank you very much . bye - bye .
+Targ-KW: goodbye dave
+Pred-KW: wonderful thank
+
+A: really ? i've never heard that before . i just like it .
+B: is classical music your favorite ?
+A: yes . what about you ?
+B: i like pop music best . classical music is a bit too heavy for me . i can't get fully relaxed in it .
+A: pop music doesn't have any depth for me .
+Targ-B: yeah , that ' s why i can enjoy myself in it .
+Pred-B: i see what you mean . by the way , what ' s it about ? not very much ?
+Targ-KW: yeah enjoy myself
+Pred-KW: i see mean way much
+
+A: now , what seems to be the trouble ?
+B: it's nothing serious . but i always have a headache , and i haven't slept properly for several weeks . i've also lost appetite and my eyes are burning .
+A: mm , you do look rather pale . let me take your temperature . would you put the thermometer under your arm , please ? now , let me listen to your pulse . mm , do you feel weak ?
+B: yes , i never seem to have any energy .
+Targ-A: i ' ll give you a blood test . would you roll up your sleeve ? just as i thought . you ' re anemic . you ' d better pay more attention to your diet . eat plenty of fresh fruit and vegetables and food high in protein . and don ' t stay up late working . try to get more rest .
+Pred-A: i know , but my heart was now rising and i was feeling very good . it was dr . doubt that i was falling in blood . the
+Targ-KW: ' you blood test . roll up your sleeve ##emi ##c more attention diet plenty fresh fruit and vegetables protein
+Pred-KW: i heart was in my heart rising falling in blood eating young woman stopped
+
+A: do you have an appointment ?
+B: yes , he knows i'm coming . our meeting is set for 2 o'clock .
+A: i wonder if mr . smith forgot your meeting . i am afraid he left this office this morning and is not expected back until after 4 pm . let me find out if he made arrangements for someone else to meet with you in his place . will you please have a seat ?
+B: sure .
+A: yes , mr . mason , i just checked with our office manager , ms . terry , she said mr . smith briefed her on your project . she is just finishing up a meeting now . she could be with your shortly . would you like me to show you around while you are waiting ?
+Targ-B: that would be very nice . thank you .
+Pred-B: that would be very nice . thank you .
+Targ-KW: nice thank
+Pred-KW: nice thank
+
+A: were you able to attend friday night's basketball game ?
+B: i was unable to make it .
+A: you should have been there . it was intense .
+B: is that right . who ended up winning ?
+A: our team was victorious .
+Targ-B: i wish i was free that night . i ' m kind of mad that i didn ' t go .
+Pred-B: it was better to go there tonight . i didn ' t want to pass the game .
+Targ-KW: i wish free that night mad
+Pred-KW: game tonight to pass game
+
+A: i wish the politicians would quit digging up dirt about each other's past .
+B: i know . it really makes a mess of the whole election process .
+A: and it takes up all the news .
+Targ-B: the problem is that there always a large number of people who eat that kind of stuff up .
+Pred-B: that ' s great news . everyone knows that they ' re getting to vote for him .
+Targ-KW: large number of eat stuff
+Pred-KW: everyone knows
+
+A: i'm very sorry , sir . my car has broken down .
+B: sorry to hear that . can we do anything about it ?
+A: i'm afraid not .
+Targ-B: then i have to call another taxi , or i ' ll be late .
+Pred-B: oh , good . i see what happens then .
+Targ-KW: call another taxi late
+Pred-KW: oh see happens
+
+A: rock music really leaves me cold . what about you ?
+B: i'm crazy about it . it makes me very excited .
+A: then tell me what's good about it .
+Targ-B: it can ' t be expressed by words .
+Pred-B: i bet it ' s really good .
+Targ-KW: expressed words
+Pred-KW: bet
+
+A: room service . what can i do for you ?
+B: this is room 2012 . where is my laundry ? you promised to send to me this morning .
+A: well , let me check for you . i am sorry , sir . they mistook your order as a normal one . actualty it's an express laundry , is that right ?
+B: yes , i ordered the express service .
+Targ-A: sir , we are terribly sorry for that . we will refund the charge and send your laundry to your room 3 hours later . is that all right ?
+Pred-A: i see . then what ' s the address , the remittance , please ? i ' d like a / c number and 1 , 000
+Targ-KW: we terribly ref ##und charge send your laundry 3
+Pred-KW: then address ##mit ##tance d / c 12 rib express
+
+A: why is the price so high ?
+B: it's not just that the price is high , it's that the overhead to update an entire computer system to be compatible is costly .
+A: model of computers aren't compatible ?
+B: most current computer systems simply can't handle it because this model truly has extraordinary capabilities .
+A: maybe after the next generation of technology comes out , the price of this model will become more affordable .
+Targ-B: but by then , the technology will be outdated .
+Pred-B: i think this color is better than the design . have you received this award yet ? it ' s a real design center .
+Targ-KW: by technology outdated
+Pred-KW: color design received award
+
+A: if only our company prescribe flex time .
+B: the board has been considering introducing flex time .
+A: good news . ah , what if be even better if alternative work place is provided .
+Targ-B: then our entire job could be done by telecommuting .
+Pred-B: i am also not sure what ' s going on lately .
+Targ-KW: entire telecom ##mut
+Pred-KW: also strict doing lately
+
+A: billy , you are late again .
+B: i'm sorry i'm late . i overslept . is the manager here today ?
+A: yes he ' s in his office .
+Targ-B: oh , i hope he didn ' t notice me .
+Pred-B: i hope he didn ' t notice me at 6 : 00 in the morning .
+Targ-KW: hope didn notice
+Pred-KW: hope didn notice
+
+A: mr . carter has asked me to come over to invite you to the banquet held in your honor at the shangri-la hotel at 7:00 this evening . here's an invitation for you .
+B: how nice of him . i'll be delighted to go . but what time would be convenient ?
+A: if you could be ready by , say 6:30 o'clock , i'll be at the hotel to pick you up .
+Targ-B: that ' s great . it ' s most thoughtful of you to do this , miss rose .
+Pred-B: oh , i see . thanks for your help .
+Targ-KW: s most thoughtful miss rose
+Pred-KW: waiting for 7 : 30
+
+A: i met a girl in elevator this morning . she works in a company upstairs . she said she envied the casual way we dress for work . she complained about the dress rule in her company . it requires everyone to wear formal clothes from monday to friday .
+B: well , i was wondering where those people with professional attire come from . now , i know the answer .
+Targ-A: you know , in a sense , a suits and ties are compulsory for male employees even in july , and no jewelry allowed for most of the female employees . even the reasonable male leaf is returning the rule , isn ' t that strict ?
+Pred-A: you know , in a sense , a suits and ties are compulsory for male employees even in july , and no jewelry allowed for most of the female
+Targ-KW: , suits ties compulsory male employees even jewelry allowed female leaf returning rule strict
+Pred-KW: suits ties compulsory male employees even july jewelry allowed female leaf returning rule strict
+
+A: that's ok . i'll wait until you're finished . just out of curiosity , do you have a subscription for that magadize ?
+B: no . i don't buy it regularly enough for it to be worthwhile .
+A: how much does the magadize cost ?
+B: it's almost three pounds now , and i think they're going to put the price up to four pounds soon .
+A: that's quite expensive . who is their target audience ?
+Targ-B: cosmo mainly has a middle - class readership , but i think circulation will fall dramatically if the price goes up anymore .
+Pred-B: i ' m not sure . seriously , considering global warming , it ' s a bit hotter than 7 .
+Targ-KW: mainly middle readers ##hip circulation fall dramatically
+Pred-KW: seriously considering global warming hotter
+
+A: the hotel operator . anything i can do for you ?
+B: i've been trying to get through to the booking office for the last ten minutes . but the line has been engaged all the time . why is it taking so long ?
+A: i'm sorry to hear that . i'm afraid it is often the case during the peak hours . shall i ask them to call you when the line is free ?
+B: ok . please do so if it is not troublesome .
+Targ-A: no trouble at all . may i know your name and room number ?
+Pred-A: i ' m sure you ' ll enjoy yourself .
+Targ-KW: trouble name room number
+Pred-KW: enjoy yourself
+
+A: mr . crandall , i ' m sorry , but i really don ' t see the value in doing this entire project over from scratch . it would take a lot of work .
+B: that ' s certainly true . but , that ' s what this job is all about , maria . there's no doubt that this project is unacceptable .
+Targ-A: i agree . but i think that we can handle the problem by making a few major changes . i ' d appreciate it if you would give me a chance .
+Pred-A: tom , it ' s a hard time . i just think it ' s just a busy end of this year . you should know what we can
+Targ-KW: i agree handle making few major changes appreciate chance
+Pred-KW: tom a hard just thinking of busy end year
+
+A: what's your proposal ?
+B: your unit price is 100 dollars higher than we want . well , i suggest we meet each other halfway .
+A: do you mean a further reduction of 50 dollars in our price ? that's impossible !
+B: what would you suggest ?
+A: the best we can do is another 30 dollars off . that's definitely the lowest we can go .
+Targ-B: that still leaves a gap of 20 dollars . let ' s meet each other half - away again and split the difference , i think this is a price we can both be satisfied with .
+Pred-B: we can take a bus schedule . at the end of the week , we can have several tour groups to arrive at 10 pm by the end of
+Targ-KW: leaves gap 20 dollars each half away split difference both satisfied
+Pred-KW: leaves at 10 the end week several tour groups arrive
+
+A: yes , i am . i enjoyed studying it at school , though i had trouble remembering all the dates , so my teacher never gave me good marks .
+B: i love history , but i ' ve always thought that learning the reasons behind events is more important than remembering exactly when they happened .
+A: i wish you had been my history teacher ! i might have got better marks !
+B: some people say that history repeats itself .
+A: what does that mean ? the same events never happen twice , do they ?
+Targ-B: the idea is that the people and dates change , but the reason why things happen stay the same .
+Pred-B: the idea is that the people and dates change , but the other way they live on tv .
+Targ-KW: the dates change reason happen stay
+Pred-KW: the dates change reason happen stay
+
+A: excuse me , does this bus go to the new bookstore ?
+B: no , you'll have to get off at the bank , and take a no . 50 .
+A: thank you . how much is the fare to that stop ?
+B: one dollar .
+Targ-A: how many stops are there ?
+Pred-A: how many stops are there in this city ?
+Targ-KW: stops
+Pred-KW: stops
+
+A: hello , madam . what can we do for you today ?
+B: hi . i've been sent over from turner interiors . they said i need to collect some sort of l / c ? do you have it ?
+A: i certainly do . here it is , an export l / c from tokyo .
+B: it should be from sayuri beds . is that right ?
+A: yes , it is . sayuri beds , tokyo , japan .
+Targ-B: that ' s what i want ! do you need me to sign anything ? or fill in some forms ?
+Pred-B: good . could you hold the line , please ? i ' ll see the duplex suite .
+Targ-KW: want need sign anything fill forms
+Pred-KW: hold du ##plex suite
+
+A: steven , i'm going abroad by plane for the first time tomorrow . can you give me some advice ? and what should i pay attention to ?
+Targ-B: first , you should have enough sleep to get over the jet lag before the departure . most people will suffer from jet lag for a few days after a long flight .
+Pred-B: please wait a moment , mr . emory . i ' ll see if some designs for you . . . posters and silk are all local food .
+Targ-KW: enough sleep jet la ##g departure suffer few days flight
+Pred-KW: mr . emory wants designs posters all silk accounting local
+
+A: i am absolutely famished .
+B: yeah . i am too .
+A: where did you want to go for lunch ?
+B: i was thinking we should just go to the cafeteria .
+Targ-A: i don ' t think i ever got food from the cafeteria .
+Pred-A: i thought that i would just eat a hot dishes . watch where you live . 7 : 30 am .
+Targ-KW: ever food cafeteria
+Pred-KW: eat hot dishes might
+
+A: excuse me , could you give me change for a dollar ?
+B: i'll see what i have . what do you need it for ?
+Targ-A: i want to get cigarettes .
+Pred-A: i need some cigarettes .
+Targ-KW: cigarettes
+Pred-KW: cigarettes
+
+A: have you had any experience with computer ?
+B: yes , i studied in a computer training program , and can process data through the computer .
+A: that's fine . what about operating the fax and duplicator ?
+B: i can handle them without any trouble
+A: what have you learned from jobs you have held ?
+Targ-B: above all , i have learned that what is good for the company is good for me . so i follow the instructions strictly and always keep my boss informed .
+Pred-B: i learned a lot about business know - how and i learned very well . i have very basic information , and i like dealing with computers . i
+Targ-KW: above learned good for follow instructions strictly boss informed
+Pred-KW: i learned how to basic skills think and dealing computers system
+
+A: have any plans for the weekend , tom ?
+Targ-B: yeah , i ' m going for a hike in the southern rocky mountains .
+Pred-B: yes . i am going for a hike around the qinghai lake .
+Targ-KW: hike southern rocky mountains
+Pred-KW: hike qing ##hai lake
+
+A: yes , his marriage to katie is actually quite scandalous .
+B: i still think that they only got married to get more publicity for their movies and themselves .
+A: people in show biz can have such an easy life , i don't know why they have to make it so complicated .
+B: i would never want to be a celebrity because the paparazzi would also be after you .
+A: that's true . i guess it would be difficult to have people taking pictures of you everywhere you go .
+Targ-B: thank goodness we ' re not rich and famous !
+Pred-B: thank goodness we ' re not rich enough to make a date ! my goodness , i ' m not rich enough to make a job .
+Targ-KW: goodness rich famous
+Pred-KW: goodness rich famous
+
+A: why didn't you tell me you had a girlfriend ?
+B: sorry , i thought you knew .
+Targ-A: but you should tell me you were in love with her .
+Pred-A: but you should have told me you were in love with her .
+Targ-KW: were love her
+Pred-KW: told were love
+
+A: oh , yes , please . but you are just closing , aren't you ?
+B: well , yes , we are , madam . the shop shuts down in five minutes .
+A: i shall not keep you long then . it was about some saucepans you had in your window last week .
+B: last week , madam ? i really can't remember which ones you mean . what were they like ?
+A: oh , they were lovely . sort of imitation wood , dark brown color , country-style you know , and the lids , if i remember rightly , they had a sort of leaf pattern , or was it flowers ?
+Targ-B: that ' s strange . i don ' t recognize any of the ones we had from that description . are you sure they were in this shop ?
+Pred-B: let me see them for you . i am sorry . waiting for them next week . what about the special ?
+Targ-KW: that strange recognize ones had description were shop
+Pred-KW: them for waiting next week anyway
+
+A: do you like ethnic food ?
+B: i do ! my favorites are mexican , thai , and indian .
+A: really ? have you ever tried moroccan ?
+B: i can't say that i have . what are the basic ingredients ?
+A: i don't know . a friend of mine said i should try it .
+Targ-B: do you know where a moroccan restaurant is ?
+Pred-B: it ' s very expensive , right ?
+Targ-KW: moroccan restaurant
+Pred-KW: it expensive
+
+A: i am so glad that you decided to stop by !
+B: yes , it has been a long time since we have seen you .
+A: mary , can i get josh or you something to drink ?
+B: oh no , thank you . we aren't all that thirsty .
+A: how about a little snack then ?
+Targ-B: no , thank you , we just ate lunch a little while ago .
+Pred-B: no , i am kind of hungry right now .
+Targ-KW: ate lunch while ago
+Pred-KW: kind hungry
+
+A: excuse me miao li . could you tell me who jackie chan is ?
+Targ-B: certainly . jackie chan is a very famous movie star in hong kong . his chinese name is cheng long .
+Pred-B: certainly . let me see . . . lin , i know he transferred to our account from us yesterday . the great name is wang lin , from
+Targ-KW: jackie chan star hong kong cheng
+Pred-KW: . name lin transferred account yesterday
+
+A: great ! b , most of the items listed are available this year . i hope we can come to an agreement and sign the contracts , so as to enable our timely delivery .
+B: that sounds good . but i have a proposal now .
+A: what's the proposal ?
+B: both of our two parties were involved in the discussion previously . shall we also allow some of our clients to join us ?
+A: good idea ! in this way , our clients ' needs will be met and disagreements between the two parties avoided .
+Targ-B: sounds like we have the same idea .
+Pred-B: well , let me shake hands on that successful transaction . i hope it ' s the problem in june .
+Targ-KW: same idea
+Pred-KW: when shake successful transaction
+
+A: may i see your passport , please ?
+B: certainly . here it is .
+A: you are here on business , i think ?
+B: that's right . a german company has invited me for business talks .
+Targ-A: how long will you be staying ?
+Pred-A: oh , i am sorry . we are very pleased with this shipment .
+Targ-KW: long staying
+Pred-KW: place him
+
+A: it's said that john's broken up .
+B: really ? but his wife has always waited on him hand and foot .
+Targ-A: i hear that john ' s leading a double wife .
+Pred-A: poor guy ! i never thought he would be like that .
+Targ-KW: john leading double
+Pred-KW: never thought him
+
+A: oh , yeah , it ' s terrible . i will tell you the funniest thing i have seen in china . it ' s when so many people try to get onto one city bus , and the last guy is squeezed in so tight that the door is tightly pressed against his butt .
+B: that sounds terrible the way you describe it . but you know , not long ago i really suffered on the bus .
+A: what happened ? were you having a hard time getting on a bus ?
+B: you just can ' t imagine ! i waited for the first bus but it was too full , so i waited for the second , and it was still very crowded . then i decided not to wait for the next one , and got on the second bus . it was so full that i had to stand on one foot ! no kidding !
+A: hmm . good exercise , uh ?
+Targ-B: yeah , absolutely !
+Pred-B: yeah , absolutely !
+Targ-KW: absolutely
+Pred-KW: absolutely
+
+A: would you check the engine , please ? it is knocking .
+B: sure . do you want to have the car washed ?
+A: yes , please . when can you get it done ?
+Targ-B: you can pick it up in half an hour . by the way , how are you going to pay , cash or credit ?
+Pred-B: we will come this morning . let me finish the car in a moment . can you call me back ?
+Targ-KW: pick half hour way pay cash credit
+Pred-KW: we morning finish beautiful car last
+
+A: would you come to spend the weekend with us ?
+B: oh , i ' m afraid i can ' t . i ' ve had a date already .
+A: that ' s too bad .
+Targ-B: may be some other time .
+Pred-B: maybe i can come with you .
+Targ-KW: may
+Pred-KW: maybe

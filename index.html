@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <title>Dialogue Ranking</title>
+</head>
+
+<body>
+  <div style="height: 2em;"></div>
+  <div class="container">
+    <div class="row justify-content-md-center">
+      <div class="col">
+        <h1>标注说明</h1>
+      </div>
+    </div>
+    <div style="height: 2em;"></div>
+    <div class="row">
+      <div class="col-md-offset-2 col-md-10">
+        <p>数据来自数据集DailyDialog，其中主要是一些日常生活情景下的对话。</p>
+        <p>共有700条数据，每条数据是一个多轮对话，前面是模型输入，最后加粗字体的一行是的模型输出。对<b>粗体的最后一行</b>进行打分评价。</p>
+        <p>对每组对话的输出打一个整体分数，有1-5分五个分数等级。5分表示最好，1分表示最差。</p>
+        <div style="height: 2em;"></div>
+        <p>主要从语义的相关行，语言流畅度等方面整体考虑。</p>
+        <p>如果回复的句子<strong>整体语义上跟上文比较契合</strong>，即使有些许细节处不流畅或有少许语法错误，这个回复也是一个较好的回复。当然，如果语义契合，语法也没问题，得的分就更高。</p>
+        <p>如果回复句子的信息含量高，比如使用了上文中没有的新单词，引导对话继续进行下去，这个回复的得分就会高。</p>
+        <p>如果回复的是比较平庸的句子，比如I don't know. I'm not sure. oh...no.这样的，得分就会低。</p>
+        <div style="height: 2em;"></div>
+        <p>要评测句子都是神经网络模型输出的结果，跟真人的对话相比肯定还是差一些。所以请同学们<strong>适当控制给分比例</strong>，最低分1分和最高分5分也要占适当的比例，尽量避免所有的分数都集中在几个分数附近，而其它分值都很少出现的情况。</p>
+        <p>同学们可以先大概看几个对话，了解整体情况之后再开始给分。</p>
+        <p>同学们自己想几个英文字母作为自己的id，输在下面框里，然后点击下方的超链接就可以开始打分了。打分记录会随时自动保存，关了网页重新打开之前的记录也都在。</p>
+        <p>感谢同学们的支持~<p>
+      </div>
+    </div>
+    <div style="height: 2em;"></div>
+    <div id="app">
+      <div class="row justify-content-md-center">
+        <div class="col">
+          <h4>Input your name here:</h4>
+          <input v-model="name">
+        </div>
+      </div>
+      <div style="height: 2em;"></div>
+      <div id="app" class="row justify-content-md-center">
+        <div class="col">
+          <p>Click your link to start:</p>
+          <a :href="'http://101.124.42.4:1234/' + name">http://101.124.42.4:1234/{{ name }}</a>
+        </div>
+      </div>
+    </div>
+    <div style="height: 3em;"></div>
+  </div>
+
+  <script>
+    var app = new Vue({
+      el: '#app',
+      data: {
+        name: ''
+      }
+    })
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
+</body>
+
+</html>
